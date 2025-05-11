@@ -1,0 +1,9150 @@
+[
+   {"translation": {
+    "en": "absolute alcohol",
+    "ak": "mmosa a wɔmfraa mu"
+    }},
+  {"translation": {
+    "en": "absolute temperature scale",
+    "ak": "ɔhyew/onwini ankasa mpɛnpɛnso susude"
+  }},
+  {"translation": {
+    "en": "absolute zero",
+    "ak": "hwee ankasa"
+  }},
+  {"translation": {
+    "en": "absorb",
+    "ak": "Anonom (nonom)"
+  }},
+  {"translation": {
+    "en": "absorbency",
+    "ak": "adetwe tumi"
+  }},
+  {"translation": {
+    "en": "absorption",
+    "ak": "adetwe"
+  }},
+  {"translation": {
+    "en": "absorption coefficient",
+    "ak": "adetwe koɛfihyienti"
+  }},
+  {"translation": {
+    "en": "absorption plant",
+    "ak": "adetwe afifide"
+  }},
+  {"translation": {
+    "en": "absorption tube",
+    "ak": "adetwe durubɛn"
+  }},
+  {"translation": {
+    "en": "accelerated filtration",
+    "ak": "ntɛmso adesɔn"
+  }},
+  {"translation": {
+    "en": "acceleration",
+    "ak": "Ne mirika"
+  }},
+  {"translation": {
+    "en": "acceleration agent",
+    "ak": "ntɛmso nkanyande"
+  }},
+  {"translation": {
+    "en": "accelerator",
+    "ak": "aduru a ɛma dwumadi kɔ ntɛm so"
+  }},
+  {"translation": {
+    "en": "accelerometer",
+    "ak": "mmirika susude"
+  }},
+  {"translation": {
+    "en": "acceptor",
+    "ak": "aduru a egye ilɛktrɔn"
+  }},
+  {"translation": {
+    "en": "accuracy",
+    "ak": "mudi"
+  }},
+  {"translation": {
+    "en": "acetaldehyde",
+    "ak": "aldihaid nsu"
+  }},
+  {"translation": {
+    "en": "acetone",
+    "ak": "asitoni"
+  }},
+  {"translation": {
+    "en": "acetylene",
+    "ak": "adesɔ mframa"
+  }},
+  {"translation": {
+    "en": "acetylene series",
+    "ak": "adesɔ mframa ahorow"
+  }},
+  {"translation": {
+    "en": "acid",
+    "ak": "asede"
+  }},
+  {"translation": {
+    "en": "acid anhydride",
+    "ak": "asede anidraidi"
+  }},
+  {"translation": {
+    "en": "acid radical",
+    "ak": "asede radikal"
+  }},
+  {"translation": {
+    "en": "acid rain",
+    "ak": "soro nsu a  asid wom"
+  }},
+  {"translation": {
+    "en": "acid rain",
+    "ak": "soro nsu a asede wom"
+  }},
+  {"translation": {
+    "en": "acid salt",
+    "ak": "asede nkyene"
+  }},
+  {"translation": {
+    "en": "acid treating",
+    "ak": "asedeyi"
+  }},
+  {"translation": {
+    "en": "acid-base indicator",
+    "ak": "asede ne nea ɛnyɛ asede susude"
+  }},
+  {"translation": {
+    "en": "acid-base neutralization",
+    "ak": "asede ne nea ɛnyɛ asede nsesam"
+  }},
+  {"translation": {
+    "en": "acid-base titration",
+    "ak": "asede ne nea ɛnyɛ asede nsɔhwɛ"
+  }},
+  {"translation": {
+    "en": "acidic",
+    "ak": "nea asede wom"
+  }},
+  {"translation": {
+    "en": "acidic titrant",
+    "ak": "nhwehwɛmu nsu a asede wom"
+  }},
+  {"translation": {
+    "en": "acidification",
+    "ak": "asede a wɔde ka ho"
+  }},
+  {"translation": {
+    "en": "acidimeter or acidometer",
+    "ak": "asede susufiri"
+  }},
+  {"translation": {
+    "en": "acidity",
+    "ak": "asede dodow"
+  }},
+  {"translation": {
+    "en": "actinide series",
+    "ak": "aktinaidi ahorow"
+  }},
+  {"translation": {
+    "en": "actinium",
+    "ak": "aktiniɔm"
+  }},
+  {"translation": {
+    "en": "action",
+    "ak": "Adeyɔ"
+  }},
+  {"translation": {
+    "en": "action",
+    "ak": "adeyɛ"
+  }},
+  {"translation": {
+    "en": "activated complex",
+    "ak": "abɔde mu adewa ahorow a wɔakanyan"
+  }},
+  {"translation": {
+    "en": "activated support",
+    "ak": "mmoa a wɔakanyan"
+  }},
+  {"translation": {
+    "en": "activated water",
+    "ak": "nsu a wɔakanyan"
+  }},
+  {"translation": {
+    "en": "activation",
+    "ak": "nkanyan"
+  }},
+  {"translation": {
+    "en": "activation energy",
+    "ak": "nkanyan tumi"
+  }},
+  {"translation": {
+    "en": "activator",
+    "ak": "nkanyande"
+  }},
+  {"translation": {
+    "en": "active centers",
+    "ak": "mmeae a akanyan"
+  }},
+  {"translation": {
+    "en": "activity",
+    "ak": "dwumadi"
+  }},
+  {"translation": {
+    "en": "activity series",
+    "ak": "dwumadi ahorow"
+  }},
+  {"translation": {
+    "en": "adapt",
+    "ak": "Fa wo ho gye mu (sakra/sesa)"
+  }},
+  {"translation": {
+    "en": "adaptation",
+    "ak": "Sɛ wode woho regye (nsakrae/nsesae)"
+  }},
+  {"translation": {
+    "en": "addition agent",
+    "ak": "nkabom nkanyande"
+  }},
+  {"translation": {
+    "en": "addition polymer",
+    "ak": "nkabom pɔlima"
+  }},
+  {"translation": {
+    "en": "adhesive",
+    "ak": "Nkabomde/nea wɔde tare ade"
+  }},
+  {"translation": {
+    "en": "adiabatic calorimeter",
+    "ak": "adiabatik ɔhyew dodow susufiri"
+  }},
+  {"translation": {
+    "en": "adiabatic flame temperature",
+    "ak": "adiabatik ogya hyew"
+  }},
+  {"translation": {
+    "en": "adjust",
+    "ak": "Danedane"
+  }},
+  {"translation": {
+    "en": "adsorb",
+    "ak": "twe nsu ne mframa"
+  }},
+  {"translation": {
+    "en": "adsorbent",
+    "ak": "nea etumi twe nsu ne mframa"
+  }},
+  {"translation": {
+    "en": "adsorption",
+    "ak": "nsu ne mframa twe"
+  }},
+  {"translation": {
+    "en": "adsorption isobar",
+    "ak": "nsu ne mframa twe susuhama ma wim"
+  }},
+  {"translation": {
+    "en": "adsorption isotherm",
+    "ak": "nsu ne mframa twe susuhama ma ɔhyew"
+  }},
+  {"translation": {
+    "en": "adult",
+    "ak": "ɔpanyin"
+  }},
+  {"translation": {
+    "en": "advantage",
+    "ak": "Ediboa/mfaso a ɛwɔ biribi so"
+  }},
+  {"translation": {
+    "en": "affect",
+    "ak": "Ka a ɛka obi/biribi"
+  }},
+  {"translation": {
+    "en": "agent",
+    "ak": "nkanyande"
+  }},
+  {"translation": {
+    "en": "air",
+    "ak": "Mframa"
+  }},
+  {"translation": {
+    "en": "air mass",
+    "ak": "mframa mu duru"
+  }},
+  {"translation": {
+    "en": "air pressure",
+    "ak": "mframa tumi"
+  }},
+  {"translation": {
+    "en": "air pressure",
+    "ak": "mframa tumi"
+  }},
+  {"translation": {
+    "en": "air resistance",
+    "ak": "mframa a ɛkotia"
+  }},
+  {"translation": {
+    "en": "alcohol",
+    "ak": "mmosa"
+  }},
+  {"translation": {
+    "en": "aldehyde",
+    "ak": "aldihaidi"
+  }},
+  {"translation": {
+    "en": "alicyclic hydrocarbons",
+    "ak": "alisaikliki haidrokabɔnsi"
+  }},
+  {"translation": {
+    "en": "aliphatic hydrocarbons",
+    "ak": "alufatik haidrokabɔnsi"
+  }},
+  {"translation": {
+    "en": "alkalescency",
+    "ak": "alkalainiyɛ"
+  }},
+  {"translation": {
+    "en": "alkali",
+    "ak": "alkalai nkyene"
+  }},
+  {"translation": {
+    "en": "alkali metal",
+    "ak": "alkalai dade"
+  }},
+  {"translation": {
+    "en": "alkaline",
+    "ak": "alkalaini"
+  }},
+  {"translation": {
+    "en": "alkaline earth metals",
+    "ak": "alkalaini asase mu nnade"
+  }},
+  {"translation": {
+    "en": "alkane",
+    "ak": "haidrokabɔn a ekura CnH(2n+2) sɛso"
+  }},
+  {"translation": {
+    "en": "alkane derivative",
+    "ak": "nea wonya fi alkene mu"
+  }},
+  {"translation": {
+    "en": "alkene",
+    "ak": "alkini"
+  }},
+  {"translation": {
+    "en": "alkyl group",
+    "ak": "alkili kuw"
+  }},
+  {"translation": {
+    "en": "alkyne",
+    "ak": "adesɔ mframa"
+  }},
+  {"translation": {
+    "en": "allotrope",
+    "ak": "abɔde mu adewa a ɛyɛ soronko"
+  }},
+  {"translation": {
+    "en": "allotropy",
+    "ak": "adewa a ekura yɛbea ahorow"
+  }},
+  {"translation": {
+    "en": "alloy",
+    "ak": "nnade ahorow nkabom"
+  }},
+  {"translation": {
+    "en": "alpha emission",
+    "ak": "alfa mframayi"
+  }},
+  {"translation": {
+    "en": "alpha particle",
+    "ak": "alfa adewa"
+  }},
+  {"translation": {
+    "en": "alternate",
+    "ak": "Ɛsesa sesa"
+  }},
+  {"translation": {
+    "en": "alternating current",
+    "ak": "anyinam akɔneaba"
+  }},
+  {"translation": {
+    "en": "alto",
+    "ak": "Ɛnne a ɛwɔ soro/fam"
+  }},
+  {"translation": {
+    "en": "alum",
+    "ak": "alɔm"
+  }},
+  {"translation": {
+    "en": "alumina",
+    "ak": "alumina"
+  }},
+  {"translation": {
+    "en": "aluminate",
+    "ak": "alumina ne dade foforo nkabom"
+  }},
+  {"translation": {
+    "en": "aluminum",
+    "ak": "aluminɔm"
+  }},
+  {"translation": {
+    "en": "amalgam",
+    "ak": "nkabom"
+  }},
+  {"translation": {
+    "en": "amino acid",
+    "ak": "amino asede"
+  }},
+  {"translation": {
+    "en": "ammonia",
+    "ak": "amonia"
+  }},
+  {"translation": {
+    "en": "ammonia liquor",
+    "ak": "amonia nsu"
+  }},
+  {"translation": {
+    "en": "ammonification",
+    "ak": "amonia a wɔma ɛbam"
+  }},
+  {"translation": {
+    "en": "ammonium",
+    "ak": "amoniɔm"
+  }},
+  {"translation": {
+    "en": "amount",
+    "ak": "Ne dodoɔ"
+  }},
+  {"translation": {
+    "en": "ampere meter",
+    "ak": "anyinam susufiri"
+  }},
+  {"translation": {
+    "en": "amphibian",
+    "ak": "Aboa a otumi tena nsuo mu ne  asase so"
+  }},
+  {"translation": {
+    "en": "amphiprotic",
+    "ak": "te sɛ asede na ɛte sɛ besi nso"
+  }},
+  {"translation": {
+    "en": "amphoteric",
+    "ak": "te sɛ asede na ɛte sɛ besi nso"
+  }},
+  {"translation": {
+    "en": "amphoterism",
+    "ak": "te a ade te sɛ asede ne besi nyinaa"
+  }},
+  {"translation": {
+    "en": "amplitude",
+    "ak": "Abuso"
+  }},
+  {"translation": {
+    "en": "analysis",
+    "ak": "nhwehwɛmu"
+  }},
+  {"translation": {
+    "en": "analytical balance",
+    "ak": "nhwehwɛmu nnuru susufiri"
+  }},
+  {"translation": {
+    "en": "analytical chemistry",
+    "ak": "abɔde yɛbea ho nhomasua ho nhwehwɛmu"
+  }},
+  {"translation": {
+    "en": "analytical reagent",
+    "ak": "nhwehwɛmu aduru"
+  }},
+  {"translation": {
+    "en": "analyze",
+    "ak": "Hwehwɛ mu"
+  }},
+  {"translation": {
+    "en": "anatomy",
+    "ak": "Abosuo (mmoa bɔbea)"
+  }},
+  {"translation": {
+    "en": "ancestor",
+    "ak": "Nananom"
+  }},
+  {"translation": {
+    "en": "ancient",
+    "ak": "Tete"
+  }},
+  {"translation": {
+    "en": "anemometer",
+    "ak": "Afidie a esusu mframa mmirika"
+  }},
+  {"translation": {
+    "en": "angle",
+    "ak": "Angle"
+  }},
+  {"translation": {
+    "en": "angle",
+    "ak": "angil"
+  }},
+  {"translation": {
+    "en": "angstrom",
+    "ak": "angstrɔm susude"
+  }},
+  {"translation": {
+    "en": "anhydride",
+    "ak": "anidraidi"
+  }},
+  {"translation": {
+    "en": "anhydrous",
+    "ak": "nni nsu"
+  }},
+  {"translation": {
+    "en": "animal",
+    "ak": "Aboa"
+  }},
+  {"translation": {
+    "en": "Animalia",
+    "ak": "Mmoadoma"
+  }},
+  {"translation": {
+    "en": "anion",
+    "ak": "iɔn negetif"
+  }},
+  {"translation": {
+    "en": "anode",
+    "ak": "anyinam hama pɔsitif"
+  }},
+  {"translation": {
+    "en": "antacid",
+    "ak": "nea edi asede so"
+  }},
+  {"translation": {
+    "en": "antibiotic",
+    "ak": "Aduro a ɛkotia mmoawa"
+  }},
+  {"translation": {
+    "en": "antibody",
+    "ak": "Aduro bi a ɛwɔ nipadua mu yɛde ko tia yareɛ"
+  }},
+  {"translation": {
+    "en": "antichlor",
+    "ak": "nea edi klɔ so"
+  }},
+  {"translation": {
+    "en": "antienzyme",
+    "ak": "nea edi mmubude so"
+  }},
+  {"translation": {
+    "en": "antifebrin",
+    "ak": "nea etia mogyatowde"
+  }},
+  {"translation": {
+    "en": "antifoaming agent",
+    "ak": "nea edi ahuruwde so"
+  }},
+  {"translation": {
+    "en": "antifreeze",
+    "ak": "nea ɛmma ade nnyɛ nwini"
+  }},
+  {"translation": {
+    "en": "antimatter",
+    "ak": "nea etia abɔde"
+  }},
+  {"translation": {
+    "en": "antimony",
+    "ak": "antimoni dade"
+  }},
+  {"translation": {
+    "en": "antioxidant",
+    "ak": "nea edi nea mframa a yɛhome wɔ mu so"
+  }},
+  {"translation": {
+    "en": "antiseptic",
+    "ak": "nea ekum mmoawa"
+  }},
+  {"translation": {
+    "en": "appliance",
+    "ak": "Yɛde di dwuma (adwinnade)"
+  }},
+  {"translation": {
+    "en": "apply",
+    "ak": "Fa yɛ adwuma(fa di dwuma)"
+  }},
+  {"translation": {
+    "en": "appropriate",
+    "ak": "Ɛfata"
+  }},
+  {"translation": {
+    "en": "approximately",
+    "ak": "Fa w’anibu"
+  }},
+  {"translation": {
+    "en": "aqua",
+    "ak": "nsu"
+  }},
+  {"translation": {
+    "en": "aqueous",
+    "ak": "te sɛ nsu/nsu wom"
+  }},
+  {"translation": {
+    "en": "argon",
+    "ak": "argɔn"
+  }},
+  {"translation": {
+    "en": "aromatic",
+    "ak": "etu hua"
+  }},
+  {"translation": {
+    "en": "arrange",
+    "ak": "Hyehyɛ"
+  }},
+  {"translation": {
+    "en": "arsenic",
+    "ak": "arsinik esiam"
+  }},
+  {"translation": {
+    "en": "arsenic trioxide",
+    "ak": "arsinik triɔksaidi"
+  }},
+  {"translation": {
+    "en": "arsenical",
+    "ak": "wɔ arsinik"
+  }},
+  {"translation": {
+    "en": "arsenide",
+    "ak": "arsinik a pɔsitif ade wom"
+  }},
+  {"translation": {
+    "en": "artery",
+    "ak": "Ntini a mogya a efri akomam no fa mu"
+  }},
+  {"translation": {
+    "en": "arthropod",
+    "ak": "Aboa a onni kasɛɛ"
+  }},
+  {"translation": {
+    "en": "artificial radioactivity",
+    "ak": "redioaktif dwumadi a wɔahyɛ da ayɛ"
+  }},
+  {"translation": {
+    "en": "asexual",
+    "ak": "Onni bɔbeasu"
+  }},
+  {"translation": {
+    "en": "assemble",
+    "ak": "Boa ano"
+  }},
+  {"translation": {
+    "en": "assistant",
+    "ak": "boafo"
+  }},
+  {"translation": {
+    "en": "association",
+    "ak": "ekuo"
+  }},
+  {"translation": {
+    "en": "asteroid",
+    "ak": "Wiemboba"
+  }},
+  {"translation": {
+    "en": "astronomer",
+    "ak": "Nimdefoɔ ɔhwɛ wiemu nneɛma"
+  }},
+  {"translation": {
+    "en": "atmosphere",
+    "ak": "Ewiem nsɛm"
+  }},
+  {"translation": {
+    "en": "atmosphere",
+    "ak": "Wim"
+  }},
+  {"translation": {
+    "en": "atmospheric pressure",
+    "ak": "wim tumi"
+  }},
+  {"translation": {
+    "en": "atom",
+    "ak": "Atom"
+  }},
+  {"translation": {
+    "en": "atom",
+    "ak": "atɔm"
+  }},
+  {"translation": {
+    "en": "atomic absorption spectrometry",
+    "ak": "atɔmtwe nsusuwii"
+  }},
+  {"translation": {
+    "en": "atomic bond",
+    "ak": "atɔm nkabom"
+  }},
+  {"translation": {
+    "en": "atomic mass",
+    "ak": "atɔm mu duru"
+  }},
+  {"translation": {
+    "en": "atomic mass unit",
+    "ak": "atɔm mu duru susude"
+  }},
+  {"translation": {
+    "en": "atomic number",
+    "ak": "Atom nɔma"
+  }},
+  {"translation": {
+    "en": "atomic pile",
+    "ak": "atɔm mmoaboano"
+  }},
+  {"translation": {
+    "en": "atomic radius",
+    "ak": "atɔm mu tenten fa"
+  }},
+  {"translation": {
+    "en": "atomic weight",
+    "ak": "atɔm mu duru"
+  }},
+  {"translation": {
+    "en": "attract",
+    "ak": "Twe ba wo ho"
+  }},
+  {"translation": {
+    "en": "attraction",
+    "ak": "nea ɛtwetwe"
+  }},
+  {"translation": {
+    "en": "automatic",
+    "ak": "Ɛyɛ dɛn ara a ɛbɛba (Ɛtaa yɛ ade a nipa/afoforo mmoa nka\nho)"
+  }},
+  {"translation": {
+    "en": "available",
+    "ak": "Ɛwɔ hɔ"
+  }},
+  {"translation": {
+    "en": "Avogadro’s constant",
+    "ak": "Avogadro adesuade"
+  }},
+  {"translation": {
+    "en": "axis",
+    "ak": "Ntwaho dua"
+  }},
+  {"translation": {
+    "en": "azeotropic",
+    "ak": "asiotrɔpik"
+  }},
+  {"translation": {
+    "en": "bacteria",
+    "ak": "Aboawa"
+  }},
+  {"translation": {
+    "en": "baking powder",
+    "ak": "esiam a wɔde gu esam mu"
+  }},
+  {"translation": {
+    "en": "baking soda",
+    "ak": "soda a wɔde yɛ esiam"
+  }},
+  {"translation": {
+    "en": "balance",
+    "ak": "Nsɛneɛ (Nsɛnia/ Ɛyɛ pɛ)"
+  }},
+  {"translation": {
+    "en": "balance",
+    "ak": "Susufiri"
+  }},
+  {"translation": {
+    "en": "balanced equation",
+    "ak": "pɛyɛ asɛm a n'afa abien yɛ pɛ"
+  }},
+  {"translation": {
+    "en": "balanced forces",
+    "ak": "Ahoɔden a ahodoɔ a ɛyɛ pɛ (tumi hororw a ɛyɛ pɛ)"
+  }},
+  {"translation": {
+    "en": "bar graph",
+    "ak": "Nkonta mu nfonin"
+  }},
+  {"translation": {
+    "en": "bare",
+    "ak": "Ɛho da hɔ"
+  }},
+  {"translation": {
+    "en": "barium",
+    "ak": "bariɔm dade"
+  }},
+  {"translation": {
+    "en": "barium carbonate",
+    "ak": "bariɔm kabɔneti"
+  }},
+  {"translation": {
+    "en": "barium chloride",
+    "ak": "bariɔm nkyene"
+  }},
+  {"translation": {
+    "en": "barium nitrate",
+    "ak": "bariɔm nitreti"
+  }},
+  {"translation": {
+    "en": "barium sulfate",
+    "ak": "bariɔm sɔlfeti"
+  }},
+  {"translation": {
+    "en": "barometer",
+    "ak": "Afidie a esusu eweim tumi"
+  }},
+  {"translation": {
+    "en": "barometer",
+    "ak": "wim tumi susufiri"
+  }},
+  {"translation": {
+    "en": "barometric pressure",
+    "ak": "wim tumi wɔ susufiri so"
+  }},
+  {"translation": {
+    "en": "base",
+    "ak": "Besi"
+  }},
+  {"translation": {
+    "en": "basic anhydride",
+    "ak": "besi anidraidi"
+  }},
+  {"translation": {
+    "en": "battery",
+    "ak": "Batre"
+  }},
+  {"translation": {
+    "en": "battery",
+    "ak": "Batere"
+  }},
+  {"translation": {
+    "en": "bauxite",
+    "ak": "bɔksait agude"
+  }},
+  {"translation": {
+    "en": "beaker",
+    "ak": "nhwehwɛmu kuruwa"
+  }},
+  {"translation": {
+    "en": "bed",
+    "ak": "Mpa"
+  }},
+  {"translation": {
+    "en": "behavior",
+    "ak": "Suban"
+  }},
+  {"translation": {
+    "en": "beneficial",
+    "ak": "Ediboa/mfaso a ɛwɔ so"
+  }},
+  {"translation": {
+    "en": "beneficiation",
+    "ak": "Mpaepaemu"
+  }},
+  {"translation": {
+    "en": "benefit",
+    "ak": "Nnepa/mfaso"
+  }},
+  {"translation": {
+    "en": "Benz-aldehyde",
+    "ak": "Benz-aldehaidi"
+  }},
+  {"translation": {
+    "en": "Benzedrine",
+    "ak": "amfitamin sɛso bi"
+  }},
+  {"translation": {
+    "en": "benzene ring",
+    "ak": "benzene kawa"
+  }},
+  {"translation": {
+    "en": "benzene series",
+    "ak": "benzene ahorow"
+  }},
+  {"translation": {
+    "en": "benzene sulfonic acid",
+    "ak": "benzene asede a efi sufre mu"
+  }},
+  {"translation": {
+    "en": "benzenoid",
+    "ak": "nea ɛsɛ benzene"
+  }},
+  {"translation": {
+    "en": "benzoic acid",
+    "ak": "benzene asede"
+  }},
+  {"translation": {
+    "en": "benzyl alcohol",
+    "ak": "benzil mmosa"
+  }},
+  {"translation": {
+    "en": "berkelium",
+    "ak": "bɛkiliɔm"
+  }},
+  {"translation": {
+    "en": "beryllium",
+    "ak": "bɛriliɔm"
+  }},
+  {"translation": {
+    "en": "best",
+    "ak": "Papapaa a ɛwɔ mu (nea eye paa)"
+  }},
+  {"translation": {
+    "en": "beta particle",
+    "ak": "bita adewa"
+  }},
+  {"translation": {
+    "en": "big bang",
+    "ak": "Kwan a ewiase hyɛɛ aseɛ"
+  }},
+  {"translation": {
+    "en": "binary compound",
+    "ak": "nkabomde a emu ade yɛ abien"
+  }},
+  {"translation": {
+    "en": "binary fission",
+    "ak": "Emu paepae mmienu"
+  }},
+  {"translation": {
+    "en": "Binder",
+    "ak": "nea ɛka bom"
+  }},
+  {"translation": {
+    "en": "binding energy",
+    "ak": "nkabom tumi"
+  }},
+  {"translation": {
+    "en": "biochemical",
+    "ak": "nea ɛfa nnuru adwuma wɔ nkwa abɔde mu"
+  }},
+  {"translation": {
+    "en": "biomass",
+    "ak": "Tumi a efri nnua hyeɛ mu"
+  }},
+  {"translation": {
+    "en": "bird",
+    "ak": "Anomaa"
+  }},
+  {"translation": {
+    "en": "bismuth",
+    "ak": "bismut dade"
+  }},
+  {"translation": {
+    "en": "bleach",
+    "ak": "ade a wɔpa ho"
+  }},
+  {"translation": {
+    "en": "blink",
+    "ak": "Bɔ w’ani"
+  }},
+  {"translation": {
+    "en": "blizzard",
+    "ak": "Asukɔkyea (asukɔtweaa) a ano yɛ den"
+  }},
+  {"translation": {
+    "en": "block",
+    "ak": "Si kwan"
+  }},
+  {"translation": {
+    "en": "blood tissue",
+    "ak": "Mogya mu adeɛ (nneɛma)"
+  }},
+  {"translation": {
+    "en": "blood vessel",
+    "ak": "Ntini a mogya fa mu"
+  }},
+  {"translation": {
+    "en": "blossom",
+    "ak": "Eyi nhwere (ɛyɛ frɔmfrɔm/egu nhwiren)"
+  }},
+  {"translation": {
+    "en": "blowing agent",
+    "ak": "nea ehuw ade"
+  }},
+  {"translation": {
+    "en": "boil",
+    "ak": "Ehuru"
+  }},
+  {"translation": {
+    "en": "boiler scale",
+    "ak": "nea esi gya so susufiri"
+  }},
+  {"translation": {
+    "en": "boiling",
+    "ak": "ade rehuru"
+  }},
+  {"translation": {
+    "en": "boiling point",
+    "ak": "Berɛ a ehuru"
+  }},
+  {"translation": {
+    "en": "boiling point elevation",
+    "ak": "pɛnpɛnso a ade huru a wɔma so"
+  }},
+  {"translation": {
+    "en": "bond",
+    "ak": "Nkabom"
+  }},
+  {"translation": {
+    "en": "bond angle",
+    "ak": "nkabom angil"
+  }},
+  {"translation": {
+    "en": "bond energy",
+    "ak": "nkabom tumi"
+  }},
+  {"translation": {
+    "en": "bonding",
+    "ak": "nneɛma nkabom"
+  }},
+  {"translation": {
+    "en": "bone tissue",
+    "ak": "Dompe mu adeɛ"
+  }},
+  {"translation": {
+    "en": "borax",
+    "ak": "boraks dade"
+  }},
+  {"translation": {
+    "en": "boric acid",
+    "ak": "asede a borɔn wom"
+  }},
+  {"translation": {
+    "en": "boron",
+    "ak": "borɔn"
+  }},
+  {"translation": {
+    "en": "boron carbide",
+    "ak": "borɔn kabaidi"
+  }},
+  {"translation": {
+    "en": "boron hydride",
+    "ak": "borɔn haidraidi"
+  }},
+  {"translation": {
+    "en": "boron nitride",
+    "ak": "borɔn nitraidi"
+  }},
+  {"translation": {
+    "en": "boron silicate",
+    "ak": "borɔn nkyene"
+  }},
+  {"translation": {
+    "en": "bottle",
+    "ak": "Toa"
+  }},
+  {"translation": {
+    "en": "bounce",
+    "ak": "Ehurihuri"
+  }},
+  {"translation": {
+    "en": "Boyle’s law",
+    "ak": "Boyle mmara"
+  }},
+  {"translation": {
+    "en": "brain",
+    "ak": "Adwene (amemene)"
+  }},
+  {"translation": {
+    "en": "brake fluid",
+    "ak": "breki ngo"
+  }},
+  {"translation": {
+    "en": "branch-chain",
+    "ak": "nkorabata ahorow a ɛwɔ nkitahodi"
+  }},
+  {"translation": {
+    "en": "brass",
+    "ak": "kɔpa ne sinki nkabom"
+  }},
+  {"translation": {
+    "en": "brazing",
+    "ak": "Nkabom"
+  }},
+  {"translation": {
+    "en": "breeder reactor",
+    "ak": "nukliɛ afiri a ɛyɛ ade sen nea ɛhyew"
+  }},
+  {"translation": {
+    "en": "bright-line spectrum",
+    "ak": "hama a ɛhyerɛn ade horow"
+  }},
+  {"translation": {
+    "en": "brine",
+    "ak": "nkyene nsu"
+  }},
+  {"translation": {
+    "en": "bromine",
+    "ak": "bromin nsu"
+  }},
+  {"translation": {
+    "en": "bronchi",
+    "ak": "Ntini nketenkete wɔ aherawa mu"
+  }},
+  {"translation": {
+    "en": "bronze",
+    "ak": "brɔnse dade"
+  }},
+  {"translation": {
+    "en": "buffer",
+    "ak": "nea ɛnsesa ne pH"
+  }},
+  {"translation": {
+    "en": "bundle",
+    "ak": "Bɔ no boa (ka bom/kyekyere)"
+  }},
+  {"translation": {
+    "en": "Bunsen burner",
+    "ak": "Bunsen gya afiri"
+  }},
+  {"translation": {
+    "en": "buoyancy",
+    "ak": "Etumi tetɛ nsu ani (emu yɛ hare)"
+  }},
+  {"translation": {
+    "en": "buoyant force",
+    "ak": "Tumi a etumi ma adeɛ tetɛ nsuo ani"
+  }},
+  {"translation": {
+    "en": "burette",
+    "ak": "burɛti"
+  }},
+  {"translation": {
+    "en": "burning",
+    "ak": "ade hye"
+  }},
+  {"translation": {
+    "en": "butane",
+    "ak": "Buteni"
+  }},
+  {"translation": {
+    "en": "butyl",
+    "ak": "butyl"
+  }},
+  {"translation": {
+    "en": "butyl alcohol",
+    "ak": "butil mmosa/nsaden"
+  }},
+  {"translation": {
+    "en": "butylene",
+    "ak": "Butileni"
+  }},
+  {"translation": {
+    "en": "butyric acid",
+    "ak": "butyrik asede"
+  }},
+  {"translation": {
+    "en": "cadmium",
+    "ak": "cadmiɔm"
+  }},
+  {"translation": {
+    "en": "calcination",
+    "ak": "nnade nsakrae"
+  }},
+  {"translation": {
+    "en": "calcite",
+    "ak": "Kalsaiti"
+  }},
+  {"translation": {
+    "en": "calcium",
+    "ak": "Kalseɔm"
+  }},
+  {"translation": {
+    "en": "calcium",
+    "ak": "kalsiɔm"
+  }},
+  {"translation": {
+    "en": "calcium carbide",
+    "ak": "kalsiɔm kabaidi"
+  }},
+  {"translation": {
+    "en": "calcium carbonate",
+    "ak": "kalsiɔm nkyene"
+  }},
+  {"translation": {
+    "en": "calcium chloride",
+    "ak": "kalsiɔm nkyene a ɛtwe nsu"
+  }},
+  {"translation": {
+    "en": "calcium hydroxide",
+    "ak": "kalsiɔm hidroɔksaidi"
+  }},
+  {"translation": {
+    "en": "calcium hypochlorite",
+    "ak": "kalsiɔm asede a wɔde pa ade"
+  }},
+  {"translation": {
+    "en": "calcium oxide",
+    "ak": "kalsiɔm ɔksaidi"
+  }},
+  {"translation": {
+    "en": "calcium phosphate",
+    "ak": "mmoa nnompe mu aduru"
+  }},
+  {"translation": {
+    "en": "calcium sulfate",
+    "ak": "nkyene fitaa"
+  }},
+  {"translation": {
+    "en": "calculator",
+    "ak": "Afidie a yɛde yɛ nkonta"
+  }},
+  {"translation": {
+    "en": "californium",
+    "ak": "califɔniɔm"
+  }},
+  {"translation": {
+    "en": "calomel",
+    "ak": "esiam a wɔde yɛ aduru"
+  }},
+  {"translation": {
+    "en": "calorie",
+    "ak": "Aduane duro"
+  }},
+  {"translation": {
+    "en": "calorie",
+    "ak": "aduan mu ahoɔden susude"
+  }},
+  {"translation": {
+    "en": "calorimeter",
+    "ak": "aduan mu ahoɔden susufiri"
+  }},
+  {"translation": {
+    "en": "camera",
+    "ak": "Afidie a etwa nfonin"
+  }},
+  {"translation": {
+    "en": "camouflage",
+    "ak": "Ayɛ ne ho sɛ"
+  }},
+  {"translation": {
+    "en": "camphor",
+    "ak": "aduru a wɔde yɛ ɛyaw twetwede"
+  }},
+  {"translation": {
+    "en": "cancer",
+    "ak": "Kokoram"
+  }},
+  {"translation": {
+    "en": "capacity",
+    "ak": "tumi a ade wɔ"
+  }},
+  {"translation": {
+    "en": "capillary",
+    "ak": "Ntini nketenkete paa"
+  }},
+  {"translation": {
+    "en": "capture",
+    "ak": "Kyere"
+  }},
+  {"translation": {
+    "en": "carbide",
+    "ak": "Kabaidi"
+  }},
+  {"translation": {
+    "en": "carbocyclic",
+    "ak": "fa nea ɛwɔ kabɔn atɔm nkaawa ho"
+  }},
+  {"translation": {
+    "en": "carbohydrate",
+    "ak": "Kabohaidrete"
+  }},
+  {"translation": {
+    "en": "carbohydrate",
+    "ak": "aduannuru a ɛma ahoɔden"
+  }},
+  {"translation": {
+    "en": "carbon",
+    "ak": "kabɔn"
+  }},
+  {"translation": {
+    "en": "carbon (C)",
+    "ak": "Kaabɔn"
+  }},
+  {"translation": {
+    "en": "carbon black",
+    "ak": "kabɔn aduru a wɔde yɛ inki"
+  }},
+  {"translation": {
+    "en": "carbon cycle",
+    "ak": "kabɔn kyinhyia"
+  }},
+  {"translation": {
+    "en": "carbon dioxide",
+    "ak": "mframa a yɛhome ba"
+  }},
+  {"translation": {
+    "en": "carbon dioxide (CO₂)",
+    "ak": "Kaabɔn a oksegen mmienu tareho (mframa bɔne)"
+  }},
+  {"translation": {
+    "en": "carbon disulfide",
+    "ak": "kabɔn gyansu"
+  }},
+  {"translation": {
+    "en": "carbon monoxide",
+    "ak": "kabɔn a anhyew anwie mframabɔne"
+  }},
+  {"translation": {
+    "en": "carbon tetrachloride",
+    "ak": "kabɔn nsu a wɔde yi srade"
+  }},
+  {"translation": {
+    "en": "carbonate",
+    "ak": "kabɔn a wɔde hyɛ"
+  }},
+  {"translation": {
+    "en": "carbonic acid",
+    "ak": "kabɔn asede"
+  }},
+  {"translation": {
+    "en": "carbonic acid",
+    "ak": "kabɔn asede"
+  }},
+  {"translation": {
+    "en": "carboxyl",
+    "ak": "Kabosil"
+  }},
+  {"translation": {
+    "en": "carboxylic acid",
+    "ak": "kabosil asede"
+  }},
+  {"translation": {
+    "en": "carburation",
+    "ak": "kabɔn a wɔde fra"
+  }},
+  {"translation": {
+    "en": "carcinogen",
+    "ak": "nea ɛma kokoram"
+  }},
+  {"translation": {
+    "en": "cardiovascular system",
+    "ak": "Akoma ne ntini ho nhyehyɛeɛ"
+  }},
+  {"translation": {
+    "en": "carnivore",
+    "ak": "Aboa a ɔwe mmoa foforɔ nkoa (Aboa a ɔwe nam mono\nnkutoo)"
+  }},
+  {"translation": {
+    "en": "carrier",
+    "ak": "nea ekura ade nenam"
+  }},
+  {"translation": {
+    "en": "catalyst",
+    "ak": "Nkanyande"
+  }},
+  {"translation": {
+    "en": "category",
+    "ak": "Akuo"
+  }},
+  {"translation": {
+    "en": "catenate",
+    "ak": "hyehyɛ"
+  }},
+  {"translation": {
+    "en": "caterpillar",
+    "ak": "Osa"
+  }},
+  {"translation": {
+    "en": "cathode",
+    "ak": "anyinam hama negetif"
+  }},
+  {"translation": {
+    "en": "cause-end-effect relationships",
+    "ak": "Nea ɛde ba ne nea efri mu ba"
+  }},
+  {"translation": {
+    "en": "celestial",
+    "ak": "Ɛwɔ wiem"
+  }},
+  {"translation": {
+    "en": "cell",
+    "ak": "Sɛll (nkwammoa)"
+  }},
+  {"translation": {
+    "en": "cell",
+    "ak": "Nkwammoa"
+  }},
+  {"translation": {
+    "en": "cell cycle",
+    "ak": "Sɛll ntwaho (nkwammoa kyinhyiadi)"
+  }},
+  {"translation": {
+    "en": "cell division",
+    "ak": "Sɛll nkyekyemu (nkwammoa nkyekyɛ mu)"
+  }},
+  {"translation": {
+    "en": "cell membrane",
+    "ak": "Ntoma a adura sɛll ho (nkwammoa nnuraho)"
+  }},
+  {"translation": {
+    "en": "cell theory",
+    "ak": "Sɛll ho adesua (nkwammoa ho nkyerɛkyerɛ)"
+  }},
+  {"translation": {
+    "en": "cell wall",
+    "ak": "Sɛll ho afasuo (nkwammoa ho fasu)"
+  }},
+  {"translation": {
+    "en": "cellular respiration",
+    "ak": "Sɛll mu ahome (nkwammoa ahome)"
+  }},
+  {"translation": {
+    "en": "Celsius (°C)",
+    "ak": "Selhyios (selsiɔs)"
+  }},
+  {"translation": {
+    "en": "Celsius scale",
+    "ak": "Celsius susudua"
+  }},
+  {"translation": {
+    "en": "cement",
+    "ak": "Somente"
+  }},
+  {"translation": {
+    "en": "centigrade",
+    "ak": "ɔhyew ne nwini susudua nkye ɔha"
+  }},
+  {"translation": {
+    "en": "centimeter",
+    "ak": "sɛntimita"
+  }},
+  {"translation": {
+    "en": "centimeter (cm)",
+    "ak": "Sɛntimeter"
+  }},
+  {"translation": {
+    "en": "central nervous system",
+    "ak": "Adwene mu"
+  }},
+  {"translation": {
+    "en": "centrifugation",
+    "ak": "nnuru abien mpaepaemu"
+  }},
+  {"translation": {
+    "en": "centrifuge",
+    "ak": "afiri a wɔde yiyi nnuru mu"
+  }},
+  {"translation": {
+    "en": "cerium",
+    "ak": "sɛriɔm"
+  }},
+  {"translation": {
+    "en": "cesium",
+    "ak": "sɛsiɔm nsu"
+  }},
+  {"translation": {
+    "en": "chain",
+    "ak": "Ɛsesaso (Ɛtoatoa so/kɔnsɔnkɔnsɔn)"
+  }},
+  {"translation": {
+    "en": "chain",
+    "ak": "nkɔnsɔnkɔnsɔn"
+  }},
+  {"translation": {
+    "en": "chain reaction",
+    "ak": "nnuru dwumadi a ɛtoatoaso"
+  }},
+  {"translation": {
+    "en": "change",
+    "ak": "Ɛsesa"
+  }},
+  {"translation": {
+    "en": "change",
+    "ak": "Nsakrae"
+  }},
+  {"translation": {
+    "en": "change of direction",
+    "ak": "asesa baabi a n’anihwɛ (asesa baabi a ani kyerɛ)"
+  }},
+  {"translation": {
+    "en": "change of motion",
+    "ak": "Asesa n’ahokeka"
+  }},
+  {"translation": {
+    "en": "change of speed",
+    "ak": "Asesa ne mmirika"
+  }},
+  {"translation": {
+    "en": "characteristic",
+    "ak": "Ne su"
+  }},
+  {"translation": {
+    "en": "chart",
+    "ak": "Nfonin"
+  }},
+  {"translation": {
+    "en": "chelate",
+    "ak": "Kilete"
+  }},
+  {"translation": {
+    "en": "chemical",
+    "ak": "Aduro"
+  }},
+  {"translation": {
+    "en": "chemical bond",
+    "ak": "Aduro no mfamho"
+  }},
+  {"translation": {
+    "en": "chemical bond",
+    "ak": "aduru nkabom"
+  }},
+  {"translation": {
+    "en": "chemical change",
+    "ak": "Aduro nsesae"
+  }},
+  {"translation": {
+    "en": "chemical energy",
+    "ak": "Aduro no ahoɔden"
+  }},
+  {"translation": {
+    "en": "chemical equation",
+    "ak": "Aduro ne afanu a ɛyɛ pɛ"
+  }},
+  {"translation": {
+    "en": "chemical equation",
+    "ak": "aduru yɛbea pɛyɛ nkyerɛwde"
+  }},
+  {"translation": {
+    "en": "chemical equilibrium",
+    "ak": "aduru yɛbea pɛyɛ"
+  }},
+  {"translation": {
+    "en": "chemical property",
+    "ak": "Aduro ne su"
+  }},
+  {"translation": {
+    "en": "chemical property",
+    "ak": "aduru yɛbea"
+  }},
+  {"translation": {
+    "en": "chemical reaction",
+    "ak": "Aduro mu nsusuansoɔ"
+  }},
+  {"translation": {
+    "en": "chemical reaction",
+    "ak": "dwumadi akyi yɛbea"
+  }},
+  {"translation": {
+    "en": "chemical system",
+    "ak": "Aduro mu nhyehyɛeɛ"
+  }},
+  {"translation": {
+    "en": "chemical weathering",
+    "ak": "adeweweɛ a efri aduro"
+  }},
+  {"translation": {
+    "en": "chemisorption",
+    "ak": "nsu ne mframa nnuru adetwe"
+  }},
+  {"translation": {
+    "en": "chemistry",
+    "ak": "abɔde yɛbea ho nhomasua"
+  }},
+  {"translation": {
+    "en": "chlorate",
+    "ak": "klɔrik asede nkyene"
+  }},
+  {"translation": {
+    "en": "chloride",
+    "ak": "klɔraidi"
+  }},
+  {"translation": {
+    "en": "chlorine",
+    "ak": "klorin"
+  }},
+  {"translation": {
+    "en": "chlorine dioxide",
+    "ak": "klorin mframa"
+  }},
+  {"translation": {
+    "en": "chlorite",
+    "ak": "kloraiti bo"
+  }},
+  {"translation": {
+    "en": "chloroform",
+    "ak": "klorofɔm"
+  }},
+  {"translation": {
+    "en": "chlorohydrin",
+    "ak": "klorohaidrin"
+  }},
+  {"translation": {
+    "en": "chlorophyll",
+    "ak": "Aduro a ɛwɔ ahahan momono mu"
+  }},
+  {"translation": {
+    "en": "chloroplast",
+    "ak": "Baabi ahahan mu aduro wɔ"
+  }},
+  {"translation": {
+    "en": "choose",
+    "ak": "Yi/paw"
+  }},
+  {"translation": {
+    "en": "chromatography",
+    "ak": "nsu mu mpaepaemu"
+  }},
+  {"translation": {
+    "en": "chrome green",
+    "ak": "krom ahabammono"
+  }},
+  {"translation": {
+    "en": "chromic acid",
+    "ak": "kromik asede"
+  }},
+  {"translation": {
+    "en": "chromium",
+    "ak": "kromiɔm"
+  }},
+  {"translation": {
+    "en": "chromium sulfate",
+    "ak": "kromiɔm sɔlfeti"
+  }},
+  {"translation": {
+    "en": "chromosome",
+    "ak": "Kromosome"
+  }},
+  {"translation": {
+    "en": "cinder cone volcano",
+    "ak": "Egya a efri bepɔ mu a ayɛ sɛ sinda kone"
+  }},
+  {"translation": {
+    "en": "circuit",
+    "ak": "Ade etwane ho besi n’akyi"
+  }},
+  {"translation": {
+    "en": "circuit",
+    "ak": "anyinam nhama a adikyinhyia"
+  }},
+  {"translation": {
+    "en": "circulation",
+    "ak": "Ɛfefa baabi (kyinhyiadi)"
+  }},
+  {"translation": {
+    "en": "circulatory system",
+    "ak": "Nhyehyɛeɛ a ɛma adeɛ fefa baabi (sɛnea mogya di kyinhyia)"
+  }},
+  {"translation": {
+    "en": "cirro-",
+    "ak": "Ayɛsɛ mununkum a ɛyɛ nsensaneɛ"
+  }},
+  {"translation": {
+    "en": "cirrus cloud",
+    "ak": "mununkum a ɛyɛ nsensaneɛ"
+  }},
+  {"translation": {
+    "en": "citric acid",
+    "ak": "nnuaba mu asede"
+  }},
+  {"translation": {
+    "en": "clamp",
+    "ak": "nea wɔde kye ade gyina hɔ"
+  }},
+  {"translation": {
+    "en": "classical mechanics",
+    "ak": "mfiridwuma a egyina Newton mmara so"
+  }},
+  {"translation": {
+    "en": "classification",
+    "ak": "Y’ahyehyɛ no akuoakuo"
+  }},
+  {"translation": {
+    "en": "classify",
+    "ak": "Hyehyɛ no akuoakuo"
+  }},
+  {"translation": {
+    "en": "clay",
+    "ak": "anwene dɔte"
+  }},
+  {"translation": {
+    "en": "climate",
+    "ak": "Ewiem nsesaeɛ"
+  }},
+  {"translation": {
+    "en": "cloning",
+    "ak": "Wore nwene adeɛ bi nsɛso pɛpɛɛpɛ"
+  }},
+  {"translation": {
+    "en": "cloud",
+    "ak": "Mununkum"
+  }},
+  {"translation": {
+    "en": "coal",
+    "ak": "Asaase mu bidie"
+  }},
+  {"translation": {
+    "en": "cobalt",
+    "ak": "kobɔlt"
+  }},
+  {"translation": {
+    "en": "code",
+    "ak": "Kodu (ahyɛnsode/akwankyerɛ)"
+  }},
+  {"translation": {
+    "en": "coefficients",
+    "ak": "koɛfihyiɛnti"
+  }},
+  {"translation": {
+    "en": "cold front",
+    "ak": "Mframa nwununwunu"
+  }},
+  {"translation": {
+    "en": "collect",
+    "ak": "Gyegye"
+  }},
+  {"translation": {
+    "en": "collide",
+    "ak": "Apem"
+  }},
+  {"translation": {
+    "en": "colligative properties",
+    "ak": "nea ɛde ba yɛbea"
+  }},
+  {"translation": {
+    "en": "collision",
+    "ak": "Nkasianim"
+  }},
+  {"translation": {
+    "en": "colloid chemistry",
+    "ak": "afrade abɔde yɛbea ho nhomasua"
+  }},
+  {"translation": {
+    "en": "color",
+    "ak": "Ahosuo"
+  }},
+  {"translation": {
+    "en": "colorant",
+    "ak": "nea wɔde hyɛ kɔla"
+  }},
+  {"translation": {
+    "en": "colorimeter",
+    "ak": "kɔla ade susufiri"
+  }},
+  {"translation": {
+    "en": "columbium",
+    "ak": "kolombiɔm"
+  }},
+  {"translation": {
+    "en": "column",
+    "ak": "Afa"
+  }},
+  {"translation": {
+    "en": "combination",
+    "ak": "ahorow nkabom"
+  }},
+  {"translation": {
+    "en": "combined gas laws",
+    "ak": "mframa mmara nkabom"
+  }},
+  {"translation": {
+    "en": "combustion",
+    "ak": "ade a ɛrehyew"
+  }},
+  {"translation": {
+    "en": "comet",
+    "ak": "Asukɔkyea a ɛwɔ wiem a ɛbɔhyeɛ yiyi mframa (nsoroma\nketewa bi a etwa owia ho hyia)"
+  }},
+  {"translation": {
+    "en": "comfortable",
+    "ak": "Ahodwoɔ/ahotɔ"
+  }},
+  {"translation": {
+    "en": "common ion effect",
+    "ak": "aiɔn nsunsuanso a ɛba"
+  }},
+  {"translation": {
+    "en": "communicate",
+    "ak": "Dinkitaho"
+  }},
+  {"translation": {
+    "en": "community",
+    "ak": "Mpɔtɛmo"
+  }},
+  {"translation": {
+    "en": "compare",
+    "ak": "Fatoto ho"
+  }},
+  {"translation": {
+    "en": "compass",
+    "ak": "Afidie a ɛma akwankyerɛ"
+  }},
+  {"translation": {
+    "en": "competition",
+    "ak": "Akansie"
+  }},
+  {"translation": {
+    "en": "complex",
+    "ak": "nea emu nneɛma dɔɔso"
+  }},
+  {"translation": {
+    "en": "complex carbohydrate",
+    "ak": "Kabohaidrete a ɛyɛ nwonwonan"
+  }},
+  {"translation": {
+    "en": "complex ion",
+    "ak": "aiɔn a emu nneɛma dɔɔso"
+  }},
+  {"translation": {
+    "en": "component",
+    "ak": "emu ade"
+  }},
+  {"translation": {
+    "en": "compose",
+    "ak": "Twa/yɛ biribi"
+  }},
+  {"translation": {
+    "en": "composite",
+    "ak": "nea ɛwɔ afa ahorow"
+  }},
+  {"translation": {
+    "en": "composite volcano",
+    "ak": "Egya a efri bepɔ mu na ɛyɛ mmɔho"
+  }},
+  {"translation": {
+    "en": "composition",
+    "ak": "Nneɛma a ɛwɔ mu"
+  }},
+  {"translation": {
+    "en": "composition",
+    "ak": "nea ɛwom"
+  }},
+  {"translation": {
+    "en": "compost pile",
+    "ak": "Nwura a aboaano na ɛreprɔ"
+  }},
+  {"translation": {
+    "en": "compound",
+    "ak": "Mmɔhommɔho"
+  }},
+  {"translation": {
+    "en": "compound",
+    "ak": "adewa nkabom"
+  }},
+  {"translation": {
+    "en": "compound microscope",
+    "ak": "Afidie a ɛhwɛ nea ani ntumi nhunu"
+  }},
+  {"translation": {
+    "en": "compress",
+    "ak": "Moa/mia so"
+  }},
+  {"translation": {
+    "en": "compressed gas",
+    "ak": "mframa a wɔamia mu"
+  }},
+  {"translation": {
+    "en": "Compression",
+    "ak": "Ademoa"
+  }},
+  {"translation": {
+    "en": "Computer",
+    "ak": "Komputa"
+  }},
+  {"translation": {
+    "en": "concentrated solution",
+    "ak": "nsu a emu ade dɔɔso"
+  }},
+  {"translation": {
+    "en": "concentration",
+    "ak": "dodow a ɛwom"
+  }},
+  {"translation": {
+    "en": "conceptual definition",
+    "ak": "adwene mu nkyerɛkyerɛmu"
+  }},
+  {"translation": {
+    "en": "Conclude",
+    "ak": "Wie"
+  }},
+  {"translation": {
+    "en": "Conclusion",
+    "ak": "Awieɛ"
+  }},
+  {"translation": {
+    "en": "condensation",
+    "ak": "Sɛ mframa redane nsuo"
+  }},
+  {"translation": {
+    "en": "condensation",
+    "ak": "nsudan"
+  }},
+  {"translation": {
+    "en": "condensation polymer",
+    "ak": "nsudan pɔlima"
+  }},
+  {"translation": {
+    "en": "condensation reaction",
+    "ak": "nsudan dwumadi"
+  }},
+  {"translation": {
+    "en": "condense",
+    "ak": "Mframa dane nsuo"
+  }},
+  {"translation": {
+    "en": "condition",
+    "ak": "Tebea"
+  }},
+  {"translation": {
+    "en": "conduct",
+    "ak": "Ahoɔden tumi famu"
+  }},
+  {"translation": {
+    "en": "conduction",
+    "ak": "Sɛ ahoɔden refamu"
+  }},
+  {"translation": {
+    "en": "conduction",
+    "ak": "ade fa biribi mu"
+  }},
+  {"translation": {
+    "en": "conductivity",
+    "ak": "tumi a ade tumi fa ade mu"
+  }},
+  {"translation": {
+    "en": "conductor",
+    "ak": "nea ade tumi fa mu"
+  }},
+  {"translation": {
+    "en": "conductors",
+    "ak": "Adeɛ a ahoɔden tumi famu"
+  }},
+  {"translation": {
+    "en": "configuration",
+    "ak": "adehyehyɛ"
+  }},
+  {"translation": {
+    "en": "configurational formula",
+    "ak": "nhyehyɛe kwan"
+  }},
+  {"translation": {
+    "en": "conformation",
+    "ak": "fa biribi sɛso"
+  }},
+  {"translation": {
+    "en": "Congo red",
+    "ak": "Congo kɔkɔɔ"
+  }},
+  {"translation": {
+    "en": "conjugate pair",
+    "ak": "ade nketewa abien nkabom"
+  }},
+  {"translation": {
+    "en": "consequences",
+    "ak": "Nsunsuansoɔ"
+  }},
+  {"translation": {
+    "en": "conservation",
+    "ak": "Adekora"
+  }},
+  {"translation": {
+    "en": "conservation",
+    "ak": "Adekora"
+  }},
+  {"translation": {
+    "en": "conservation of charge",
+    "ak": "anyinam tumi a ɛnsesa"
+  }},
+  {"translation": {
+    "en": "conservation of energy",
+    "ak": "Ɛrekora ahoɔden"
+  }},
+  {"translation": {
+    "en": "conservation of mass",
+    "ak": "Ɛrekora emuduro"
+  }},
+  {"translation": {
+    "en": "conserve",
+    "ak": "Kora"
+  }},
+  {"translation": {
+    "en": "consist of",
+    "ak": "Nea ɛwɔ mu"
+  }},
+  {"translation": {
+    "en": "consistent",
+    "ak": "Ɛntaa nsesa"
+  }},
+  {"translation": {
+    "en": "constant",
+    "ak": "Egyina faako"
+  }},
+  {"translation": {
+    "en": "constant",
+    "ak": "nea ɛnsesa"
+  }},
+  {"translation": {
+    "en": "constant composition law",
+    "ak": "nea ɛwom mmara a ɛnsesa"
+  }},
+  {"translation": {
+    "en": "constituent",
+    "ak": "ade a ɛwom"
+  }},
+  {"translation": {
+    "en": "construct",
+    "ak": "Si"
+  }},
+  {"translation": {
+    "en": "consumer",
+    "ak": "Nea odie"
+  }},
+  {"translation": {
+    "en": "contain",
+    "ak": "Sɔ ano"
+  }},
+  {"translation": {
+    "en": "container",
+    "ak": "Nea yɛde adeɛ gu"
+  }},
+  {"translation": {
+    "en": "container",
+    "ak": "nea ade wom"
+  }},
+  {"translation": {
+    "en": "contaminant",
+    "ak": "nea ɛfra ade mu sɛe no"
+  }},
+  {"translation": {
+    "en": "content",
+    "ak": "Nea ɛwɔ mu"
+  }},
+  {"translation": {
+    "en": "continent",
+    "ak": "Asaasetam"
+  }},
+  {"translation": {
+    "en": "continuous spectrum",
+    "ak": "ade horow a ɛtoatoaso"
+  }},
+  {"translation": {
+    "en": "contrast",
+    "ak": "Fa to nsɛneɛ (nsɛnia) ani/kyerɛ nsonsonoe a ɛwom)"
+  }},
+  {"translation": {
+    "en": "control",
+    "ak": "Di so"
+  }},
+  {"translation": {
+    "en": "controlled equipment",
+    "ak": "akade a wɔato ano hye"
+  }},
+  {"translation": {
+    "en": "controlled experiment",
+    "ak": "Nsɔhwɛ a ani wɔ ho"
+  }},
+  {"translation": {
+    "en": "convection",
+    "ak": "Tumi a ɛnam nsuo mu"
+  }},
+  {"translation": {
+    "en": "conversion factor",
+    "ak": "nea wɔde yɛ susude nsakrae"
+  }},
+  {"translation": {
+    "en": "coordinate",
+    "ak": "Toto nneɛma"
+  }},
+  {"translation": {
+    "en": "coordinate covalent bond",
+    "ak": "kovalɛnti nkabom"
+  }},
+  {"translation": {
+    "en": "coordination",
+    "ak": "Ntotoeɛ"
+  }},
+  {"translation": {
+    "en": "copolymer",
+    "ak": "pɔlima a emu ade yɛ abien"
+  }},
+  {"translation": {
+    "en": "copper",
+    "ak": "kɔbere"
+  }},
+  {"translation": {
+    "en": "core",
+    "ak": "Ne mfinfin"
+  }},
+  {"translation": {
+    "en": "cork",
+    "ak": "toa ano nkatade"
+  }},
+  {"translation": {
+    "en": "corrosion",
+    "ak": "dade ho huan"
+  }},
+  {"translation": {
+    "en": "covalence",
+    "ak": "kovalɛnse"
+  }},
+  {"translation": {
+    "en": "covalent bond",
+    "ak": "Kofalent mfamho"
+  }},
+  {"translation": {
+    "en": "covalent bond",
+    "ak": "kovalɛnti nkabom"
+  }},
+  {"translation": {
+    "en": "covalent molecule",
+    "ak": "kovalɛnti adewa"
+  }},
+  {"translation": {
+    "en": "cover",
+    "ak": "Nkatade"
+  }},
+  {"translation": {
+    "en": "cracking",
+    "ak": "Mpaapae"
+  }},
+  {"translation": {
+    "en": "create",
+    "ak": "Nwene"
+  }},
+  {"translation": {
+    "en": "cresol",
+    "ak": "Krisol"
+  }},
+  {"translation": {
+    "en": "crest",
+    "ak": "Atifi"
+  }},
+  {"translation": {
+    "en": "critical mass",
+    "ak": "nea ɛma ade kɔ so"
+  }},
+  {"translation": {
+    "en": "critical point",
+    "ak": "mpɛnpɛnso titiriw"
+  }},
+  {"translation": {
+    "en": "critical pressure",
+    "ak": "tumi titiriw"
+  }},
+  {"translation": {
+    "en": "critical temperature",
+    "ak": "ɔhyew/onwini titiriw"
+  }},
+  {"translation": {
+    "en": "crop",
+    "ak": "Nɔbaeɛ"
+  }},
+  {"translation": {
+    "en": "crucible",
+    "ak": "nea ɛnan ntɛm"
+  }},
+  {"translation": {
+    "en": "crust",
+    "ak": "Ɛho"
+  }},
+  {"translation": {
+    "en": "crystal",
+    "ak": "Ɛboɔ hyɛnhyɛn"
+  }},
+  {"translation": {
+    "en": "crystal",
+    "ak": "ahwehwɛbo"
+  }},
+  {"translation": {
+    "en": "crystallization",
+    "ak": "Ɛredane boɔ hyɛnhyɛn"
+  }},
+  {"translation": {
+    "en": "crystallization",
+    "ak": "ahwehwɛbo dan"
+  }},
+  {"translation": {
+    "en": "cubic",
+    "ak": "Kubik"
+  }},
+  {"translation": {
+    "en": "cubic centimeter",
+    "ak": "Kubik sɛntimeta"
+  }},
+  {"translation": {
+    "en": "cubic centimeter",
+    "ak": "kiubik sɛntimita"
+  }},
+  {"translation": {
+    "en": "cure",
+    "ak": "Ayaresa"
+  }},
+  {"translation": {
+    "en": "curium",
+    "ak": "kuriɔm"
+  }},
+  {"translation": {
+    "en": "current",
+    "ak": "anyinam"
+  }},
+  {"translation": {
+    "en": "curve",
+    "ak": "mfonin hama"
+  }},
+  {"translation": {
+    "en": "cyanogen",
+    "ak": "saianogen mframa"
+  }},
+  {"translation": {
+    "en": "cycle",
+    "ak": "kyinhyia"
+  }},
+  {"translation": {
+    "en": "cyclic compound",
+    "ak": "adewa nkabom a wɔahyehyɛ no sɛ kawa"
+  }},
+  {"translation": {
+    "en": "cycloalkane",
+    "ak": "kawa alkane"
+  }},
+  {"translation": {
+    "en": "cyclohexane",
+    "ak": "saiklohɛkseni"
+  }},
+  {"translation": {
+    "en": "cyclotron",
+    "ak": "saiklotrɔn"
+  }},
+  {"translation": {
+    "en": "cytoplasm",
+    "ak": "Nsuo a sɛll (nkwammoa) mu."
+  }},
+  {"translation": {
+    "en": "daily",
+    "ak": "Da biara da"
+  }},
+  {"translation": {
+    "en": "dam",
+    "ak": "Su tadeɛ"
+  }},
+  {"translation": {
+    "en": "data",
+    "ak": "Data"
+  }},
+  {"translation": {
+    "en": "data",
+    "ak": "amaneɛbɔ nsɛm"
+  }},
+  {"translation": {
+    "en": "data table",
+    "ak": "Data pono"
+  }},
+  {"translation": {
+    "en": "daughter cell",
+    "ak": "Sɛll a apae efri foforɔ mu"
+  }},
+  {"translation": {
+    "en": "daylight",
+    "ak": "Awiabrɛ han"
+  }},
+  {"translation": {
+    "en": "decay",
+    "ak": "Aprɔ"
+  }},
+  {"translation": {
+    "en": "decay rate",
+    "ak": "bere a ɛde porɔw"
+  }},
+  {"translation": {
+    "en": "decomposer",
+    "ak": "Deɛ ɛma adeɛ prɔ"
+  }},
+  {"translation": {
+    "en": "decomposition",
+    "ak": "ɔporɔw"
+  }},
+  {"translation": {
+    "en": "decrease",
+    "ak": "Ɛso ate"
+  }},
+  {"translation": {
+    "en": "decrepitude",
+    "ak": "dedaw a ade yɛ"
+  }},
+  {"translation": {
+    "en": "defend",
+    "ak": "Banbɔ"
+  }},
+  {"translation": {
+    "en": "deficient",
+    "ak": "Ɛtɔsini"
+  }},
+  {"translation": {
+    "en": "define",
+    "ak": "Kyerɛ aseɛ"
+  }},
+  {"translation": {
+    "en": "definite",
+    "ak": "Ɛtoɔtwa"
+  }},
+  {"translation": {
+    "en": "definition",
+    "ak": "nkyerɛkyerɛmu"
+  }},
+  {"translation": {
+    "en": "dehydrating",
+    "ak": "emu nsu retwe"
+  }},
+  {"translation": {
+    "en": "dehydration",
+    "ak": "Nsutwe"
+  }},
+  {"translation": {
+    "en": "dehydrogenation",
+    "ak": "Haidrogyenyi"
+  }},
+  {"translation": {
+    "en": "deionized water",
+    "ak": "nsu a wɔayi aiɔn afi mu"
+  }},
+  {"translation": {
+    "en": "deliquescence",
+    "ak": "nsudan bere a ɛreporɔw"
+  }},
+  {"translation": {
+    "en": "delivery tube",
+    "ak": "adema durubɛn"
+  }},
+  {"translation": {
+    "en": "delta",
+    "ak": "Delta"
+  }},
+  {"translation": {
+    "en": "denatured alcohol",
+    "ak": "mmosa a wontumi nnom"
+  }},
+  {"translation": {
+    "en": "density",
+    "ak": "Emu duro"
+  }},
+  {"translation": {
+    "en": "density",
+    "ak": "mmoaboano susuw"
+  }},
+  {"translation": {
+    "en": "dependent variable",
+    "ak": "Deɛ ɔdan obi"
+  }},
+  {"translation": {
+    "en": "deposition",
+    "ak": "Y’atu w’adeɛ so"
+  }},
+  {"translation": {
+    "en": "depression",
+    "ak": "Mmotow"
+  }},
+  {"translation": {
+    "en": "derivative",
+    "ak": "nea wonya fi mu"
+  }},
+  {"translation": {
+    "en": "derived",
+    "ak": "Yɛ nya fri biibi mu"
+  }},
+  {"translation": {
+    "en": "descend",
+    "ak": "Sane"
+  }},
+  {"translation": {
+    "en": "descendants",
+    "ak": "Asefoɔ"
+  }},
+  {"translation": {
+    "en": "describe",
+    "ak": "Kyeremu"
+  }},
+  {"translation": {
+    "en": "desert",
+    "ak": "Ɛsrɛso"
+  }},
+  {"translation": {
+    "en": "design",
+    "ak": "Sɛdeɛ yɛsi anwene"
+  }},
+  {"translation": {
+    "en": "design scientific investigations",
+    "ak": "Hyehyɛ abɔdeɛ mu nyansapɛ nhwehwɛmu"
+  }},
+  {"translation": {
+    "en": "destructive distillation",
+    "ak": "nsu kurunyennyɛ na ɛsɛe no"
+  }},
+  {"translation": {
+    "en": "detergent",
+    "ak": "samina aduru"
+  }},
+  {"translation": {
+    "en": "determine",
+    "ak": "Kyerɛ"
+  }},
+  {"translation": {
+    "en": "deuterium",
+    "ak": "diuteriɔm"
+  }},
+  {"translation": {
+    "en": "deuteron",
+    "ak": "diuterɔn"
+  }},
+  {"translation": {
+    "en": "develop",
+    "ak": "Yɛ"
+  }},
+  {"translation": {
+    "en": "developing agent",
+    "ak": "nkanyandeyɛ"
+  }},
+  {"translation": {
+    "en": "development",
+    "ak": "Adeyɛ/nkɔso"
+  }},
+  {"translation": {
+    "en": "dextrorotary",
+    "ak": "dannan kɔ nifa"
+  }},
+  {"translation": {
+    "en": "diagram",
+    "ak": "Nfonin"
+  }},
+  {"translation": {
+    "en": "dialysis",
+    "ak": "nsu mu nnuru mpaepaemu"
+  }},
+  {"translation": {
+    "en": "diamond",
+    "ak": "dɛnkyɛmmo"
+  }},
+  {"translation": {
+    "en": "diatomic gas",
+    "ak": "mframa a n'atɔm yɛ abien"
+  }},
+  {"translation": {
+    "en": "diborane",
+    "ak": "diborane"
+  }},
+  {"translation": {
+    "en": "dicarboxylic acid",
+    "ak": "daikaboksilik asede"
+  }},
+  {"translation": {
+    "en": "dichotomous key",
+    "ak": "Anwenade a wohyɛ abɔdeɛ nso"
+  }},
+  {"translation": {
+    "en": "difference",
+    "ak": "Nsonsoneɛ"
+  }},
+  {"translation": {
+    "en": "diffusion",
+    "ak": "Adewura"
+  }},
+  {"translation": {
+    "en": "digest",
+    "ak": "Yam wɔ wo yam"
+  }},
+  {"translation": {
+    "en": "digestion",
+    "ak": "Yafunu mu aduane yam"
+  }},
+  {"translation": {
+    "en": "digestive system",
+    "ak": "Yafunu mu aduane yam nhyehyɛeɛ"
+  }},
+  {"translation": {
+    "en": "dihydroxy alcohol",
+    "ak": "dihaidrɔksi mmosa"
+  }},
+  {"translation": {
+    "en": "diluent",
+    "ak": "nea wɔde fra"
+  }},
+  {"translation": {
+    "en": "dilute solution",
+    "ak": "nsu a emu ade nnɔɔso"
+  }},
+  {"translation": {
+    "en": "dimethyl",
+    "ak": "dimɛtil nsu"
+  }},
+  {"translation": {
+    "en": "dinitrobenzene",
+    "ak": "dinaitrobɛnsin"
+  }},
+  {"translation": {
+    "en": "di-olefin",
+    "ak": "olifin abien"
+  }},
+  {"translation": {
+    "en": "dioxide",
+    "ak": "kura ɔksigyen adewa abien"
+  }},
+  {"translation": {
+    "en": "dipole",
+    "ak": "nnua abien"
+  }},
+  {"translation": {
+    "en": "direct",
+    "ak": "Kyerɛkwan"
+  }},
+  {"translation": {
+    "en": "direct combustion",
+    "ak": "ade a wɔhye no tee"
+  }},
+  {"translation": {
+    "en": "direct combustion reaction",
+    "ak": "nea efi ade a wɔhye no tee mu ba"
+  }},
+  {"translation": {
+    "en": "direct current",
+    "ak": "anyinam a ɛyɛ tee"
+  }},
+  {"translation": {
+    "en": "directions",
+    "ak": "Akwankyerɛ"
+  }},
+  {"translation": {
+    "en": "directly",
+    "ak": "Pɔtee"
+  }},
+  {"translation": {
+    "en": "disappearing trait",
+    "ak": "Esu a ɛre yera"
+  }},
+  {"translation": {
+    "en": "discuss",
+    "ak": "Di ho nkɔmmɔ"
+  }},
+  {"translation": {
+    "en": "disperse",
+    "ak": "Ahyeta/apete"
+  }},
+  {"translation": {
+    "en": "displacement",
+    "ak": "gyinabea a woyi fi"
+  }},
+  {"translation": {
+    "en": "disproportionation",
+    "ak": "nea ɛnyɛ pɛpɛɛpɛ"
+  }},
+  {"translation": {
+    "en": "dissociation",
+    "ak": "ɔwae"
+  }},
+  {"translation": {
+    "en": "dissolve",
+    "ak": "Ahono"
+  }},
+  {"translation": {
+    "en": "distance",
+    "ak": "Kwan bi tenten"
+  }},
+  {"translation": {
+    "en": "distillate",
+    "ak": "yɛ nsu kurunyenn"
+  }},
+  {"translation": {
+    "en": "distillation",
+    "ak": "nsu kurunyennyɛ"
+  }},
+  {"translation": {
+    "en": "distinctive",
+    "ak": "Ɛdanso"
+  }},
+  {"translation": {
+    "en": "distribute",
+    "ak": "Kyekyɛ"
+  }},
+  {"translation": {
+    "en": "disturb",
+    "ak": "Teetee"
+  }},
+  {"translation": {
+    "en": "diversity",
+    "ak": "Asɔɔtoo/ahorow"
+  }},
+  {"translation": {
+    "en": "DNA",
+    "ak": "DNA"
+  }},
+  {"translation": {
+    "en": "dolomite",
+    "ak": "dolomaiti bo"
+  }},
+  {"translation": {
+    "en": "dominant",
+    "ak": "Nhyɛsodeɛ"
+  }},
+  {"translation": {
+    "en": "dominant gene",
+    "ak": "Gene a ɛhyɛ foforɔ so"
+  }},
+  {"translation": {
+    "en": "donor",
+    "ak": "ɔdemafo"
+  }},
+  {"translation": {
+    "en": "dope",
+    "ak": "nnubɔnenom"
+  }},
+  {"translation": {
+    "en": "dot diagram",
+    "ak": "mma mfonin"
+  }},
+  {"translation": {
+    "en": "double bond",
+    "ak": "nkabom mmɔho abien"
+  }},
+  {"translation": {
+    "en": "double pan balance",
+    "ak": "ade mu duru susufiri a n'afa yɛ abien"
+  }},
+  {"translation": {
+    "en": "double replacement",
+    "ak": "nsiananmu mmɔho abien"
+  }},
+  {"translation": {
+    "en": "draw",
+    "ak": "Dwi"
+  }},
+  {"translation": {
+    "en": "ductility",
+    "ak": "tumi a wotumi dannan yɛ hama"
+  }},
+  {"translation": {
+    "en": "dump",
+    "ak": "Totwene"
+  }},
+  {"translation": {
+    "en": "dynamic equilibrium",
+    "ak": "pɛyɛ a etumi sesa"
+  }},
+  {"translation": {
+    "en": "dysprosium",
+    "ak": "disprosiɔm"
+  }},
+  {"translation": {
+    "en": "earth",
+    "ak": "Ewiase/asase"
+  }},
+  {"translation": {
+    "en": "earthquake",
+    "ak": "Asaase wosoɔ"
+  }},
+  {"translation": {
+    "en": "earthworm",
+    "ak": "Sonsono"
+  }},
+  {"translation": {
+    "en": "echo",
+    "ak": "Nnyegyeɛ"
+  }},
+  {"translation": {
+    "en": "eclipse",
+    "ak": "Bosome akye awia"
+  }},
+  {"translation": {
+    "en": "ecological succession",
+    "ak": "Sɛdeɛ abɔdeɛ a ɛte ase abrabɔ sesa wɔ berɛ dodoɔ bi  mu"
+  }},
+  {"translation": {
+    "en": "ecology",
+    "ak": "Sɛdeɛ abɔdeɛ a ɛte ase de wɔn ho nsawɔsoɔ wɔ wɔn tenabea"
+  }},
+  {"translation": {
+    "en": "ecosystem",
+    "ak": "Abɔdeɛ nyinaa ne wɔn tenabea"
+  }},
+  {"translation": {
+    "en": "effect",
+    "ak": "Nsunsuansoɔ"
+  }},
+  {"translation": {
+    "en": "effective collision",
+    "ak": "nkasianim papa"
+  }},
+  {"translation": {
+    "en": "effervescence",
+    "ak": "tumi a ahuruw tumi fi ba"
+  }},
+  {"translation": {
+    "en": "efficient",
+    "ak": "Ɛyɛ n’adwuma yie"
+  }},
+  {"translation": {
+    "en": "efflorescence",
+    "ak": "tumi a ade tumi bɔ nhwiren"
+  }},
+  {"translation": {
+    "en": "egg",
+    "ak": "Kosua"
+  }},
+  {"translation": {
+    "en": "einsteinium",
+    "ak": "ainstainiɔm"
+  }},
+  {"translation": {
+    "en": "electric current",
+    "ak": "Nyinam tumi (anyinam ahoɔden)"
+  }},
+  {"translation": {
+    "en": "electric current",
+    "ak": "Anyinam tumi"
+  }},
+  {"translation": {
+    "en": "electrical",
+    "ak": "Ɛfa nyinam ho"
+  }},
+  {"translation": {
+    "en": "electrical circuits",
+    "ak": "Nyinam ahoɔden ntwaho"
+  }},
+  {"translation": {
+    "en": "electrical conductivity",
+    "ak": "tumi a anyinam tumi fa ade mu"
+  }},
+  {"translation": {
+    "en": "electrical energy",
+    "ak": "Nyinam ahoɔden mu tumi"
+  }},
+  {"translation": {
+    "en": "electricity",
+    "ak": "Nyinam ahoɔden"
+  }},
+  {"translation": {
+    "en": "electrochemical",
+    "ak": "nea ɛfa nnuru a ɛma anyinam ho"
+  }},
+  {"translation": {
+    "en": "electrochemical cell",
+    "ak": "aduru a ɛma anyinam nkwammoa"
+  }},
+  {"translation": {
+    "en": "electrochemistry",
+    "ak": "nnuru a ɛma anyinam ho nhomasua"
+  }},
+  {"translation": {
+    "en": "electrode",
+    "ak": "anyinam hama"
+  }},
+  {"translation": {
+    "en": "electrode position",
+    "ak": "anyinam hama gyinabea"
+  }},
+  {"translation": {
+    "en": "electrolysis",
+    "ak": "nhwi ase tutu"
+  }},
+  {"translation": {
+    "en": "electrolyte",
+    "ak": "nsu a anyinam tumi fa mu"
+  }},
+  {"translation": {
+    "en": "electrolytic conduction",
+    "ak": "sɛnea anyinam fa nsu mu"
+  }},
+  {"translation": {
+    "en": "electrolyze",
+    "ak": "fa anyinam fa mu"
+  }},
+  {"translation": {
+    "en": "electromagnet",
+    "ak": "Elɛktromagnɛte"
+  }},
+  {"translation": {
+    "en": "electromagnetic spectrum",
+    "ak": "Elɛktromagnɛte akwaban"
+  }},
+  {"translation": {
+    "en": "electromagnetic waves",
+    "ak": "Elɛktromagnɛte ahoɔden amunimuni"
+  }},
+  {"translation": {
+    "en": "electromagnetism",
+    "ak": "Ɛfa Elɛktromagnɛte ho"
+  }},
+  {"translation": {
+    "en": "electromotive force",
+    "ak": "anyinam tumi a ɛde rekɔ"
+  }},
+  {"translation": {
+    "en": "electromotive series",
+    "ak": "anyinam tumi ahorow a ɛde rekɔ"
+  }},
+  {"translation": {
+    "en": "electron",
+    "ak": "Elɛktron"
+  }},
+  {"translation": {
+    "en": "electron",
+    "ak": "ilɛktrɔn"
+  }},
+  {"translation": {
+    "en": "electron configuration",
+    "ak": "ilɛktrɔn adehyehyɛ"
+  }},
+  {"translation": {
+    "en": "electronegative",
+    "ak": "anyinam negetif"
+  }},
+  {"translation": {
+    "en": "electronegativity",
+    "ak": "anyinam negetifyɛ"
+  }},
+  {"translation": {
+    "en": "electropositive",
+    "ak": "anyinam pɔsitifyɛ"
+  }},
+  {"translation": {
+    "en": "electrostatic force",
+    "ak": "adeak anyinam tumi"
+  }},
+  {"translation": {
+    "en": "electrovalence",
+    "ak": "ilɛktrofalɛnsi"
+  }},
+  {"translation": {
+    "en": "electrovalent bonding",
+    "ak": "ilɛktrofalɛnti nkabom"
+  }},
+  {"translation": {
+    "en": "element",
+    "ak": "abɔde mu ade"
+  }},
+  {"translation": {
+    "en": "elements",
+    "ak": "Abɔdeɛ mu nneɛma"
+  }},
+  {"translation": {
+    "en": "elevation",
+    "ak": "Mpegya/ma so"
+  }},
+  {"translation": {
+    "en": "elevation",
+    "ak": "sorokɔ"
+  }},
+  {"translation": {
+    "en": "elliptical",
+    "ak": "Ayɛ te sɛ kosua krukruwa yɛ"
+  }},
+  {"translation": {
+    "en": "emit",
+    "ak": "Epu"
+  }},
+  {"translation": {
+    "en": "empirical formula",
+    "ak": "asetena mu kwan"
+  }},
+  {"translation": {
+    "en": "emulsion",
+    "ak": "nsu ne ngo afrade"
+  }},
+  {"translation": {
+    "en": "endangered species",
+    "ak": "Abɔdeɛ a wɔn ase ɛreyɛ ahye"
+  }},
+  {"translation": {
+    "en": "endocrine system",
+    "ak": "Nnuro bi a ekyi gu mogya mu ho nhyehyɛeɛ"
+  }},
+  {"translation": {
+    "en": "endothermic",
+    "ak": "Emu bɔhyew (egyina ɔhyew so yɛ)"
+  }},
+  {"translation": {
+    "en": "endothermic reaction",
+    "ak": "nea efi ɔhyew a ɛma nsakrae mu ba"
+  }},
+  {"translation": {
+    "en": "endpoint",
+    "ak": "awiei"
+  }},
+  {"translation": {
+    "en": "energy",
+    "ak": "Tumi/ahoɔden"
+  }},
+  {"translation": {
+    "en": "energy flow",
+    "ak": "Ahoɔden nsaneɛ"
+  }},
+  {"translation": {
+    "en": "energy level",
+    "ak": "ahoɔden mpɛnpɛnso"
+  }},
+  {"translation": {
+    "en": "energy pyramid",
+    "ak": "Ahoɔden piramede"
+  }},
+  {"translation": {
+    "en": "energy resources",
+    "ak": "Ahoɔden ho nnepa"
+  }},
+  {"translation": {
+    "en": "ensure",
+    "ak": "Hwɛ sɛ"
+  }},
+  {"translation": {
+    "en": "enthalpy",
+    "ak": "ɛntalpi"
+  }},
+  {"translation": {
+    "en": "environment",
+    "ak": "Mmɔntenso (mpɔtam)"
+  }},
+  {"translation": {
+    "en": "Environmental",
+    "ak": "Ɛfa mmɔntenso ho (ɛfa mpɔtam ho)"
+  }},
+  {"translation": {
+    "en": "environmental changes",
+    "ak": "Mmɔntenso nsesaeɛ (nsakrae a ɛba mpɔtam)"
+  }},
+  {"translation": {
+    "en": "enzyme",
+    "ak": "adebubu aduru"
+  }},
+  {"translation": {
+    "en": "epithelial",
+    "ak": "Adeɛ a ɛdura nnipam akwaa horow ho"
+  }},
+  {"translation": {
+    "en": "epoxy resin",
+    "ak": "aduru a wɔde yɛ atarede"
+  }},
+  {"translation": {
+    "en": "equal",
+    "ak": "Ɛyɛ pɛ"
+  }},
+  {"translation": {
+    "en": "equation",
+    "ak": "Afanu  pɛrepɛreyɔ"
+  }},
+  {"translation": {
+    "en": "equation",
+    "ak": "afa abien akontaabu nsɛm a ɛyɛ pɛ"
+  }},
+  {"translation": {
+    "en": "equator",
+    "ak": "Asaase mfinfin"
+  }},
+  {"translation": {
+    "en": "equilibrium",
+    "ak": "Pɛyɛ"
+  }},
+  {"translation": {
+    "en": "equilibrium",
+    "ak": "pɛyɛ"
+  }},
+  {"translation": {
+    "en": "equilibrium constant",
+    "ak": "pɛyɛ a ɛnsesa"
+  }},
+  {"translation": {
+    "en": "equipment",
+    "ak": "akade"
+  }},
+  {"translation": {
+    "en": "equivalent",
+    "ak": "ne no yɛ pɛ"
+  }},
+  {"translation": {
+    "en": "equivalent masses",
+    "ak": "mmoano abien a ɛyɛ pɛ"
+  }},
+  {"translation": {
+    "en": "erbium",
+    "ak": "ɛbiɔm"
+  }},
+  {"translation": {
+    "en": "Erlenmeyer Flask",
+    "ak": "Erlenmeyer Toa"
+  }},
+  {"translation": {
+    "en": "erosion",
+    "ak": "Susuan"
+  }},
+  {"translation": {
+    "en": "error",
+    "ak": "Mfomsoɔ"
+  }},
+  {"translation": {
+    "en": "esophagus",
+    "ak": "Honhon (menem)"
+  }},
+  {"translation": {
+    "en": "establish",
+    "ak": "Te (si/yɛ/kyerɛ)"
+  }},
+  {"translation": {
+    "en": "Ester",
+    "ak": "ɛsta"
+  }},
+  {"translation": {
+    "en": "esterification",
+    "ak": "ɛsta dwumadi"
+  }},
+  {"translation": {
+    "en": "estimate",
+    "ak": "Fa w’anibu"
+  }},
+  {"translation": {
+    "en": "estimation",
+    "ak": "Deɛ yɛde aniabu"
+  }},
+  {"translation": {
+    "en": "ethane",
+    "ak": "iteni mframa"
+  }},
+  {"translation": {
+    "en": "ethanol",
+    "ak": "nsa nkanyande"
+  }},
+  {"translation": {
+    "en": "ethanolamine",
+    "ak": "itanolamini"
+  }},
+  {"translation": {
+    "en": "Ether",
+    "ak": "ita mframa"
+  }},
+  {"translation": {
+    "en": "Ethyl",
+    "ak": "itili adewa"
+  }},
+  {"translation": {
+    "en": "ethyl acetate",
+    "ak": "itili nsu"
+  }},
+  {"translation": {
+    "en": "ethyl alcohol",
+    "ak": "itili nsa"
+  }},
+  {"translation": {
+    "en": "ethyl benzene",
+    "ak": "itili bɛnsine"
+  }},
+  {"translation": {
+    "en": "ethyl ether",
+    "ak": "itili ita"
+  }},
+  {"translation": {
+    "en": "ethylamine",
+    "ak": "itilamini"
+  }},
+  {"translation": {
+    "en": "ethylene",
+    "ak": "itiline mframa"
+  }},
+  {"translation": {
+    "en": "ethylene bromide",
+    "ak": "itiline bromaidi"
+  }},
+  {"translation": {
+    "en": "ethylene dichloride",
+    "ak": "itiline diklɔraidi"
+  }},
+  {"translation": {
+    "en": "ethylene glycol",
+    "ak": "itiline nsu"
+  }},
+  {"translation": {
+    "en": "eukaryotic",
+    "ak": "Abɔdeɛ a ne sɛll wɔ nuklɔs"
+  }},
+  {"translation": {
+    "en": "europium",
+    "ak": "uropiɔm"
+  }},
+  {"translation": {
+    "en": "eutectic",
+    "ak": "nnuru a etumi nan afrade"
+  }},
+  {"translation": {
+    "en": "evaluate",
+    "ak": "Susu"
+  }},
+  {"translation": {
+    "en": "evaporate",
+    "ak": "Dane ntutuo"
+  }},
+  {"translation": {
+    "en": "evaporation",
+    "ak": "Ɛdane ntutuo"
+  }},
+  {"translation": {
+    "en": "evaporation",
+    "ak": "suwusiw dan"
+  }},
+  {"translation": {
+    "en": "evidence",
+    "ak": "Adanseɛ"
+  }},
+  {"translation": {
+    "en": "evolution",
+    "ak": "Abɔdeɛ mu sesaeɛ fiti abɔdeɛ ahyɛaseɛ (adaanandi)"
+  }},
+  {"translation": {
+    "en": "example",
+    "ak": "Mfatoho/nhwɛso"
+  }},
+  {"translation": {
+    "en": "exchange",
+    "ak": "Edi nsesa"
+  }},
+  {"translation": {
+    "en": "excited state",
+    "ak": "anigye bere"
+  }},
+  {"translation": {
+    "en": "excrete",
+    "ak": "Nipadua no yi fi pue"
+  }},
+  {"translation": {
+    "en": "excretion",
+    "ak": "Sɛ nipadua no reyi fin pue"
+  }},
+  {"translation": {
+    "en": "exoskeleton",
+    "ak": "Nnompe a ɛwɔ aboa ho"
+  }},
+  {"translation": {
+    "en": "exothermic",
+    "ak": "Ɛho hyew"
+  }},
+  {"translation": {
+    "en": "exothermic",
+    "ak": "ɛba bere a ɔhyew apue"
+  }},
+  {"translation": {
+    "en": "expand",
+    "ak": "Bae/bue mu"
+  }},
+  {"translation": {
+    "en": "experiment",
+    "ak": "Nhwehwɛmu (sɔ biribi hwɛ)"
+  }},
+  {"translation": {
+    "en": "experiment",
+    "ak": "nhwehwɛmu"
+  }},
+  {"translation": {
+    "en": "explain",
+    "ak": "Kyerɛaseɛ (kyerɛkyerɛ mu)"
+  }},
+  {"translation": {
+    "en": "explanation",
+    "ak": "Nkyerɛaseɛ (Nkyerɛkyerɛ mu)"
+  }},
+  {"translation": {
+    "en": "explosive",
+    "ak": "tumi pae"
+  }},
+  {"translation": {
+    "en": "express",
+    "ak": "Dan adi (Da no adi)"
+  }},
+  {"translation": {
+    "en": "expression",
+    "ak": "asɛm"
+  }},
+  {"translation": {
+    "en": "extensive properties",
+    "ak": "yɛbea a ɛdɔɔso"
+  }},
+  {"translation": {
+    "en": "external",
+    "ak": "Abɔnten"
+  }},
+  {"translation": {
+    "en": "external circuit",
+    "ak": "beae foforo anyinam nhama kyinhyia"
+  }},
+  {"translation": {
+    "en": "extinct",
+    "ak": "Aseɛ ahye"
+  }},
+  {"translation": {
+    "en": "extinguishing agent",
+    "ak": "nkanyande a edum gya"
+  }},
+  {"translation": {
+    "en": "extraction",
+    "ak": "Adetwe(ade a woyi)"
+  }},
+  {"translation": {
+    "en": "fact",
+    "ak": "Nokwasɛm"
+  }},
+  {"translation": {
+    "en": "factice",
+    "ak": "sɛnnahɔ"
+  }},
+  {"translation": {
+    "en": "factor",
+    "ak": "Deɛ nti"
+  }},
+  {"translation": {
+    "en": "Fahrenheit (°F)",
+    "ak": "Fahrenheit (°F)"
+  }},
+  {"translation": {
+    "en": "family",
+    "ak": "abusua"
+  }},
+  {"translation": {
+    "en": "fat",
+    "ak": "Sradeɛ"
+  }},
+  {"translation": {
+    "en": "Fat",
+    "ak": "Srade"
+  }},
+  {"translation": {
+    "en": "fatty acid",
+    "ak": "srade asede"
+  }},
+  {"translation": {
+    "en": "fatty alcohol",
+    "ak": "srade nsa"
+  }},
+  {"translation": {
+    "en": "fault",
+    "ak": "Atɔkyew/mfomso"
+  }},
+  {"translation": {
+    "en": "feature",
+    "ak": "Su"
+  }},
+  {"translation": {
+    "en": "features",
+    "ak": "Su ahodoɔ"
+  }},
+  {"translation": {
+    "en": "feedstock",
+    "ak": "nea wɔde yɛ ade foforo bi"
+  }},
+  {"translation": {
+    "en": "female sex cell",
+    "ak": "Mmaa sɛll a ɛfa nna nsɛm ho (mmea bɔbeasu nkwammoa)"
+  }},
+  {"translation": {
+    "en": "fermentation",
+    "ak": "ade rekaw"
+  }},
+  {"translation": {
+    "en": "fermentation tube",
+    "ak": "Toa a wɔde kaw ade"
+  }},
+  {"translation": {
+    "en": "fermium",
+    "ak": "fɛmiɔm"
+  }},
+  {"translation": {
+    "en": "Ferric",
+    "ak": "nea iron wom"
+  }},
+  {"translation": {
+    "en": "ferroalloy",
+    "ak": "dade mfrae a iron wom"
+  }},
+  {"translation": {
+    "en": "ferrous",
+    "ak": "nea iron wom"
+  }},
+  {"translation": {
+    "en": "fertilization",
+    "ak": "Sɛ kosua repae (sɛ ɔbarima nkwammoa ne ɔbea nkesua bedi\nafra)"
+  }},
+  {"translation": {
+    "en": "fertilized",
+    "ak": "Kosua apae (sɛnea ɔbarima nkwammoa ne ɔbea nkesua di\nafra)"
+  }},
+  {"translation": {
+    "en": "fertilizer",
+    "ak": "Fɛtilaisa (ɔyɛ asase yiye)"
+  }},
+  {"translation": {
+    "en": "fiber",
+    "ak": "Nhomanhoma"
+  }},
+  {"translation": {
+    "en": "fiber",
+    "ak": "hama ade"
+  }},
+  {"translation": {
+    "en": "file",
+    "ak": "dade a ɛwɔ se"
+  }},
+  {"translation": {
+    "en": "filler",
+    "ak": "Akade"
+  }},
+  {"translation": {
+    "en": "filter",
+    "ak": "Nsɔnesoɔ"
+  }},
+  {"translation": {
+    "en": "filtrate",
+    "ak": "nea wɔde afa mu"
+  }},
+  {"translation": {
+    "en": "filtration",
+    "ak": "adesɔn"
+  }},
+  {"translation": {
+    "en": "fish",
+    "ak": "Apataa/nam"
+  }},
+  {"translation": {
+    "en": "fission",
+    "ak": "nkwammoa mpaepaemu"
+  }},
+  {"translation": {
+    "en": "fission reactor",
+    "ak": "nea ɛde nkwammoa mpaepaemu ba"
+  }},
+  {"translation": {
+    "en": "fixed",
+    "ak": "ɛnsesa"
+  }},
+  {"translation": {
+    "en": "fixed pulley",
+    "ak": "Dadeɛ a etim hɔ na hama sesa baabi  a ɛtwe adeɛ"
+  }},
+  {"translation": {
+    "en": "flame",
+    "ak": "ogya"
+  }},
+  {"translation": {
+    "en": "flammable material",
+    "ak": "ade a ogya tumi hyew ntɛm"
+  }},
+  {"translation": {
+    "en": "flood",
+    "ak": "Nsuyiri"
+  }},
+  {"translation": {
+    "en": "Florence flask",
+    "ak": "Florence toa"
+  }},
+  {"translation": {
+    "en": "flow chart",
+    "ak": "Adesua nfonin a ɛkyerɛ biribi"
+  }},
+  {"translation": {
+    "en": "flow diagram",
+    "ak": "nnidisonnidiso mfonin"
+  }},
+  {"translation": {
+    "en": "flower",
+    "ak": "Nhweren (nhwiren)"
+  }},
+  {"translation": {
+    "en": "fluid",
+    "ak": "Nsuonsuo"
+  }},
+  {"translation": {
+    "en": "fluoride",
+    "ak": "flɔraidi"
+  }},
+  {"translation": {
+    "en": "fluorocarbon",
+    "ak": "florokabɔn"
+  }},
+  {"translation": {
+    "en": "fluorspar",
+    "ak": "flɔspa"
+  }},
+  {"translation": {
+    "en": "flux",
+    "ak": "dade a wɔanan afrade"
+  }},
+  {"translation": {
+    "en": "folded",
+    "ak": "Abobɔ"
+  }},
+  {"translation": {
+    "en": "food",
+    "ak": "Aduane"
+  }},
+  {"translation": {
+    "en": "food chain",
+    "ak": "Aduane nkɔnsɔnkɔnsɔn"
+  }},
+  {"translation": {
+    "en": "food web",
+    "ak": "Aduane ntentan"
+  }},
+  {"translation": {
+    "en": "for every action there is an equal or opposite\nreaction",
+    "ak": "Nneɔɛ biara no wɔ ho muaeɛ a anohyeɛ no yɛpɛ"
+  }},
+  {"translation": {
+    "en": "force",
+    "ak": "Ahoɔden"
+  }},
+  {"translation": {
+    "en": "force",
+    "ak": "tumi"
+  }},
+  {"translation": {
+    "en": "forceps Florence flask",
+    "ak": "Florence toa nta"
+  }},
+  {"translation": {
+    "en": "forecast",
+    "ak": "Wore kyerɛ deɛ ebetumi asi daakye"
+  }},
+  {"translation": {
+    "en": "forensic chemistry",
+    "ak": "abɔde yɛbea ho nhomasua a mmaranimfo hia"
+  }},
+  {"translation": {
+    "en": "form",
+    "ak": "Nwene"
+  }},
+  {"translation": {
+    "en": "formaldehyde",
+    "ak": "fɔmaldehaidi"
+  }},
+  {"translation": {
+    "en": "formation",
+    "ak": "Adenwene"
+  }},
+  {"translation": {
+    "en": "formation",
+    "ak": "yɛbea"
+  }},
+  {"translation": {
+    "en": "former",
+    "ak": "Deɛ edi anim"
+  }},
+  {"translation": {
+    "en": "formic acid",
+    "ak": "ntɛtea mu asede"
+  }},
+  {"translation": {
+    "en": "formula",
+    "ak": "Nea wonam so nya muaeɛ"
+  }},
+  {"translation": {
+    "en": "formula",
+    "ak": "ɔkwan"
+  }},
+  {"translation": {
+    "en": "formulate",
+    "ak": "Nwene"
+  }},
+  {"translation": {
+    "en": "fossil",
+    "ak": "mfueɛ ne mmoa nkaedeɛ"
+  }},
+  {"translation": {
+    "en": "fossil",
+    "ak": "afifide ne mmoa nkaede"
+  }},
+  {"translation": {
+    "en": "fossil fuel",
+    "ak": "Adeɛ a etumi sɔ egya mfueɛ ne mmoa nkaedeɛ"
+  }},
+  {"translation": {
+    "en": "fractional distillation",
+    "ak": "nsu kurunyennyɛ a wɔkyekyem"
+  }},
+  {"translation": {
+    "en": "francium",
+    "ak": "fransiɔm"
+  }},
+  {"translation": {
+    "en": "free energy",
+    "ak": "adwumayɛ tumi"
+  }},
+  {"translation": {
+    "en": "free radical",
+    "ak": "adewa a ahwere ne fa bi"
+  }},
+  {"translation": {
+    "en": "freezing",
+    "ak": "Ɛredane nsuboɔ"
+  }},
+  {"translation": {
+    "en": "freezing",
+    "ak": "ɛreyɛ asukɔkyea/nwini"
+  }},
+  {"translation": {
+    "en": "freezing point",
+    "ak": "mpɛnpɛnso a ade yɛ asukɔkyea/nwini"
+  }},
+  {"translation": {
+    "en": "freezing point depression",
+    "ak": "mpɛnpɛnso a ade ayɛ asukɔkyea kɔ fam"
+  }},
+  {"translation": {
+    "en": "frequency",
+    "ak": "Berɛ dodoɔ a ɛtae si"
+  }},
+  {"translation": {
+    "en": "frequency",
+    "ak": "pɛn dodow"
+  }},
+  {"translation": {
+    "en": "friction",
+    "ak": "akakri"
+  }},
+  {"translation": {
+    "en": "front",
+    "ak": "Anim"
+  }},
+  {"translation": {
+    "en": "fruit",
+    "ak": "Aduaba"
+  }},
+  {"translation": {
+    "en": "fuel",
+    "ak": "Adeɛ a etumi sɔ egya"
+  }},
+  {"translation": {
+    "en": "fuel",
+    "ak": "nea wɔde sɔ gya"
+  }},
+  {"translation": {
+    "en": "fulcrum",
+    "ak": "Afidie fa ɛma afidie twa ne ho"
+  }},
+  {"translation": {
+    "en": "function",
+    "ak": "Adeyɔ"
+  }},
+  {"translation": {
+    "en": "function of living things",
+    "ak": "Deɛ Abɔdeɛ yɛ"
+  }},
+  {"translation": {
+    "en": "functional group",
+    "ak": "kuw a emufo yɛbea sesɛ"
+  }},
+  {"translation": {
+    "en": "fundamental particle",
+    "ak": "adewa titiriw"
+  }},
+  {"translation": {
+    "en": "fungi",
+    "ak": "Fungi/afifide"
+  }},
+  {"translation": {
+    "en": "funnel",
+    "ak": "funrɛ"
+  }},
+  {"translation": {
+    "en": "fuse",
+    "ak": "nea etwa anyinam mu"
+  }},
+  {"translation": {
+    "en": "fused salt",
+    "ak": "nkyene a wɔde ade aka ho"
+  }},
+  {"translation": {
+    "en": "fusible alloy",
+    "ak": "dade a wotumi de foforo fra"
+  }},
+  {"translation": {
+    "en": "fusion",
+    "ak": "nneɛma abien nkabom"
+  }},
+  {"translation": {
+    "en": "fusion reactor",
+    "ak": "nneɛma abien nkabom nkanyandeu"
+  }},
+  {"translation": {
+    "en": "gadolinium",
+    "ak": "gaduliniɔm"
+  }},
+  {"translation": {
+    "en": "galaxy",
+    "ak": "Wiemu nsroma ahodoɔ (nsoromakuw)"
+  }},
+  {"translation": {
+    "en": "gallium",
+    "ak": "galiɔm"
+  }},
+  {"translation": {
+    "en": "gallium arsenide",
+    "ak": "galiɔm asinaidi"
+  }},
+  {"translation": {
+    "en": "galvanizing",
+    "ak": "sinki a wɔde kata"
+  }},
+  {"translation": {
+    "en": "gamma rays",
+    "ak": "gamma nkanea"
+  }},
+  {"translation": {
+    "en": "garbage",
+    "ak": "Nwura"
+  }},
+  {"translation": {
+    "en": "garnet",
+    "ak": "gaanit"
+  }},
+  {"translation": {
+    "en": "gas",
+    "ak": "Mframagya"
+  }},
+  {"translation": {
+    "en": "gas",
+    "ak": "mframa"
+  }},
+  {"translation": {
+    "en": "gas giants",
+    "ak": "Mframa mu okunin"
+  }},
+  {"translation": {
+    "en": "gas phase",
+    "ak": "mframa fa"
+  }},
+  {"translation": {
+    "en": "gasification",
+    "ak": "mframa dan"
+  }},
+  {"translation": {
+    "en": "gem",
+    "ak": "Ɛboɔ a ne boɔ yɛ den"
+  }},
+  {"translation": {
+    "en": "gene",
+    "ak": "Gene"
+  }},
+  {"translation": {
+    "en": "generation",
+    "ak": "Abɔdeɛ ekuo (awo ntoatoaso)"
+  }},
+  {"translation": {
+    "en": "generator",
+    "ak": "Afidie a ɛma nyinam ahoɔden"
+  }},
+  {"translation": {
+    "en": "genetic engineering",
+    "ak": "Nkekabom a ɛkɔ so genetike"
+  }},
+  {"translation": {
+    "en": "genetic material",
+    "ak": "Genetike ho adeɛ"
+  }},
+  {"translation": {
+    "en": "genetic variation",
+    "ak": "Genetike mu adaneadane"
+  }},
+  {"translation": {
+    "en": "genetically",
+    "ak": "Ɛfa genetike ho"
+  }},
+  {"translation": {
+    "en": "geologist",
+    "ak": "Nimdefoɔ a osua aboɔ mu nsɛm"
+  }},
+  {"translation": {
+    "en": "geothermal energy",
+    "ak": "Ɔhyew tumi a efri asaase ase pue"
+  }},
+  {"translation": {
+    "en": "germ",
+    "ak": "Mmoawa a wɔde yareɛ ba"
+  }},
+  {"translation": {
+    "en": "germination",
+    "ak": "Ade fefɛ"
+  }},
+  {"translation": {
+    "en": "glacier",
+    "ak": "Asukɔkyea a akantoa"
+  }},
+  {"translation": {
+    "en": "gland",
+    "ak": "Nipadua no akwaa a ekyikyi nnuro gu mogya mu"
+  }},
+  {"translation": {
+    "en": "global",
+    "ak": "Ewiase"
+  }},
+  {"translation": {
+    "en": "global climate",
+    "ak": "Ewiase wiem nsakraeɛ"
+  }},
+  {"translation": {
+    "en": "global warming",
+    "ak": "Ewiase hyewbɔ"
+  }},
+  {"translation": {
+    "en": "glycerol",
+    "ak": "glaiserol"
+  }},
+  {"translation": {
+    "en": "glycol",
+    "ak": "glaikɔl"
+  }},
+  {"translation": {
+    "en": "goggles",
+    "ak": "ahwehwɛaniwa"
+  }},
+  {"translation": {
+    "en": "gold",
+    "ak": "sika kɔkɔɔ"
+  }},
+  {"translation": {
+    "en": "graduated beaker",
+    "ak": "nhwehwɛmu kuruwa a wɔakyekyem"
+  }},
+  {"translation": {
+    "en": "graduated cylinder",
+    "ak": "Selenda a yɛde nsusudeɛ wɔ ho"
+  }},
+  {"translation": {
+    "en": "graduated cylinder",
+    "ak": "nhwehwɛmu toa a wɔakyekyem"
+  }},
+  {"translation": {
+    "en": "graduated pipette",
+    "ak": "nhwehwɛmu toa a wɔakyekyem"
+  }},
+  {"translation": {
+    "en": "gram",
+    "ak": "gram"
+  }},
+  {"translation": {
+    "en": "gram (g)",
+    "ak": "Gram (g)"
+  }},
+  {"translation": {
+    "en": "gram atomic mass",
+    "ak": "gram atɔm mu duru"
+  }},
+  {"translation": {
+    "en": "gram equivalent mass",
+    "ak": "gram mmoano abien a ɛyɛ pɛ"
+  }},
+  {"translation": {
+    "en": "gram molecular mass",
+    "ak": "gram adew mu duru"
+  }},
+  {"translation": {
+    "en": "gram molecular volume",
+    "ak": "gram adewa kɛse"
+  }},
+  {"translation": {
+    "en": "graph",
+    "ak": "Nkonta mu nfonin"
+  }},
+  {"translation": {
+    "en": "graphic",
+    "ak": "Ɛdan adi"
+  }},
+  {"translation": {
+    "en": "graphite",
+    "ak": "grafite"
+  }},
+  {"translation": {
+    "en": "gravimetric analysis",
+    "ak": "emu duru pɔtee nhwehwɛmu"
+  }},
+  {"translation": {
+    "en": "gravitational",
+    "ak": "Ɛfa abɔdeɛ mu ahoɔden a ɛtwe adeɛ ba fam"
+  }},
+  {"translation": {
+    "en": "gravity",
+    "ak": "Abɔdeɛ mu ahoɔden a ɛtwe adeɛ ba fam (tumi a ɛtwe adeɛ\nba fam)"
+  }},
+  {"translation": {
+    "en": "gravity",
+    "ak": "tumi a ɛtwe ade ba fam"
+  }},
+  {"translation": {
+    "en": "grease",
+    "ak": "ngo a wɔde ka"
+  }},
+  {"translation": {
+    "en": "greatest",
+    "ak": "Papapaa a ɛwɔ mu (kɛse paa a ɛwɔ mu)"
+  }},
+  {"translation": {
+    "en": "green plant",
+    "ak": "Mfueɛ/afifide"
+  }},
+  {"translation": {
+    "en": "greenhouse gas",
+    "ak": "Mframa a ɛwowɔ ewiem"
+  }},
+  {"translation": {
+    "en": "ground state",
+    "ak": "tumi a ɛbam sen"
+  }},
+  {"translation": {
+    "en": "groundwater",
+    "ak": "Asaase ase nsuo"
+  }},
+  {"translation": {
+    "en": "group",
+    "ak": "Ekuo"
+  }},
+  {"translation": {
+    "en": "group",
+    "ak": "Kuw"
+  }},
+  {"translation": {
+    "en": "grow",
+    "ak": "Nyini"
+  }},
+  {"translation": {
+    "en": "growth",
+    "ak": "Onyini"
+  }},
+  {"translation": {
+    "en": "guncotton",
+    "ak": "gankɔtin"
+  }},
+  {"translation": {
+    "en": "habit",
+    "ak": "Suban"
+  }},
+  {"translation": {
+    "en": "habitat",
+    "ak": "Abɔdeɛ teasefoɔ bi tenabea"
+  }},
+  {"translation": {
+    "en": "hafnium",
+    "ak": "hafniɔm"
+  }},
+  {"translation": {
+    "en": "half-life",
+    "ak": "bere a edi ma ade so tew ka fa"
+  }},
+  {"translation": {
+    "en": "half-reaction",
+    "ak": "adeyɛ fa"
+  }},
+  {"translation": {
+    "en": "halogen",
+    "ak": "Halogyin"
+  }},
+  {"translation": {
+    "en": "hand lens",
+    "ak": "Ahwehwɛniwa a yɛde kuta"
+  }},
+  {"translation": {
+    "en": "hard water",
+    "ak": "nsu a emu yɛ den"
+  }},
+  {"translation": {
+    "en": "hardness",
+    "ak": "Ne denden (ne denyɛ)"
+  }},
+  {"translation": {
+    "en": "hardness",
+    "ak": "ade den"
+  }},
+  {"translation": {
+    "en": "harmful",
+    "ak": "Etumi pira"
+  }},
+  {"translation": {
+    "en": "hazardous",
+    "ak": "Etumi di awu"
+  }},
+  {"translation": {
+    "en": "healthy habit",
+    "ak": "Suban papa"
+  }},
+  {"translation": {
+    "en": "hearth",
+    "ak": "Efie (muka/fononoo)"
+  }},
+  {"translation": {
+    "en": "hearth muscle",
+    "ak": "Akoma ho ntinintini"
+  }},
+  {"translation": {
+    "en": "heat",
+    "ak": "Ɔhyew"
+  }},
+  {"translation": {
+    "en": "heat",
+    "ak": "ɔhyew"
+  }},
+  {"translation": {
+    "en": "heat energy",
+    "ak": "Tumi a efri ɔhyew mu"
+  }},
+  {"translation": {
+    "en": "heat exchange",
+    "ak": "ɔhyew kyɛ"
+  }},
+  {"translation": {
+    "en": "heat of combustion",
+    "ak": "ɔhyew a ɛhyew"
+  }},
+  {"translation": {
+    "en": "heat of condensation",
+    "ak": "ɔhyew a ɛma ade dan nsu"
+  }},
+  {"translation": {
+    "en": "heat of crystallization",
+    "ak": "ɔhyew a ɛma ade dan aboabo"
+  }},
+  {"translation": {
+    "en": "heat of dilution",
+    "ak": "ɔhyew a ɛma nsu mu ade so te"
+  }},
+  {"translation": {
+    "en": "heat of formation",
+    "ak": "ɔhyew a ɛma yɛbea bi"
+  }},
+  {"translation": {
+    "en": "heat of fusion",
+    "ak": "ɔhyew a ɛma nkabom"
+  }},
+  {"translation": {
+    "en": "heat of hydration",
+    "ak": "ɔhyew a ɛma ade mu nsu dɔɔso"
+  }},
+  {"translation": {
+    "en": "heat of reaction",
+    "ak": "ɔhyew a ɛde nsunsuanso bi ba"
+  }},
+  {"translation": {
+    "en": "heat of solution",
+    "ak": "nsu afrae hyew"
+  }},
+  {"translation": {
+    "en": "heat of sublimation",
+    "ak": "ɔhyew a ɛma ade dan mframa"
+  }},
+  {"translation": {
+    "en": "heat of transition",
+    "ak": "adaneadane hyew"
+  }},
+  {"translation": {
+    "en": "heat of vaporization",
+    "ak": "ɔhyew a ɛma suwusiw"
+  }},
+  {"translation": {
+    "en": "heat transfer",
+    "ak": "ɔhyew a efi kɔ foforo mu"
+  }},
+  {"translation": {
+    "en": "heavy hydrogen",
+    "ak": "haidrogyen duruduru"
+  }},
+  {"translation": {
+    "en": "heavy water",
+    "ak": "nsu a emu yɛ duru"
+  }},
+  {"translation": {
+    "en": "helium",
+    "ak": "hiliɔm"
+  }},
+  {"translation": {
+    "en": "herbivore",
+    "ak": "Mmoa a wɔye nwura nkoa"
+  }},
+  {"translation": {
+    "en": "hereditary",
+    "ak": "Adeɛ yɛ nya fri awoɔ ntotoaso mu"
+  }},
+  {"translation": {
+    "en": "heredity",
+    "ak": "Adeɛ yɛnya fri awoɔ mu"
+  }},
+  {"translation": {
+    "en": "hertz",
+    "ak": "pɛn dodow susude"
+  }},
+  {"translation": {
+    "en": "heterocyclic",
+    "ak": "adewa ahorow a etwa kɔntɔnkrɔn"
+  }},
+  {"translation": {
+    "en": "heterogeneous mixture",
+    "ak": "afrade a emu nneɛma dɔɔso"
+  }},
+  {"translation": {
+    "en": "heterogeneous reaction",
+    "ak": "nea efi nneɛma ahorow mu ba"
+  }},
+  {"translation": {
+    "en": "hibernation",
+    "ak": "Bɔ woho adwaa"
+  }},
+  {"translation": {
+    "en": "high polymer",
+    "ak": "soro pɔlima"
+  }},
+  {"translation": {
+    "en": "holmium",
+    "ak": "holmiɔm"
+  }},
+  {"translation": {
+    "en": "holt-melt",
+    "ak": "holt-adenan"
+  }},
+  {"translation": {
+    "en": "homo polymer",
+    "ak": "pɔlima a emu ade sesɛ"
+  }},
+  {"translation": {
+    "en": "homogenous mixture",
+    "ak": "afrade a emu nneɛma yɛ biako"
+  }},
+  {"translation": {
+    "en": "homogenous reaction",
+    "ak": "nea efi ade biako mu ba"
+  }},
+  {"translation": {
+    "en": "homologous series",
+    "ak": "ahorow a efi faako"
+  }},
+  {"translation": {
+    "en": "hormone",
+    "ak": "Nnuro bi a ekyi gu mogya mu"
+  }},
+  {"translation": {
+    "en": "host",
+    "ak": "Nea ɔgye hohoɔ"
+  }},
+  {"translation": {
+    "en": "human",
+    "ak": "Nnipa"
+  }},
+  {"translation": {
+    "en": "human cell",
+    "ak": "Nnipa mu akwaawa"
+  }},
+  {"translation": {
+    "en": "humectant",
+    "ak": "nea wɔde ka foforo ho ma no fɔ"
+  }},
+  {"translation": {
+    "en": "humid",
+    "ak": "Nsuo ɛwɔ wiem"
+  }},
+  {"translation": {
+    "en": "humidity",
+    "ak": "Nsuo a ɛwɔ wiem"
+  }},
+  {"translation": {
+    "en": "hurricane",
+    "ak": "Ɛpo mu mfamahyew"
+  }},
+  {"translation": {
+    "en": "hybrid",
+    "ak": "ahorow nkabom"
+  }},
+  {"translation": {
+    "en": "hybridization",
+    "ak": "ahorow nkabom"
+  }},
+  {"translation": {
+    "en": "hydrate",
+    "ak": "fa nsu hyɛ"
+  }},
+  {"translation": {
+    "en": "hydration",
+    "ak": "nsu hyɛ"
+  }},
+  {"translation": {
+    "en": "hydrocarbon",
+    "ak": "haidrokabɔn"
+  }},
+  {"translation": {
+    "en": "hydrochloric acid",
+    "ak": "haidroklɔrik asede"
+  }},
+  {"translation": {
+    "en": "hydrocolloid",
+    "ak": "nea ɛfra nsu ma ɛyɛ nku"
+  }},
+  {"translation": {
+    "en": "hydrocyanic acid",
+    "ak": "haidrosianik asede"
+  }},
+  {"translation": {
+    "en": "hydroelectric power",
+    "ak": "Nyinam ahoɔden a efri nsuo"
+  }},
+  {"translation": {
+    "en": "hydrogen",
+    "ak": "Haidrogyen"
+  }},
+  {"translation": {
+    "en": "hydrogen bomb",
+    "ak": "haidrogyen topae"
+  }},
+  {"translation": {
+    "en": "hydrogen bond",
+    "ak": "haidrogyen nkabom"
+  }},
+  {"translation": {
+    "en": "hydrogen chloride",
+    "ak": "haidrogyen klɔraidi"
+  }},
+  {"translation": {
+    "en": "hydrogen cyanide",
+    "ak": "haidrogyen sianaidi"
+  }},
+  {"translation": {
+    "en": "hydrogen fluoride",
+    "ak": "haidrogyen flɔraidi"
+  }},
+  {"translation": {
+    "en": "hydrogen iodine",
+    "ak": "haidrogyen iodin"
+  }},
+  {"translation": {
+    "en": "hydrogen peroxide",
+    "ak": "haidrogyen pɛrɔksaidi"
+  }},
+  {"translation": {
+    "en": "hydrogen sulfide",
+    "ak": "haidrogyen sufre"
+  }},
+  {"translation": {
+    "en": "hydrogenation",
+    "ak": "haidrogyen a wɔde fra"
+  }},
+  {"translation": {
+    "en": "hydrolysis",
+    "ak": "nsu a ɛka ade foforo ma ɛdan foforo"
+  }},
+  {"translation": {
+    "en": "hydrolysis constant",
+    "ak": "nea ɛnsesa wɔ nsu a ɛka ade foforo ma ɛdan foforo"
+  }},
+  {"translation": {
+    "en": "hydronium ion",
+    "ak": "haidroniɔm iɔn"
+  }},
+  {"translation": {
+    "en": "hydrophilic",
+    "ak": "kye nsu ntɛm"
+  }},
+  {"translation": {
+    "en": "hydrophobic",
+    "ak": "kyi nsu"
+  }},
+  {"translation": {
+    "en": "hydrosphere",
+    "ak": "Nsutam biara a ɛwɔ asaase so"
+  }},
+  {"translation": {
+    "en": "hydroxyl group",
+    "ak": "haidrosil kuw"
+  }},
+  {"translation": {
+    "en": "hygrometer",
+    "ak": "Afidie a yɛde susu ewiem nsuo"
+  }},
+  {"translation": {
+    "en": "hygroscopic",
+    "ak": "kye nsu fi mframa mu"
+  }},
+  {"translation": {
+    "en": "hypochlorite",
+    "ak": "nkyene a n'asede nyɛ den"
+  }},
+  {"translation": {
+    "en": "hypothesis",
+    "ak": "Nimdeɛ mu bɔtrimuka"
+  }},
+  {"translation": {
+    "en": "hypothesis",
+    "ak": "bɔtirimka"
+  }},
+  {"translation": {
+    "en": "I",
+    "ak": ""
+  }},
+  {"translation": {
+    "en": "ideal gas",
+    "ak": "mframa pa"
+  }},
+  {"translation": {
+    "en": "identical",
+    "ak": "Edi nsɛ"
+  }},
+  {"translation": {
+    "en": "identification",
+    "ak": "Ahyɛnsode"
+  }},
+  {"translation": {
+    "en": "identify",
+    "ak": "Hyɛ ne nso"
+  }},
+  {"translation": {
+    "en": "identity period",
+    "ak": "yɛbea bere"
+  }},
+  {"translation": {
+    "en": "igneous",
+    "ak": "Bepɔ mu gya a ada adi"
+  }},
+  {"translation": {
+    "en": "igneous rock",
+    "ak": "Bepɔ mu gya a adane botan"
+  }},
+  {"translation": {
+    "en": "illuminate",
+    "ak": "Ma ɛhan (hyerɛn)"
+  }},
+  {"translation": {
+    "en": "illustrate",
+    "ak": "Yi kyerɛ/yɛ nhwɛso"
+  }},
+  {"translation": {
+    "en": "immiscible",
+    "ak": "ntumi mfra"
+  }},
+  {"translation": {
+    "en": "immune system",
+    "ak": "Mogya mu akwaa a ɛkɔtia yareɛ"
+  }},
+  {"translation": {
+    "en": "impermeable",
+    "ak": "ade ntumi nwura mu"
+  }},
+  {"translation": {
+    "en": "impingement black",
+    "ak": "aduru tuntum"
+  }},
+  {"translation": {
+    "en": "impregnation",
+    "ak": "ade a wɔde wura foforo mu"
+  }},
+  {"translation": {
+    "en": "impurity",
+    "ak": "nea ɛmma ade mu nte"
+  }},
+  {"translation": {
+    "en": "inclined plane",
+    "ak": "Ntweaseɛ a akyea"
+  }},
+  {"translation": {
+    "en": "increase",
+    "ak": "Ɛkɔ soro"
+  }},
+  {"translation": {
+    "en": "increment",
+    "ak": "sorokɔ/nea ɛka ho"
+  }},
+  {"translation": {
+    "en": "indanthrene blue",
+    "ak": "indantrini bruu"
+  }},
+  {"translation": {
+    "en": "independent",
+    "ak": "Odi neho so"
+  }},
+  {"translation": {
+    "en": "independent variable",
+    "ak": "Adeɛ odi neho so"
+  }},
+  {"translation": {
+    "en": "Indian red",
+    "ak": "India kɔkɔɔ"
+  }},
+  {"translation": {
+    "en": "indicate",
+    "ak": "Kyerɛ"
+  }},
+  {"translation": {
+    "en": "indicator",
+    "ak": "Susude"
+  }},
+  {"translation": {
+    "en": "indirect",
+    "ak": "Ɛnnyɛ pɔtee"
+  }},
+  {"translation": {
+    "en": "indium",
+    "ak": "indiɔm"
+  }},
+  {"translation": {
+    "en": "individual",
+    "ak": "Ankorankorɛ"
+  }},
+  {"translation": {
+    "en": "industrial alcohol",
+    "ak": "mfridwuma mu nsa"
+  }},
+  {"translation": {
+    "en": "industrial diamonds",
+    "ak": "mfridwuma mu ndɛnkyɛmmo"
+  }},
+  {"translation": {
+    "en": "inert",
+    "ak": "ahoɔden nnim"
+  }},
+  {"translation": {
+    "en": "inertia",
+    "ak": "tumi a ɛmma ade nnkɔ"
+  }},
+  {"translation": {
+    "en": "infection",
+    "ak": "Nsaneyareɛ"
+  }},
+  {"translation": {
+    "en": "infectious disease",
+    "ak": "Nsaneyareɛ"
+  }},
+  {"translation": {
+    "en": "inference",
+    "ak": "Nea efri mu ba"
+  }},
+  {"translation": {
+    "en": "inflammable",
+    "ak": "tumi kye gya"
+  }},
+  {"translation": {
+    "en": "information",
+    "ak": "Nsɛm"
+  }},
+  {"translation": {
+    "en": "infrared spectroscopy",
+    "ak": "infrared nhwehwɛmu"
+  }},
+  {"translation": {
+    "en": "ingredient",
+    "ak": "Adeɛ bi mu nneɛma"
+  }},
+  {"translation": {
+    "en": "inherit",
+    "ak": "Bedi adeɛ"
+  }},
+  {"translation": {
+    "en": "inheritance",
+    "ak": "Adedie"
+  }},
+  {"translation": {
+    "en": "inherited adaptation",
+    "ak": "Tenabea a awofoɔ adane(su a yenya fi awofo hɔ a etumi\nsesa)"
+  }},
+  {"translation": {
+    "en": "inherited trait",
+    "ak": "Esu a yenya fri awofoɔ"
+  }},
+  {"translation": {
+    "en": "inhibitor",
+    "ak": "nea esi kwan"
+  }},
+  {"translation": {
+    "en": "initiating explosive",
+    "ak": "topae a ɛtwetwe"
+  }},
+  {"translation": {
+    "en": "initiator",
+    "ak": "nea ɛde ba"
+  }},
+  {"translation": {
+    "en": "inorganic analysis",
+    "ak": "nea nkwa nnim nhwehwɛmu"
+  }},
+  {"translation": {
+    "en": "inorganic chemistry",
+    "ak": "abɔde a nkwa nnim yɛbea ho nhomasua"
+  }},
+  {"translation": {
+    "en": "insect",
+    "ak": "Aboa a onni kasɛɛ"
+  }},
+  {"translation": {
+    "en": "insecticide",
+    "ak": "aduru a ekum ntummoa"
+  }},
+  {"translation": {
+    "en": "instrument",
+    "ak": "Anwenade"
+  }},
+  {"translation": {
+    "en": "instrumental analysis",
+    "ak": "akade ho nhwehwɛmu"
+  }},
+  {"translation": {
+    "en": "insulator",
+    "ak": "Adeɛ ɔhyew ntumi mfa mu"
+  }},
+  {"translation": {
+    "en": "insulin",
+    "ak": "aduru a ɛde nipaduam sikyere di dwuma"
+  }},
+  {"translation": {
+    "en": "intensive properties",
+    "ak": "emu yɛbea"
+  }},
+  {"translation": {
+    "en": "interact",
+    "ak": "Di nsawɔsoɔ (di nkitaho)"
+  }},
+  {"translation": {
+    "en": "interaction",
+    "ak": "Nsawɔsodie (nkitahodi)"
+  }},
+  {"translation": {
+    "en": "interface",
+    "ak": "beae a ahorow hyia"
+  }},
+  {"translation": {
+    "en": "interionic attraction",
+    "ak": "emu adetwe"
+  }},
+  {"translation": {
+    "en": "interior",
+    "ak": "Emu"
+  }},
+  {"translation": {
+    "en": "intermediate",
+    "ak": "adantam"
+  }},
+  {"translation": {
+    "en": "intermetallic compound",
+    "ak": "nnade adewa nkabom"
+  }},
+  {"translation": {
+    "en": "internal",
+    "ak": "Emu"
+  }},
+  {"translation": {
+    "en": "internal circuit",
+    "ak": "emu anyinam nhama kyinhyia"
+  }},
+  {"translation": {
+    "en": "interpret",
+    "ak": "Kyerɛ aseɛ"
+  }},
+  {"translation": {
+    "en": "interstitial",
+    "ak": "ɛfa akwaa horow ntam tokuru ho"
+  }},
+  {"translation": {
+    "en": "interval",
+    "ak": "Ɛkwan a ɛda ntɛm"
+  }},
+  {"translation": {
+    "en": "inversion",
+    "ak": "Edi adane"
+  }},
+  {"translation": {
+    "en": "invertebrate",
+    "ak": "Mmoa a wɔnni akyi kasɛɛ"
+  }},
+  {"translation": {
+    "en": "investigation",
+    "ak": "Nhwehwɛmu"
+  }},
+  {"translation": {
+    "en": "iodine",
+    "ak": "iodin"
+  }},
+  {"translation": {
+    "en": "ion",
+    "ak": "Ion"
+  }},
+  {"translation": {
+    "en": "ion",
+    "ak": "iɔn"
+  }},
+  {"translation": {
+    "en": "ion-exchange reaction",
+    "ak": "iɔn nkitahodi dwumadi"
+  }},
+  {"translation": {
+    "en": "ionic bond",
+    "ak": "Ionik mfamho"
+  }},
+  {"translation": {
+    "en": "ionic bonding",
+    "ak": "iɔn nneɛma nkabom"
+  }},
+  {"translation": {
+    "en": "ionic conduction",
+    "ak": "iɔn a ɛfa biribi mu"
+  }},
+  {"translation": {
+    "en": "ionization",
+    "ak": "iɔn a wɔde ka"
+  }},
+  {"translation": {
+    "en": "ionization constant",
+    "ak": "iɔn a wɔde ka a ɛnsakra"
+  }},
+  {"translation": {
+    "en": "ionization of energy",
+    "ak": "tumi a wɔde iɔn ka ho"
+  }},
+  {"translation": {
+    "en": "ionization potential",
+    "ak": "iɔn a wɔde aka ho tumi"
+  }},
+  {"translation": {
+    "en": "ionone",
+    "ak": "ionone"
+  }},
+  {"translation": {
+    "en": "ion-product constant of water",
+    "ak": "iɔn nsu ade"
+  }},
+  {"translation": {
+    "en": "iridium",
+    "ak": "iridiɔm"
+  }},
+  {"translation": {
+    "en": "iron",
+    "ak": "dade"
+  }},
+  {"translation": {
+    "en": "iron (Fe)",
+    "ak": "Dadeɛ iron (Fe)"
+  }},
+  {"translation": {
+    "en": "iron blue",
+    "ak": "dade bruu"
+  }},
+  {"translation": {
+    "en": "iron oxide",
+    "ak": "aiɔn ɔksaidi"
+  }},
+  {"translation": {
+    "en": "irregular",
+    "ak": "Enni abosuo pɔtee bi"
+  }},
+  {"translation": {
+    "en": "irreversible",
+    "ak": "ntumi nnan"
+  }},
+  {"translation": {
+    "en": "isolate",
+    "ak": "Yi fri ɛdɔm mu"
+  }},
+  {"translation": {
+    "en": "isolation",
+    "ak": "nteho"
+  }},
+  {"translation": {
+    "en": "isomer",
+    "ak": "isoma"
+  }},
+  {"translation": {
+    "en": "isomerization",
+    "ak": "isoma a wɔma ade yɛ"
+  }},
+  {"translation": {
+    "en": "isopropyl alcohol",
+    "ak": "isoprɔpil nsa"
+  }},
+  {"translation": {
+    "en": "isotactic",
+    "ak": "isotaktik"
+  }},
+  {"translation": {
+    "en": "isotonic",
+    "ak": "nea wɔn adewura yɛ pɛ"
+  }},
+  {"translation": {
+    "en": "isotope",
+    "ak": "isotop"
+  }},
+  {"translation": {
+    "en": "isotropic",
+    "ak": "kura isotop yɛbea"
+  }},
+  {"translation": {
+    "en": "IUPAC system",
+    "ak": "IUPAC nhyehyɛe"
+  }},
+  {"translation": {
+    "en": "ivory black",
+    "ak": "ɔsono mmɛn a wɔahye ayam"
+  }},
+  {"translation": {
+    "en": "jellyfish",
+    "ak": "Nsuomu aboa"
+  }},
+  {"translation": {
+    "en": "joint",
+    "ak": "N’apɔso"
+  }},
+  {"translation": {
+    "en": "joule",
+    "ak": "joule"
+  }},
+  {"translation": {
+    "en": "Kelvin scale",
+    "ak": "Kelvin susudua"
+  }},
+  {"translation": {
+    "en": "kerosene",
+    "ak": "keresin"
+  }},
+  {"translation": {
+    "en": "ketone",
+    "ak": "kiton"
+  }},
+  {"translation": {
+    "en": "kilogram",
+    "ak": "kilogram"
+  }},
+  {"translation": {
+    "en": "kilogram (kg)",
+    "ak": "Kilogram (kg)"
+  }},
+  {"translation": {
+    "en": "kiloliter (kl)",
+    "ak": "Kilolita (kl)"
+  }},
+  {"translation": {
+    "en": "kilometer (km)",
+    "ak": "Kilometa"
+  }},
+  {"translation": {
+    "en": "kinetic energy",
+    "ak": "Kinɛtik ahoɔden"
+  }},
+  {"translation": {
+    "en": "kinetic energy",
+    "ak": "nea ɛrekɔ tumi"
+  }},
+  {"translation": {
+    "en": "kinetic theory",
+    "ak": "nea ɛrekɔ ho nsusuwii"
+  }},
+  {"translation": {
+    "en": "kinetics",
+    "ak": "nea ɛrekɔ tumi ho adesua"
+  }},
+  {"translation": {
+    "en": "kingdom",
+    "ak": "Ahinie (ahenni)"
+  }},
+  {"translation": {
+    "en": "knowledge",
+    "ak": "Nimdeɛ"
+  }},
+  {"translation": {
+    "en": "krypton",
+    "ak": "kriptin"
+  }},
+  {"translation": {
+    "en": "label",
+    "ak": "Ahyɛnsodeɛ"
+  }},
+  {"translation": {
+    "en": "laboratory burner",
+    "ak": "nhwehwɛmubea gya afiri"
+  }},
+  {"translation": {
+    "en": "lactic acid",
+    "ak": "nufusu mu asede"
+  }},
+  {"translation": {
+    "en": "lactone",
+    "ak": "lakton"
+  }},
+  {"translation": {
+    "en": "lake",
+    "ak": "osutare"
+  }},
+  {"translation": {
+    "en": "landslide",
+    "ak": "Asaase dwiri"
+  }},
+  {"translation": {
+    "en": "Lanthanide series",
+    "ak": "Lanthanide ahorow"
+  }},
+  {"translation": {
+    "en": "large intestine",
+    "ak": "Nsono akɛseɛ"
+  }},
+  {"translation": {
+    "en": "larva",
+    "ak": "Osa"
+  }},
+  {"translation": {
+    "en": "laser",
+    "ak": "Lesa kaneɛ"
+  }},
+  {"translation": {
+    "en": "latent heat",
+    "ak": "ɔhyew a ɛnna adi"
+  }},
+  {"translation": {
+    "en": "latent solvent",
+    "ak": "nea ade fra mu a ɛnna adi"
+  }},
+  {"translation": {
+    "en": "latitude",
+    "ak": "Kwan tenten a ɛda ewiase atifi kosi anaafoɔ"
+  }},
+  {"translation": {
+    "en": "lattice",
+    "ak": "adewa nhyehyɛe"
+  }},
+  {"translation": {
+    "en": "lava",
+    "ak": "Nsugya a efri bepɔ mu"
+  }},
+  {"translation": {
+    "en": "Law of Conservation of Mass",
+    "ak": "Ade mu Duru a Wɔkora ho Mmara"
+  }},
+  {"translation": {
+    "en": "lawrencium",
+    "ak": "lɔrɛnsiɔm"
+  }},
+  {"translation": {
+    "en": "layer",
+    "ak": "Ntasoɔ (nkataso)"
+  }},
+  {"translation": {
+    "en": "lead",
+    "ak": "lɛd"
+  }},
+  {"translation": {
+    "en": "lead chromate",
+    "ak": "lɛd krometi"
+  }},
+  {"translation": {
+    "en": "leaf",
+    "ak": "Ahahan"
+  }},
+  {"translation": {
+    "en": "learned",
+    "ak": "Y’asua"
+  }},
+  {"translation": {
+    "en": "learned adaptation",
+    "ak": "Abrabɔ a y’asua"
+  }},
+  {"translation": {
+    "en": "least",
+    "ak": "Ketewaa koraa ɛwɔ mu"
+  }},
+  {"translation": {
+    "en": "leaves",
+    "ak": "Nhaban"
+  }},
+  {"translation": {
+    "en": "levee",
+    "ak": "Pampim a ɛwɔ nsuano"
+  }},
+  {"translation": {
+    "en": "level",
+    "ak": "mpɛnpɛnso"
+  }},
+  {"translation": {
+    "en": "lever",
+    "ak": "Daban"
+  }},
+  {"translation": {
+    "en": "life cycle",
+    "ak": "Abrabɔ mu mpɛnpɛnsoɔ ahodoɔ (nkwa kyinhyiadi)"
+  }},
+  {"translation": {
+    "en": "life span",
+    "ak": "Abɔdeɛ nkwanna"
+  }},
+  {"translation": {
+    "en": "lift",
+    "ak": "Kukru (ma so)"
+  }},
+  {"translation": {
+    "en": "light",
+    "ak": "Kanea/hann"
+  }},
+  {"translation": {
+    "en": "light metal",
+    "ak": "dade a emu yɛ hare"
+  }},
+  {"translation": {
+    "en": "light-years",
+    "ak": "Kanea mfeɛso"
+  }},
+  {"translation": {
+    "en": "lime",
+    "ak": "laime"
+  }},
+  {"translation": {
+    "en": "limestone",
+    "ak": "laime bo"
+  }},
+  {"translation": {
+    "en": "line graph",
+    "ak": "Nkonta mu nsensaneɛ nfonin"
+  }},
+  {"translation": {
+    "en": "lines of force",
+    "ak": "Ahoɔden nsensaneɛ"
+  }},
+  {"translation": {
+    "en": "link",
+    "ak": "Atoatoa"
+  }},
+  {"translation": {
+    "en": "lipid",
+    "ak": "srade ade"
+  }},
+  {"translation": {
+    "en": "liquefaction",
+    "ak": "nsudan"
+  }},
+  {"translation": {
+    "en": "liquid",
+    "ak": "Adeɛ ɛyɛ nsuonsuo"
+  }},
+  {"translation": {
+    "en": "liquid crystal",
+    "ak": "nsu a ɛda ahwehwɛbo su adi"
+  }},
+  {"translation": {
+    "en": "liquor",
+    "ak": "nsaden"
+  }},
+  {"translation": {
+    "en": "list",
+    "ak": "Tweɛtwerɛ"
+  }},
+  {"translation": {
+    "en": "liter",
+    "ak": "Lita"
+  }},
+  {"translation": {
+    "en": "liter (L)",
+    "ak": "Lita (L)"
+  }},
+  {"translation": {
+    "en": "litharge",
+    "ak": "litaagye"
+  }},
+  {"translation": {
+    "en": "lithium",
+    "ak": "litiɔm"
+  }},
+  {"translation": {
+    "en": "lithosphere",
+    "ak": "Ewiem fa a ɛwɔ nduraho"
+  }},
+  {"translation": {
+    "en": "litmus",
+    "ak": "litmɔs"
+  }},
+  {"translation": {
+    "en": "liver",
+    "ak": "Brɛboɔ"
+  }},
+  {"translation": {
+    "en": "living things",
+    "ak": "Abɔdeɛ a ɛtease (abɔde a nkwa wom)"
+  }},
+  {"translation": {
+    "en": "Location",
+    "ak": "Faako/beae"
+  }},
+  {"translation": {
+    "en": "Locomotion",
+    "ak": "Nanteɛ"
+  }},
+  {"translation": {
+    "en": "Longitude",
+    "ak": "Kwan tenten a ɛda ewiase atifi kosi atɔeɛ"
+  }},
+  {"translation": {
+    "en": "longitudinal wave",
+    "ak": "Amunimuni ahoɔden wɔ kwan tenten a ɛda ewiase atifi kosi\natɔeɛ"
+  }},
+  {"translation": {
+    "en": "Loudness",
+    "ak": "Anoden"
+  }},
+  {"translation": {
+    "en": "lunar eclipse",
+    "ak": "Bosome kye asaase ne owia"
+  }},
+  {"translation": {
+    "en": "Lungs",
+    "ak": "Aherawa/ahurututu"
+  }},
+  {"translation": {
+    "en": "Luster",
+    "ak": "Ɛhan"
+  }},
+  {"translation": {
+    "en": "lutetium",
+    "ak": "lutitiɔm"
+  }},
+  {"translation": {
+    "en": "lye",
+    "ak": "lai nsu"
+  }},
+  {"translation": {
+    "en": "lyophilic",
+    "ak": "nsu afrade a ɛntɔ fam"
+  }},
+  {"translation": {
+    "en": "Machine",
+    "ak": "Afidie"
+  }},
+  {"translation": {
+    "en": "macro analysis",
+    "ak": "ade akɛse mu nhwehwɛmu"
+  }},
+  {"translation": {
+    "en": "macromolecule",
+    "ak": "adewa kɛse"
+  }},
+  {"translation": {
+    "en": "Magma",
+    "ak": "Nsugya a efri bepɔ mu"
+  }},
+  {"translation": {
+    "en": "magma",
+    "ak": "botan a anan"
+  }},
+  {"translation": {
+    "en": "magnesia",
+    "ak": "magnisia"
+  }},
+  {"translation": {
+    "en": "magnesite",
+    "ak": "magnisait"
+  }},
+  {"translation": {
+    "en": "magnesium",
+    "ak": "magnisiɔm"
+  }},
+  {"translation": {
+    "en": "Magnet",
+    "ak": "Stim /Magnɛt"
+  }},
+  {"translation": {
+    "en": "magnet",
+    "ak": "magnɛti"
+  }},
+  {"translation": {
+    "en": "magnetic field",
+    "ak": "Bea a stim wɔ"
+  }},
+  {"translation": {
+    "en": "magnetic force",
+    "ak": "Bea a stim ahoɔden wɔ/tumi a ɛtwetwe dade"
+  }},
+  {"translation": {
+    "en": "Magnetism",
+    "ak": "Ɛfa stim ho"
+  }},
+  {"translation": {
+    "en": "magneto chemistry",
+    "ak": "magnɛti yɛbea ho nhomasua"
+  }},
+  {"translation": {
+    "en": "Magnifier",
+    "ak": "Afidie a ɛma wo hunu adeɛ akɛseɛ"
+  }},
+  {"translation": {
+    "en": "Maintain",
+    "ak": "Kora"
+  }},
+  {"translation": {
+    "en": "Maintenance",
+    "ak": "Adekora"
+  }},
+  {"translation": {
+    "en": "Major",
+    "ak": "Titiriw"
+  }},
+  {"translation": {
+    "en": "male sex cell",
+    "ak": "Mmarima sɛll a ɛfa nna nsɛm ho (mmarima bɔbeasu\nnkwamoa)"
+  }},
+  {"translation": {
+    "en": "maltose",
+    "ak": "nipaduam sikyere aboabo"
+  }},
+  {"translation": {
+    "en": "Mammal",
+    "ak": "Aboa a ɔwo ne sɛso"
+  }},
+  {"translation": {
+    "en": "Manage",
+    "ak": "Toto"
+  }},
+  {"translation": {
+    "en": "manganese",
+    "ak": "manganisi"
+  }},
+  {"translation": {
+    "en": "manganese dioxide",
+    "ak": "manganisi diɔksaidi"
+  }},
+  {"translation": {
+    "en": "manganic oxide",
+    "ak": "manganik ɔksaidi"
+  }},
+  {"translation": {
+    "en": "mannitol",
+    "ak": "aduru a ɛma dwensɔ"
+  }},
+  {"translation": {
+    "en": "manometer",
+    "ak": "mframa tumi susufiri"
+  }},
+  {"translation": {
+    "en": "mantle",
+    "ak": "Nduraho"
+  }},
+  {"translation": {
+    "en": "map",
+    "ak": "Map (asase mfonini)"
+  }},
+  {"translation": {
+    "en": "mass",
+    "ak": "Mass"
+  }},
+  {"translation": {
+    "en": "mass",
+    "ak": "mmoano"
+  }},
+  {"translation": {
+    "en": "mass action",
+    "ak": "mmoano adeyɛ"
+  }},
+  {"translation": {
+    "en": "mass conservation",
+    "ak": "mmoano adekora"
+  }},
+  {"translation": {
+    "en": "mass number",
+    "ak": "mmoano nɔma"
+  }},
+  {"translation": {
+    "en": "material",
+    "ak": "Adeɛ"
+  }},
+  {"translation": {
+    "en": "materials",
+    "ak": "Nneɛma"
+  }},
+  {"translation": {
+    "en": "materials scientist",
+    "ak": "Abɔdeɛ mu nimdefoɔ a osua adeɛ fa nneɛma ho"
+  }},
+  {"translation": {
+    "en": "mathematics",
+    "ak": "Nkonta"
+  }},
+  {"translation": {
+    "en": "matter",
+    "ak": "Adeɛ a ani hunu"
+  }},
+  {"translation": {
+    "en": "matter",
+    "ak": "Ade"
+  }},
+  {"translation": {
+    "en": "measure",
+    "ak": "Susu"
+  }},
+  {"translation": {
+    "en": "measurement",
+    "ak": "Nsusueɛ"
+  }},
+  {"translation": {
+    "en": "mechanical energy",
+    "ak": "Mfidie mu ahoɔden"
+  }},
+  {"translation": {
+    "en": "mechanical weathering",
+    "ak": "Mfidie ho a ɛwewe"
+  }},
+  {"translation": {
+    "en": "mechanics",
+    "ak": "mfiridwuma"
+  }},
+  {"translation": {
+    "en": "mechanism",
+    "ak": "ɔkwan"
+  }},
+  {"translation": {
+    "en": "medicine dropper",
+    "ak": "nea wɔde ma aduru"
+  }},
+  {"translation": {
+    "en": "medium",
+    "ak": "Deɛ adeɛ namso"
+  }},
+  {"translation": {
+    "en": "meiosis",
+    "ak": "Meiosis"
+  }},
+  {"translation": {
+    "en": "melting",
+    "ak": "Ɛrenane"
+  }},
+  {"translation": {
+    "en": "melting",
+    "ak": "renan"
+  }},
+  {"translation": {
+    "en": "melting point",
+    "ak": "Baabi adeɛ duru ansaana anane"
+  }},
+  {"translation": {
+    "en": "melting point",
+    "ak": "mpɛnpɛnso a ade nan"
+  }},
+  {"translation": {
+    "en": "mendelevium",
+    "ak": "mɛnduliviɔm"
+  }},
+  {"translation": {
+    "en": "mercury",
+    "ak": "mɛkuri"
+  }},
+  {"translation": {
+    "en": "mesh",
+    "ak": "nhamanhama a wɔanwene"
+  }},
+  {"translation": {
+    "en": "metal",
+    "ak": "Dadeɛ"
+  }},
+  {"translation": {
+    "en": "metallic bond",
+    "ak": "Dadeɛ mu mfamho"
+  }},
+  {"translation": {
+    "en": "metallic bond",
+    "ak": "nnade nkabom"
+  }},
+  {"translation": {
+    "en": "metalloid",
+    "ak": "Aduro a dadeɛ ne deɛ ɛnnyɛ dadeɛ su"
+  }},
+  {"translation": {
+    "en": "metalloid",
+    "ak": "nea ɛnyɛ dade nso ekura dade su"
+  }},
+  {"translation": {
+    "en": "metallurgy",
+    "ak": "nnade ho nhomasua"
+  }},
+  {"translation": {
+    "en": "metamorphic",
+    "ak": "Ɛboɔ a asesa ne su (ɔbo a asesa ne su)"
+  }},
+  {"translation": {
+    "en": "metamorphic rock",
+    "ak": "Ɛboɔ a asesa ne su adane botan"
+  }},
+  {"translation": {
+    "en": "metamorphosis",
+    "ak": "Abɔdeɛ sesa ne su"
+  }},
+  {"translation": {
+    "en": "meter (m)",
+    "ak": "Basafa"
+  }},
+  {"translation": {
+    "en": "meter stick",
+    "ak": "Dua a ne tenten yɛ basafa"
+  }},
+  {"translation": {
+    "en": "methane",
+    "ak": "Metane"
+  }},
+  {"translation": {
+    "en": "methane",
+    "ak": "mɛteni"
+  }},
+  {"translation": {
+    "en": "methanol",
+    "ak": "mɛtanɔl"
+  }},
+  {"translation": {
+    "en": "method",
+    "ak": "Nhyehyɛdeɛ (sɛnea wɔyɛ biribi)"
+  }},
+  {"translation": {
+    "en": "methyl",
+    "ak": "mɛtil"
+  }},
+  {"translation": {
+    "en": "methyl alcohol",
+    "ak": "mɛtil nsa"
+  }},
+  {"translation": {
+    "en": "methylamine",
+    "ak": "mɛtilamin"
+  }},
+  {"translation": {
+    "en": "metric ruler",
+    "ak": "Asusudeɛ a ɛyɛ mɛtrik"
+  }},
+  {"translation": {
+    "en": "microanalysis",
+    "ak": "ade nketewa nhwehwɛmu"
+  }},
+  {"translation": {
+    "en": "microorganisms",
+    "ak": "Mmoawa a ani kan ntumi nhunu"
+  }},
+  {"translation": {
+    "en": "microscope",
+    "ak": "Afidie a ɛboa ma ani tumi hunu mmoawa"
+  }},
+  {"translation": {
+    "en": "mid-ocean ridge",
+    "ak": "Bepɔ a ɛwɔ ɛpo ase"
+  }},
+  {"translation": {
+    "en": "migration",
+    "ak": "Akwantuo"
+  }},
+  {"translation": {
+    "en": "Milky Way",
+    "ak": "Ewiem a nsroma ne owia nyinaa wɔ (nsoromakuw a yehu)"
+  }},
+  {"translation": {
+    "en": "milligram (mg)",
+    "ak": "milligram (mg)"
+  }},
+  {"translation": {
+    "en": "milliliter",
+    "ak": "mililita"
+  }},
+  {"translation": {
+    "en": "milliliter (ml)",
+    "ak": "millilita (ml)"
+  }},
+  {"translation": {
+    "en": "millimeter (mm)",
+    "ak": "millimeta (mm)"
+  }},
+  {"translation": {
+    "en": "mineral",
+    "ak": "Asaase mu agudeɛ"
+  }},
+  {"translation": {
+    "en": "mineral",
+    "ak": "agude"
+  }},
+  {"translation": {
+    "en": "miscible",
+    "ak": "tumi fra"
+  }},
+  {"translation": {
+    "en": "mitochondria",
+    "ak": "Mitokondria"
+  }},
+  {"translation": {
+    "en": "mitosis",
+    "ak": "Sɛll nkyekyɛmu"
+  }},
+  {"translation": {
+    "en": "mixture",
+    "ak": "Neɛma ahodoɔ adi afra"
+  }},
+  {"translation": {
+    "en": "mixture",
+    "ak": "afrade"
+  }},
+  {"translation": {
+    "en": "model",
+    "ak": "Adeketoa yɛde yɛ nhwɛsoɔ"
+  }},
+  {"translation": {
+    "en": "moderator",
+    "ak": "nea ɛmma ɛnye nsam"
+  }},
+  {"translation": {
+    "en": "moisture",
+    "ak": "Nsuo"
+  }},
+  {"translation": {
+    "en": "molal boiling point elevation constant",
+    "ak": "mol ade a ɛnsakra pɛnpɛnso a ade huru a wɔma so"
+  }},
+  {"translation": {
+    "en": "molal freezing point depression constant",
+    "ak": "mol ade a ɛnsakra pɛnpɛnso a ade yɛ nwini a wɔbrɛ no ase"
+  }},
+  {"translation": {
+    "en": "molality",
+    "ak": "dodow a ɛwɔ nsu mu susude"
+  }},
+  {"translation": {
+    "en": "molar solution",
+    "ak": "mol nsu afrade"
+  }},
+  {"translation": {
+    "en": "molar volume",
+    "ak": "mol kɛse"
+  }},
+  {"translation": {
+    "en": "molarity",
+    "ak": "dodow a ɛwɔ nsu mu susude"
+  }},
+  {"translation": {
+    "en": "mole",
+    "ak": "Mol"
+  }},
+  {"translation": {
+    "en": "molecular",
+    "ak": "nea ɛwɔ mɔlekul adewa"
+  }},
+  {"translation": {
+    "en": "molecular formula",
+    "ak": "mɔlekul a ɛwɔ ade mu nkyerɛwee"
+  }},
+  {"translation": {
+    "en": "molecular mass",
+    "ak": "mɔlekul mu duru"
+  }},
+  {"translation": {
+    "en": "molecular sieve",
+    "ak": "mɔlekul sɔneɛ"
+  }},
+  {"translation": {
+    "en": "molecule",
+    "ak": "Molekule"
+  }},
+  {"translation": {
+    "en": "molecule",
+    "ak": "mɔlekul"
+  }},
+  {"translation": {
+    "en": "mollusk",
+    "ak": "Ɛnwa abusua"
+  }},
+  {"translation": {
+    "en": "molten",
+    "ak": "Aduro bi a ɛwɔ bepɔ mu nsugya"
+  }},
+  {"translation": {
+    "en": "molybdenum",
+    "ak": "mɔlibdenum"
+  }},
+  {"translation": {
+    "en": "Monera",
+    "ak": "Monera"
+  }},
+  {"translation": {
+    "en": "monoculture",
+    "ak": "Amamerɛ krɔ (afifide koro)"
+  }},
+  {"translation": {
+    "en": "monomer",
+    "ak": "nea ne mɔlekul tumi bom"
+  }},
+  {"translation": {
+    "en": "monomolecular",
+    "ak": "mɔlekul biako"
+  }},
+  {"translation": {
+    "en": "monthly",
+    "ak": "Bosome bosome"
+  }},
+  {"translation": {
+    "en": "moon",
+    "ak": "Bosome/ɔsram"
+  }},
+  {"translation": {
+    "en": "motion",
+    "ak": "Ahokeka"
+  }},
+  {"translation": {
+    "en": "motor",
+    "ak": "Moto"
+  }},
+  {"translation": {
+    "en": "mountain",
+    "ak": "Bepɔ"
+  }},
+  {"translation": {
+    "en": "mouth",
+    "ak": "Anom"
+  }},
+  {"translation": {
+    "en": "movable pulley",
+    "ak": "Dadeɛ etim hɔ na ɛsesa baabi ahoma a ɛtwe adeɛ hwɛ"
+  }},
+  {"translation": {
+    "en": "movement",
+    "ak": "Anamɔntutuo"
+  }},
+  {"translation": {
+    "en": "movement of plates",
+    "ak": "Plɛte anamɔntutuo"
+  }},
+  {"translation": {
+    "en": "mucus",
+    "ak": "Amaman"
+  }},
+  {"translation": {
+    "en": "multicellular",
+    "ak": "Abɔdeɛ a ne sɛll bro baako"
+  }},
+  {"translation": {
+    "en": "multicellular organism",
+    "ak": "Abɔdeɛ a ɛtease na ɔwɔ sɛll ahodoɔ"
+  }},
+  {"translation": {
+    "en": "muscle",
+    "ak": "Ntini"
+  }},
+  {"translation": {
+    "en": "muscle tissue",
+    "ak": "Ntini akwaa"
+  }},
+  {"translation": {
+    "en": "muscular system",
+    "ak": "Ntini ho nhyehyɛeɛ"
+  }},
+  {"translation": {
+    "en": "mutation",
+    "ak": "Ɛseɛ fri ne tebea mu"
+  }},
+  {"translation": {
+    "en": "naphtha",
+    "ak": "nafta"
+  }},
+  {"translation": {
+    "en": "naphthalene",
+    "ak": "naftalin"
+  }},
+  {"translation": {
+    "en": "natural gas",
+    "ak": "Mframagya a efri ɔbɔɔadeɛ hɔ"
+  }},
+  {"translation": {
+    "en": "natural gasoline",
+    "ak": "pɛtrol a wɔmfraa mu"
+  }},
+  {"translation": {
+    "en": "natural resource",
+    "ak": "Nnepa a efri ɔbɔɔadeɛ hɔ"
+  }},
+  {"translation": {
+    "en": "natural selection",
+    "ak": "Deɛ ɛma abɔdeɛ a wɔn ho yɛ den tumi tena nkwa mu"
+  }},
+  {"translation": {
+    "en": "nebula",
+    "ak": "Mnununkum a mframagya ahodoɔ wɔ mu"
+  }},
+  {"translation": {
+    "en": "negative",
+    "ak": "Etwam"
+  }},
+  {"translation": {
+    "en": "neodymium",
+    "ak": "niodimiɔm"
+  }},
+  {"translation": {
+    "en": "neon",
+    "ak": "niɔn"
+  }},
+  {"translation": {
+    "en": "neptunium",
+    "ak": "nɛptuniɔm"
+  }},
+  {"translation": {
+    "en": "Nernst distribution law",
+    "ak": "Nernst mmara"
+  }},
+  {"translation": {
+    "en": "Nernst equation",
+    "ak": "Nernst pɛyɛ asɛm"
+  }},
+  {"translation": {
+    "en": "nervous system",
+    "ak": "Aboa adwene"
+  }},
+  {"translation": {
+    "en": "net force",
+    "ak": "Tumi no nsesa"
+  }},
+  {"translation": {
+    "en": "net potential",
+    "ak": "tumi a aka"
+  }},
+  {"translation": {
+    "en": "neuron",
+    "ak": "Adwenemu fa"
+  }},
+  {"translation": {
+    "en": "neutral",
+    "ak": "Onni afa biara"
+  }},
+  {"translation": {
+    "en": "neutral red",
+    "ak": "kɔkɔɔ a enni fa biara"
+  }},
+  {"translation": {
+    "en": "neutral solution",
+    "ak": "nsu afrade a enni fa biara"
+  }},
+  {"translation": {
+    "en": "neutralization",
+    "ak": "ma wɔma enni fa biara"
+  }},
+  {"translation": {
+    "en": "neutralization equivalent",
+    "ak": "ma wɔma enni fa biara pɛyɛ"
+  }},
+  {"translation": {
+    "en": "neutron",
+    "ak": "Neutro"
+  }},
+  {"translation": {
+    "en": "neutron",
+    "ak": "niutrɔn"
+  }},
+  {"translation": {
+    "en": "Newton",
+    "ak": "Newton"
+  }},
+  {"translation": {
+    "en": "niacin",
+    "ak": "niasin"
+  }},
+  {"translation": {
+    "en": "niche",
+    "ak": "Tenebea (tenabea)"
+  }},
+  {"translation": {
+    "en": "nickel",
+    "ak": "nikil"
+  }},
+  {"translation": {
+    "en": "nimbus",
+    "ak": "Ɛhan atwa kanko"
+  }},
+  {"translation": {
+    "en": "niobium",
+    "ak": "niobiɔm"
+  }},
+  {"translation": {
+    "en": "nitrate",
+    "ak": "nitret"
+  }},
+  {"translation": {
+    "en": "nitration",
+    "ak": "nitret a wɔde ka"
+  }},
+  {"translation": {
+    "en": "nitric acid",
+    "ak": "nitrik asede"
+  }},
+  {"translation": {
+    "en": "nitric anhydride",
+    "ak": "nitik anidraidi"
+  }},
+  {"translation": {
+    "en": "nitric oxide",
+    "ak": "nitrik ɔksaidi"
+  }},
+  {"translation": {
+    "en": "nitride",
+    "ak": "nitraidi"
+  }},
+  {"translation": {
+    "en": "nitrile",
+    "ak": "nitraili"
+  }},
+  {"translation": {
+    "en": "nitrogen",
+    "ak": "Nitrogen"
+  }},
+  {"translation": {
+    "en": "nitrogen",
+    "ak": "nitrogyen"
+  }},
+  {"translation": {
+    "en": "nitrogen family",
+    "ak": "nitrogyen abusua"
+  }},
+  {"translation": {
+    "en": "nitroglycerin",
+    "ak": "nitrogliserin"
+  }},
+  {"translation": {
+    "en": "nitrous acid",
+    "ak": "nitraiti nkyene"
+  }},
+  {"translation": {
+    "en": "nobelium",
+    "ak": "nobɛliɔm"
+  }},
+  {"translation": {
+    "en": "noble gas",
+    "ak": "Mframagya a yɛfrɛ no noble"
+  }},
+  {"translation": {
+    "en": "noble gas",
+    "ak": "mframa a emu nsesa"
+  }},
+  {"translation": {
+    "en": "nomenclature",
+    "ak": "nsɛmfua pɔtee"
+  }},
+  {"translation": {
+    "en": "nonelectrolyte",
+    "ak": "nsu a anyinam mfa mu"
+  }},
+  {"translation": {
+    "en": "nonliving things",
+    "ak": "Abɔdeɛ a ɛntease (Abɔde a nkwa nnim)"
+  }},
+  {"translation": {
+    "en": "nonmetal",
+    "ak": "Deɛ ɛnnyɛ dadeɛ"
+  }},
+  {"translation": {
+    "en": "nonmetal",
+    "ak": "nnyɛ dade"
+  }},
+  {"translation": {
+    "en": "nonpolar molecule",
+    "ak": "mɔlekul a anyinam nnim"
+  }},
+  {"translation": {
+    "en": "nonrenewable",
+    "ak": "Adeɛ a yɛntumi nsesamu bio"
+  }},
+  {"translation": {
+    "en": "nonrenewable energy resource",
+    "ak": "Ahoɔden a efri deɛ a yɛntumi nsesamu bio"
+  }},
+  {"translation": {
+    "en": "nonrenewable resource",
+    "ak": "Nnepa a efri deɛ a yɛntumi nsesamu bio"
+  }},
+  {"translation": {
+    "en": "normal boiling point",
+    "ak": "mpɛnpɛnso a ade huru"
+  }},
+  {"translation": {
+    "en": "normal salt",
+    "ak": "nkyene ankasa"
+  }},
+  {"translation": {
+    "en": "normal solution",
+    "ak": "nsu afrade ankasa"
+  }},
+  {"translation": {
+    "en": "normality",
+    "ak": "sɛnea ɛte"
+  }},
+  {"translation": {
+    "en": "nose",
+    "ak": "Ɛhwene"
+  }},
+  {"translation": {
+    "en": "nuclear energy",
+    "ak": "Ahoɔden a efri nukluɛɛ mu"
+  }},
+  {"translation": {
+    "en": "nuclear energy",
+    "ak": "nuklɛ ahoɔden"
+  }},
+  {"translation": {
+    "en": "nuclear fission",
+    "ak": "nuklɛ mpaepaemu"
+  }},
+  {"translation": {
+    "en": "nuclear fuel",
+    "ak": "nuklɛ a wɔde sɔ gya"
+  }},
+  {"translation": {
+    "en": "nuclear fusion",
+    "ak": "Nukluɛɛ a emu rekyekyɛ"
+  }},
+  {"translation": {
+    "en": "nuclear fusion",
+    "ak": "nuklɛ nkabom"
+  }},
+  {"translation": {
+    "en": "nuclear reactor",
+    "ak": "nuklɛ nkanyande"
+  }},
+  {"translation": {
+    "en": "nucleon",
+    "ak": "nukliɔn"
+  }},
+  {"translation": {
+    "en": "nucleus",
+    "ak": "Nukleus"
+  }},
+  {"translation": {
+    "en": "nucleus",
+    "ak": "adewa mfinimfini"
+  }},
+  {"translation": {
+    "en": "number",
+    "ak": "nɔma"
+  }},
+  {"translation": {
+    "en": "nutrient",
+    "ak": "Aduane mu nnuro"
+  }},
+  {"translation": {
+    "en": "nylon",
+    "ak": "nailɔn"
+  }},
+  {"translation": {
+    "en": "object",
+    "ak": "Adeɛ"
+  }},
+  {"translation": {
+    "en": "objective",
+    "ak": "Nokwafoɔ"
+  }},
+  {"translation": {
+    "en": "objective lens",
+    "ak": "lɛns a ɛbɛn nea wɔrehwɛ no paa"
+  }},
+  {"translation": {
+    "en": "observation",
+    "ak": "Adeɛ a wo ahyɛ ne nso"
+  }},
+  {"translation": {
+    "en": "observe",
+    "ak": "Fa w’ani di akyire"
+  }},
+  {"translation": {
+    "en": "observed value",
+    "ak": "nɔma a wɔahu"
+  }},
+  {"translation": {
+    "en": "obtained",
+    "ak": "Nya"
+  }},
+  {"translation": {
+    "en": "occur",
+    "ak": "Esi"
+  }},
+  {"translation": {
+    "en": "ocean",
+    "ak": "Ɛpo baatan/asu bun"
+  }},
+  {"translation": {
+    "en": "octet",
+    "ak": "awotwe nkabom"
+  }},
+  {"translation": {
+    "en": "odor",
+    "ak": "Pampan"
+  }},
+  {"translation": {
+    "en": "offspring",
+    "ak": "Deɛ y’awoɔ/aseni"
+  }},
+  {"translation": {
+    "en": "oil",
+    "ak": "ngo"
+  }},
+  {"translation": {
+    "en": "olefin",
+    "ak": "olefin"
+  }},
+  {"translation": {
+    "en": "omnivore",
+    "ak": "Aboa a odia boa biara (aboa a ɔwe nam ne nhabamma\nnyinaa)"
+  }},
+  {"translation": {
+    "en": "one-celled organisms",
+    "ak": "Abɔdeɛ a ɔwɔ sɛll baako"
+  }},
+  {"translation": {
+    "en": "one-hole stopper",
+    "ak": "nea wɔde siw tokuru biako ano"
+  }},
+  {"translation": {
+    "en": "ooze",
+    "ak": "Epu frimu"
+  }},
+  {"translation": {
+    "en": "open-chain",
+    "ak": "adewa ahorow nhyehyɛe a ensi"
+  }},
+  {"translation": {
+    "en": "operational definition",
+    "ak": "nkyerɛkyerɛmu a wɔde di dwuma"
+  }},
+  {"translation": {
+    "en": "opinion",
+    "ak": "Adwenkyerɛ"
+  }},
+  {"translation": {
+    "en": "optical",
+    "ak": "fa aniwa ho"
+  }},
+  {"translation": {
+    "en": "optical rotation",
+    "ak": "adewa ntwaho wɔ kanea mu"
+  }},
+  {"translation": {
+    "en": "orbit",
+    "ak": "Kanko"
+  }},
+  {"translation": {
+    "en": "orbit",
+    "ak": "kyinsoroma kwan"
+  }},
+  {"translation": {
+    "en": "orbital",
+    "ak": "fa kyinsoroma kwan ho"
+  }},
+  {"translation": {
+    "en": "orbital pair",
+    "ak": "ntwahode abien mmɔho"
+  }},
+  {"translation": {
+    "en": "order",
+    "ak": "Ahyɛdeɛ"
+  }},
+  {"translation": {
+    "en": "order",
+    "ak": "nhyehyɛe"
+  }},
+  {"translation": {
+    "en": "order of reaction",
+    "ak": "nsunsuanso nhyehyɛe"
+  }},
+  {"translation": {
+    "en": "ore",
+    "ak": "fam agude"
+  }},
+  {"translation": {
+    "en": "organ",
+    "ak": "Nipadua mu akwaa"
+  }},
+  {"translation": {
+    "en": "organ system",
+    "ak": "Nipadua mu akwaa nhyehyɛeɛ"
+  }},
+  {"translation": {
+    "en": "organelle",
+    "ak": "Nipadua mu akwaawa"
+  }},
+  {"translation": {
+    "en": "organic",
+    "ak": "fa abɔde a nkwa wom ho"
+  }},
+  {"translation": {
+    "en": "organic chemistry",
+    "ak": "abɔde a nkwa wom yɛbea ho nhomasua"
+  }},
+  {"translation": {
+    "en": "organic compound",
+    "ak": "abɔde a nkwa wom adewa nkabom"
+  }},
+  {"translation": {
+    "en": "organism",
+    "ak": "Abɔdeɛ a ɛtease"
+  }},
+  {"translation": {
+    "en": "organize",
+    "ak": "Toto/hyehyɛ"
+  }},
+  {"translation": {
+    "en": "organometallic",
+    "ak": "nea ɛwɔ dade atɔm a ɛne kabɔn atɔm abom"
+  }},
+  {"translation": {
+    "en": "original",
+    "ak": "Ne tebea ankasa"
+  }},
+  {"translation": {
+    "en": "osmium",
+    "ak": "osmiɔm"
+  }},
+  {"translation": {
+    "en": "osmosis",
+    "ak": "nsu ahorow mu adetwe"
+  }},
+  {"translation": {
+    "en": "ovary",
+    "ak": "Aboa/nnipa nkosua"
+  }},
+  {"translation": {
+    "en": "overabundance",
+    "ak": "Aboroso pii"
+  }},
+  {"translation": {
+    "en": "overcome",
+    "ak": "Di so"
+  }},
+  {"translation": {
+    "en": "overpopulation",
+    "ak": "Emufoɔ dɔɔso dodo"
+  }},
+  {"translation": {
+    "en": "ovule",
+    "ak": "Ɔbaa kosua etumi pae"
+  }},
+  {"translation": {
+    "en": "oxalic acid",
+    "ak": "oksal asede"
+  }},
+  {"translation": {
+    "en": "oxidation",
+    "ak": "ɔksigyen a wɔde ka ho"
+  }},
+  {"translation": {
+    "en": "oxidation number",
+    "ak": "ɔksigyen a wɔde ka ho nɔma"
+  }},
+  {"translation": {
+    "en": "oxidation potential",
+    "ak": "ɔksigyen a wɔde ka ho tumi"
+  }},
+  {"translation": {
+    "en": "oxidation state",
+    "ak": "ɔksigyen a wɔde ka ho tebea"
+  }},
+  {"translation": {
+    "en": "oxide",
+    "ak": "ɔksaidi"
+  }},
+  {"translation": {
+    "en": "oxidizing agent",
+    "ak": "ɔksigyen a wɔde ka ho nkanyande"
+  }},
+  {"translation": {
+    "en": "oxygen",
+    "ak": "Ɔksegen (mframa pa)"
+  }},
+  {"translation": {
+    "en": "oxygen",
+    "ak": "ɔksigyen"
+  }},
+  {"translation": {
+    "en": "oxygen acid",
+    "ak": "ɔksigyen asede"
+  }},
+  {"translation": {
+    "en": "ozone",
+    "ak": "Mframagya ozone"
+  }},
+  {"translation": {
+    "en": "ozone",
+    "ak": "ɔson"
+  }},
+  {"translation": {
+    "en": "packing",
+    "ak": "adehyehyɛ"
+  }},
+  {"translation": {
+    "en": "pair",
+    "ak": "abien nkabom"
+  }},
+  {"translation": {
+    "en": "palladium",
+    "ak": "paladiɔm"
+  }},
+  {"translation": {
+    "en": "paraffin series",
+    "ak": "parafin horow"
+  }},
+  {"translation": {
+    "en": "parallel circuit",
+    "ak": "Ntwaho a enhyia"
+  }},
+  {"translation": {
+    "en": "parasite",
+    "ak": "Abɔdeɛ a odidi ɔfoforɔ ho"
+  }},
+  {"translation": {
+    "en": "parent cell",
+    "ak": "Awofoɔ no sɛll"
+  }},
+  {"translation": {
+    "en": "partial pressure",
+    "ak": "tumi fa"
+  }},
+  {"translation": {
+    "en": "particle",
+    "ak": "Adeɛ"
+  }},
+  {"translation": {
+    "en": "particle",
+    "ak": "adewa"
+  }},
+  {"translation": {
+    "en": "particle accelerator",
+    "ak": "adewa a ɛma dwumadi kɔ ntɛm so"
+  }},
+  {"translation": {
+    "en": "partition coefficient",
+    "ak": "nkyemu koɛfihyienti"
+  }},
+  {"translation": {
+    "en": "parts per million",
+    "ak": "ɔpepem nkyekyem fa horow"
+  }},
+  {"translation": {
+    "en": "Pascal",
+    "ak": "Pascal"
+  }},
+  {"translation": {
+    "en": "passivity",
+    "ak": "fakaayɛ"
+  }},
+  {"translation": {
+    "en": "pattern",
+    "ak": "Anweneɛ"
+  }},
+  {"translation": {
+    "en": "peacock blue",
+    "ak": "ahabammono bruu"
+  }},
+  {"translation": {
+    "en": "pedigree chart",
+    "ak": "Dibea ho nfonin"
+  }},
+  {"translation": {
+    "en": "pentane",
+    "ak": "pɛntene"
+  }},
+  {"translation": {
+    "en": "peptide",
+    "ak": "pɛptaidi"
+  }},
+  {"translation": {
+    "en": "perceive",
+    "ak": "Susu sɛ"
+  }},
+  {"translation": {
+    "en": "percent error",
+    "ak": "ɔha mu nkyekyem sintɔ"
+  }},
+  {"translation": {
+    "en": "percent, percentage",
+    "ak": "Ɔha mu nkyemu"
+  }},
+  {"translation": {
+    "en": "percentage by mass",
+    "ak": "mmoano ɔha mu nkyekyem"
+  }},
+  {"translation": {
+    "en": "percentage composition",
+    "ak": "nea ɛwom ɔha mu nkyekyem"
+  }},
+  {"translation": {
+    "en": "perchlorate",
+    "ak": "pɛklɔrik asede nkyene"
+  }},
+  {"translation": {
+    "en": "perfect",
+    "ak": "pɛ"
+  }},
+  {"translation": {
+    "en": "perfume",
+    "ak": "aduhuam"
+  }},
+  {"translation": {
+    "en": "period",
+    "ak": "Berɛ bi"
+  }},
+  {"translation": {
+    "en": "periodic",
+    "ak": "bere ne bere mu"
+  }},
+  {"translation": {
+    "en": "periodic law",
+    "ak": "adewa su ho mmara"
+  }},
+  {"translation": {
+    "en": "periodic table",
+    "ak": "Ɛpono a y’ahyehyɛ ɔbɔ adeɛ nnuro"
+  }},
+  {"translation": {
+    "en": "periodic table",
+    "ak": "adewa su ho hyehyɛpon"
+  }},
+  {"translation": {
+    "en": "permanent magnet",
+    "ak": "Stim a ɛwɔ hɔ afebɔɔ"
+  }},
+  {"translation": {
+    "en": "peroxide",
+    "ak": "pɛrɔksaidi"
+  }},
+  {"translation": {
+    "en": "pesticide",
+    "ak": "Aduro a ekum aboa a odidi ofofrɔ ho"
+  }},
+  {"translation": {
+    "en": "Petri dish",
+    "ak": "kyɛnse tratraa"
+  }},
+  {"translation": {
+    "en": "petroleum",
+    "ak": "Famngo"
+  }},
+  {"translation": {
+    "en": "petroleum",
+    "ak": "fango"
+  }},
+  {"translation": {
+    "en": "pH meter",
+    "ak": "pH susudua"
+  }},
+  {"translation": {
+    "en": "phase",
+    "ak": "ɔfa"
+  }},
+  {"translation": {
+    "en": "phase equilibrium",
+    "ak": "ɔfa pɛyɛ"
+  }},
+  {"translation": {
+    "en": "phases",
+    "ak": "Ɛfa"
+  }},
+  {"translation": {
+    "en": "phenol",
+    "ak": "finɔl"
+  }},
+  {"translation": {
+    "en": "phenolic",
+    "ak": "nea finɔl wom"
+  }},
+  {"translation": {
+    "en": "phenolphthalein",
+    "ak": "finɔlftalin"
+  }},
+  {"translation": {
+    "en": "phenomena",
+    "ak": "Anwanwadeɛ"
+  }},
+  {"translation": {
+    "en": "phosphorus",
+    "ak": "Phosphorus"
+  }},
+  {"translation": {
+    "en": "phosphorus",
+    "ak": "fɔsfɔrɔs"
+  }},
+  {"translation": {
+    "en": "photochemical oxidant",
+    "ak": "nea ɛde ɔksigyen ma a ɛde kanea di dwuma"
+  }},
+  {"translation": {
+    "en": "photochemistry",
+    "ak": "abɔde yɛbea ho nhomasua a kanea di dwuma wom"
+  }},
+  {"translation": {
+    "en": "photoelectric",
+    "ak": "fa anyinam kanea ho"
+  }},
+  {"translation": {
+    "en": "photon",
+    "ak": "fotɔn"
+  }},
+  {"translation": {
+    "en": "photosynthesis",
+    "ak": "Kwan a nhahan de awia dane aduane"
+  }},
+  {"translation": {
+    "en": "physical",
+    "ak": "Deɛ anihunu"
+  }},
+  {"translation": {
+    "en": "physical change",
+    "ak": "Deɛ anihunu nsesae"
+  }},
+  {"translation": {
+    "en": "physical change",
+    "ak": "nsakrae wɔ ho"
+  }},
+  {"translation": {
+    "en": "physical chemistry",
+    "ak": "abɔde a wohu yɛbea ho nhomasua"
+  }},
+  {"translation": {
+    "en": "physical equilibrium",
+    "ak": "pɛyɛ a wohu"
+  }},
+  {"translation": {
+    "en": "physical property",
+    "ak": "Deɛ ani hunu no su"
+  }},
+  {"translation": {
+    "en": "physical property",
+    "ak": "yɛbea a wohu"
+  }},
+  {"translation": {
+    "en": "physical weathering",
+    "ak": "Deɛ ani hunu ho nwenweɛ"
+  }},
+  {"translation": {
+    "en": "physio sorption",
+    "ak": "adetwe a wohu"
+  }},
+  {"translation": {
+    "en": "picture",
+    "ak": "Nfonin"
+  }},
+  {"translation": {
+    "en": "pie",
+    "ak": "Atwa kanko"
+  }},
+  {"translation": {
+    "en": "pie chart",
+    "ak": "Nfonin a atwa kanko"
+  }},
+  {"translation": {
+    "en": "pie graph",
+    "ak": "Nkonta mu nfonin atwa kanko"
+  }},
+  {"translation": {
+    "en": "pigment",
+    "ak": "kɔla adewa"
+  }},
+  {"translation": {
+    "en": "pigmentation",
+    "ak": "kɔla a ɛka ade"
+  }},
+  {"translation": {
+    "en": "pile",
+    "ak": "mmoaboano"
+  }},
+  {"translation": {
+    "en": "pipe",
+    "ak": "durubɛn"
+  }},
+  {"translation": {
+    "en": "pipe still",
+    "ak": "nsu kurunyennyɛ durubɛn"
+  }},
+  {"translation": {
+    "en": "pipette",
+    "ak": "nhwehwɛmu toa"
+  }},
+  {"translation": {
+    "en": "pistil",
+    "ak": "Nhwiren fa baabi a ɛyɛ ɔbaa"
+  }},
+  {"translation": {
+    "en": "pitch",
+    "ak": "Ɛnee nnyegyeɛ"
+  }},
+  {"translation": {
+    "en": "planet",
+    "ak": "Kyinsroma (okyinsoroma)"
+  }},
+  {"translation": {
+    "en": "plant",
+    "ak": "Mfueɛ/afifide"
+  }},
+  {"translation": {
+    "en": "Plantae",
+    "ak": "Mfueɛ kubaatan"
+  }},
+  {"translation": {
+    "en": "plasma",
+    "ak": "Mogya mu akwaa a ɛma no yɛ nsuonsuo"
+  }},
+  {"translation": {
+    "en": "plastic",
+    "ak": "rɔba ade"
+  }},
+  {"translation": {
+    "en": "plasticizer",
+    "ak": "nea ɛma ɛyɛ rɔba"
+  }},
+  {"translation": {
+    "en": "plate",
+    "ak": "Plɛte (mogya mu nneɛma a ɛyɛ ntrantraa)"
+  }},
+  {"translation": {
+    "en": "plate tectonics",
+    "ak": "Plɛte tetonike  ɛkɔ so wɔ asaase mu"
+  }},
+  {"translation": {
+    "en": "plate theory",
+    "ak": "kyɛnse ho nsusuwii"
+  }},
+  {"translation": {
+    "en": "platinum",
+    "ak": "platinɔm"
+  }},
+  {"translation": {
+    "en": "plutonium",
+    "ak": "plutoniɔm"
+  }},
+  {"translation": {
+    "en": "pOH",
+    "ak": "pOH"
+  }},
+  {"translation": {
+    "en": "point",
+    "ak": "pɛnpɛnso"
+  }},
+  {"translation": {
+    "en": "poison",
+    "ak": "Awuduro"
+  }},
+  {"translation": {
+    "en": "poison",
+    "ak": "awuduru"
+  }},
+  {"translation": {
+    "en": "polar",
+    "ak": "Ɛfa atifi ne atɔeɛ"
+  }},
+  {"translation": {
+    "en": "polar bond",
+    "ak": "afa nkabom"
+  }},
+  {"translation": {
+    "en": "polar molecule",
+    "ak": "afa afa mɔlekul"
+  }},
+  {"translation": {
+    "en": "polarization potential",
+    "ak": "afa afa tumi"
+  }},
+  {"translation": {
+    "en": "polarographic analysis",
+    "ak": "nnuru mu nhwehwɛmu denam anyinam so"
+  }},
+  {"translation": {
+    "en": "polarographic apparatus",
+    "ak": "nnuru mu nhwehwɛmu denam anyinam so afiri"
+  }},
+  {"translation": {
+    "en": "polarographic wave",
+    "ak": "nnuru mu nhwehwɛmu anyinam"
+  }},
+  {"translation": {
+    "en": "polarography",
+    "ak": "nnuru mu nhwehwɛmu denam anyinam so"
+  }},
+  {"translation": {
+    "en": "pollen",
+    "ak": "Polen"
+  }},
+  {"translation": {
+    "en": "pollinate",
+    "ak": "Polen a akɔ gu nhweren fa a ɛyɛ ɔbaa so"
+  }},
+  {"translation": {
+    "en": "pollutant",
+    "ak": "Adeɛ a ɛde fi ba"
+  }},
+  {"translation": {
+    "en": "pollution",
+    "ak": "Efiyɔ"
+  }},
+  {"translation": {
+    "en": "polonium",
+    "ak": "poloniɔm"
+  }},
+  {"translation": {
+    "en": "poly",
+    "ak": "dodow/mmɔho"
+  }},
+  {"translation": {
+    "en": "polybasic acid",
+    "ak": "asede a ekura haidrogyen atɔm abien"
+  }},
+  {"translation": {
+    "en": "polycarbonate",
+    "ak": "pɔlikabɔnete"
+  }},
+  {"translation": {
+    "en": "polychloroprene",
+    "ak": "pɔlikloroprin"
+  }},
+  {"translation": {
+    "en": "polycondensation",
+    "ak": "nsudan dodow"
+  }},
+  {"translation": {
+    "en": "polycyclic",
+    "ak": "di kyinhyia dodow"
+  }},
+  {"translation": {
+    "en": "polyelectrolyte",
+    "ak": "nsu a anyinam tumi fa mu a ne mɔlekul dɔɔso"
+  }},
+  {"translation": {
+    "en": "polyester",
+    "ak": "pɔliɛsta"
+  }},
+  {"translation": {
+    "en": "polyethylene",
+    "ak": "pɔliɛtilin"
+  }},
+  {"translation": {
+    "en": "polyethylene glycols",
+    "ak": "pɔliɛtilin nsu"
+  }},
+  {"translation": {
+    "en": "polyglycol",
+    "ak": "pɔliglaikol"
+  }},
+  {"translation": {
+    "en": "polyhydric alcohol",
+    "ak": "pɔlihaidrik nsa"
+  }},
+  {"translation": {
+    "en": "polyisoprene",
+    "ak": "pɔlisoprin"
+  }},
+  {"translation": {
+    "en": "polymer",
+    "ak": "pɔlima"
+  }},
+  {"translation": {
+    "en": "polymerization",
+    "ak": "pɔlimayɛ"
+  }},
+  {"translation": {
+    "en": "polypropylene",
+    "ak": "pɔlipropilin"
+  }},
+  {"translation": {
+    "en": "polystyrene",
+    "ak": "pɔlisterin"
+  }},
+  {"translation": {
+    "en": "polytetrafluoro-ethylene",
+    "ak": "pɔlitɛtrafluoro ɛtilin"
+  }},
+  {"translation": {
+    "en": "polyvinyl acetate",
+    "ak": "adurade pɔlima"
+  }},
+  {"translation": {
+    "en": "polyvinyl alcohol",
+    "ak": "adurade nsa"
+  }},
+  {"translation": {
+    "en": "polyvinyl chloride",
+    "ak": "pɔlifinil klɔraidi"
+  }},
+  {"translation": {
+    "en": "polyvinyl ether",
+    "ak": "pɔlifinil ita"
+  }},
+  {"translation": {
+    "en": "porcelain",
+    "ak": "dɔte anwenne"
+  }},
+  {"translation": {
+    "en": "poromeric",
+    "ak": "poromɛrik"
+  }},
+  {"translation": {
+    "en": "position",
+    "ak": "Gyinabea"
+  }},
+  {"translation": {
+    "en": "positive",
+    "ak": "Ɛyɛ papa"
+  }},
+  {"translation": {
+    "en": "positron",
+    "ak": "pɔsitrɔn"
+  }},
+  {"translation": {
+    "en": "potash",
+    "ak": "potaahye"
+  }},
+  {"translation": {
+    "en": "potassium",
+    "ak": "potasiɔm"
+  }},
+  {"translation": {
+    "en": "potassium nitrate",
+    "ak": "potasiɔm nitreti"
+  }},
+  {"translation": {
+    "en": "potassium permanganate",
+    "ak": "potasiɔm pɛmanganete"
+  }},
+  {"translation": {
+    "en": "potential energy",
+    "ak": "Ahoɔden a ɛwɔ adeɛ ɛnam baabi a ogyina nti"
+  }},
+  {"translation": {
+    "en": "potential energy",
+    "ak": "gyinabea tumi"
+  }},
+  {"translation": {
+    "en": "potentiometric titration",
+    "ak": "anyinam tumi ho nsɔhwɛ"
+  }},
+  {"translation": {
+    "en": "powder metallurgy",
+    "ak": "nnade muhumuhu ho nhomasua"
+  }},
+  {"translation": {
+    "en": "power of ten notation",
+    "ak": "Mma a y’ayɛ no akuoakuo edu"
+  }},
+  {"translation": {
+    "en": "praseodymium",
+    "ak": "prasiodimiɔm"
+  }},
+  {"translation": {
+    "en": "precipitant",
+    "ak": "nsudan ade"
+  }},
+  {"translation": {
+    "en": "precipitate",
+    "ak": "dan nsu"
+  }},
+  {"translation": {
+    "en": "precipitation",
+    "ak": "Nsutɔ"
+  }},
+  {"translation": {
+    "en": "precipitation",
+    "ak": "nsudan"
+  }},
+  {"translation": {
+    "en": "precipitation titration",
+    "ak": "nsudan ho nsɔhwɛ"
+  }},
+  {"translation": {
+    "en": "predator",
+    "ak": "Deɛ okum"
+  }},
+  {"translation": {
+    "en": "predict",
+    "ak": "Hwɛ pɛtɛ takra mu ka (fa w ‘adwene bu)"
+  }},
+  {"translation": {
+    "en": "predictable",
+    "ak": "Wo tumi hunu deɛ ɛrekɔ"
+  }},
+  {"translation": {
+    "en": "prediction",
+    "ak": "Fa w’anibu na ka"
+  }},
+  {"translation": {
+    "en": "prepolymer",
+    "ak": "ansa na ɛreyɛ pɔlima"
+  }},
+  {"translation": {
+    "en": "presence",
+    "ak": "Sɛ ɛwɔ hɔ (mprempren)"
+  }},
+  {"translation": {
+    "en": "preservative",
+    "ak": "aduru a ɛkora ade"
+  }},
+  {"translation": {
+    "en": "preserve",
+    "ak": "Kora so"
+  }},
+  {"translation": {
+    "en": "pressure",
+    "ak": "Nhyɛsoɔ"
+  }},
+  {"translation": {
+    "en": "prevailing",
+    "ak": "Deɛ ɛwɔ hɔ seesei ara"
+  }},
+  {"translation": {
+    "en": "prevailing winds",
+    "ak": "Mframa a ɛwɔ hɔ seese iara"
+  }},
+  {"translation": {
+    "en": "previous",
+    "ak": "Dada deɛ (nea atwa mu)"
+  }},
+  {"translation": {
+    "en": "prey",
+    "ak": "Aboa ɔfoforɔ kye ne we"
+  }},
+  {"translation": {
+    "en": "prill",
+    "ak": "prill"
+  }},
+  {"translation": {
+    "en": "primary",
+    "ak": "Deɛ edi kan koraa"
+  }},
+  {"translation": {
+    "en": "primary alcohol",
+    "ak": "nsa a wɔmfraa mu"
+  }},
+  {"translation": {
+    "en": "probable",
+    "ak": "Deɛ ebetumi aba/ebia"
+  }},
+  {"translation": {
+    "en": "procedure",
+    "ak": "Kwan a wonam so yɛ"
+  }},
+  {"translation": {
+    "en": "process",
+    "ak": "Kwan a wonam so"
+  }},
+  {"translation": {
+    "en": "produce",
+    "ak": "yɛ"
+  }},
+  {"translation": {
+    "en": "producer",
+    "ak": "nea ɔyɔeɛ"
+  }},
+  {"translation": {
+    "en": "producer gas",
+    "ak": "afrade mframa"
+  }},
+  {"translation": {
+    "en": "product",
+    "ak": "Adeɛ a efri mu ba"
+  }},
+  {"translation": {
+    "en": "product",
+    "ak": "nea efi mu ba"
+  }},
+  {"translation": {
+    "en": "prokaryotic",
+    "ak": "Prokaryotik"
+  }},
+  {"translation": {
+    "en": "promethium",
+    "ak": "prometiɔm"
+  }},
+  {"translation": {
+    "en": "promoter",
+    "ak": "aduru nkanyande"
+  }},
+  {"translation": {
+    "en": "proof",
+    "ak": "adanse"
+  }},
+  {"translation": {
+    "en": "properties",
+    "ak": "Yɛbea ahodoɔ"
+  }},
+  {"translation": {
+    "en": "property",
+    "ak": "Agyapadeɛ"
+  }},
+  {"translation": {
+    "en": "property",
+    "ak": "su"
+  }},
+  {"translation": {
+    "en": "propionic acid",
+    "ak": "srade asede"
+  }},
+  {"translation": {
+    "en": "propyl",
+    "ak": "nea wonya fi propeni mu"
+  }},
+  {"translation": {
+    "en": "propylene",
+    "ak": "propilin"
+  }},
+  {"translation": {
+    "en": "protactinium",
+    "ak": "protaktiniɔm"
+  }},
+  {"translation": {
+    "en": "protect",
+    "ak": "Bɔ ho ban"
+  }},
+  {"translation": {
+    "en": "protein",
+    "ak": "Aduane duro proten"
+  }},
+  {"translation": {
+    "en": "proteolysis reaction",
+    "ak": "nea efi aduru nsuhyɛ mu ba"
+  }},
+  {"translation": {
+    "en": "Protista",
+    "ak": "Protista"
+  }},
+  {"translation": {
+    "en": "proton",
+    "ak": "Proton"
+  }},
+  {"translation": {
+    "en": "proton acceptor",
+    "ak": "protɔn aduru a egye ilɛktrɔn"
+  }},
+  {"translation": {
+    "en": "proton donor",
+    "ak": "protɔn ɔdemafo"
+  }},
+  {"translation": {
+    "en": "provide",
+    "ak": "Fama"
+  }},
+  {"translation": {
+    "en": "Prussian blue",
+    "ak": "Prussia bruu"
+  }},
+  {"translation": {
+    "en": "pulley",
+    "ak": "Ntwahodeɛ"
+  }},
+  {"translation": {
+    "en": "Punnett square",
+    "ak": "Punnet adaka"
+  }},
+  {"translation": {
+    "en": "pupa",
+    "ak": "Osa"
+  }},
+  {"translation": {
+    "en": "purity",
+    "ak": "kurunyennyɛ"
+  }},
+  {"translation": {
+    "en": "purpose",
+    "ak": "Botae"
+  }},
+  {"translation": {
+    "en": "pushes and pulls",
+    "ak": "Apiapia ne atwetwe"
+  }},
+  {"translation": {
+    "en": "pyrites",
+    "ak": "agude a ɛyɛ akokɔsrade"
+  }},
+  {"translation": {
+    "en": "pyrolysis",
+    "ak": "adedan a efi ɔhyew"
+  }},
+  {"translation": {
+    "en": "pyrrole",
+    "ak": "pirol"
+  }},
+  {"translation": {
+    "en": "pyruvic acid",
+    "ak": "asede a ɛwɔ porɔwde mu"
+  }},
+  {"translation": {
+    "en": "qualitative analysis",
+    "ak": "nhwehwɛmu a wɔnam nsɛm so yɛ"
+  }},
+  {"translation": {
+    "en": "quality control",
+    "ak": "mudi mu hwehwɛ"
+  }},
+  {"translation": {
+    "en": "quanta",
+    "ak": "dodow bi mu"
+  }},
+  {"translation": {
+    "en": "quantitative analysis",
+    "ak": "nhwehwɛmu a wɔnam nɔma so yɛ"
+  }},
+  {"translation": {
+    "en": "quartz",
+    "ak": "kwɔts"
+  }},
+  {"translation": {
+    "en": "quinine",
+    "ak": "kwinin"
+  }},
+  {"translation": {
+    "en": "radiation",
+    "ak": "Radiehyɛn"
+  }},
+  {"translation": {
+    "en": "radiation",
+    "ak": "radiehyen"
+  }},
+  {"translation": {
+    "en": "radical",
+    "ak": "ase mmɔho"
+  }},
+  {"translation": {
+    "en": "radioactive",
+    "ak": "Etumi pu rediahyɛn"
+  }},
+  {"translation": {
+    "en": "radioactive decay",
+    "ak": "redioaktif ɔporɔw"
+  }},
+  {"translation": {
+    "en": "radioactive series",
+    "ak": "redioaktif dwumadi ahorow"
+  }},
+  {"translation": {
+    "en": "radioactivity",
+    "ak": "redioaktif dwumadi"
+  }},
+  {"translation": {
+    "en": "radiocarbon",
+    "ak": "rediokabɔn"
+  }},
+  {"translation": {
+    "en": "radioisotope",
+    "ak": "radioisotope"
+  }},
+  {"translation": {
+    "en": "radioisotope",
+    "ak": "redioaisotop"
+  }},
+  {"translation": {
+    "en": "radium",
+    "ak": "rediɔm"
+  }},
+  {"translation": {
+    "en": "radius",
+    "ak": "kɔntɔnkrɔn mu tenten fa"
+  }},
+  {"translation": {
+    "en": "radon",
+    "ak": "redɔn"
+  }},
+  {"translation": {
+    "en": "rare",
+    "ak": "ɛho yɛ na"
+  }},
+  {"translation": {
+    "en": "rare earth",
+    "ak": "abɔde mu ade a n'atɔm fi 57 kosi 71"
+  }},
+  {"translation": {
+    "en": "rare gas",
+    "ak": "mframa a ɛho yɛ na"
+  }},
+  {"translation": {
+    "en": "rare metals",
+    "ak": "nnade a ɛho yɛ na"
+  }},
+  {"translation": {
+    "en": "rarefaction",
+    "ak": "Sɛso a akyea"
+  }},
+  {"translation": {
+    "en": "rate",
+    "ak": "Anosom"
+  }},
+  {"translation": {
+    "en": "rate-determining step",
+    "ak": "baabi a wɔkyerɛ mmirika"
+  }},
+  {"translation": {
+    "en": "ray",
+    "ak": "Ɛkan"
+  }},
+  {"translation": {
+    "en": "ray",
+    "ak": "kanea hama"
+  }},
+  {"translation": {
+    "en": "react",
+    "ak": "Ma anoyie"
+  }},
+  {"translation": {
+    "en": "reactant",
+    "ak": "Nea ɛma muaeɛ"
+  }},
+  {"translation": {
+    "en": "reactant",
+    "ak": "nea wɔde fi nnuru dwumadi ase"
+  }},
+  {"translation": {
+    "en": "reaction",
+    "ak": "nea ɛba"
+  }},
+  {"translation": {
+    "en": "reaction mechanism",
+    "ak": "nea ɛba kwan"
+  }},
+  {"translation": {
+    "en": "reaction rate",
+    "ak": "bere a ɛde di dwuma"
+  }},
+  {"translation": {
+    "en": "reactor",
+    "ak": "nea nnuru wom a edi dwuma"
+  }},
+  {"translation": {
+    "en": "reagent",
+    "ak": "aduru a wɔde yɛ nnuru nhwehwɛmu"
+  }},
+  {"translation": {
+    "en": "rearrange",
+    "ak": "Hyehyɛ bio"
+  }},
+  {"translation": {
+    "en": "rearrangement",
+    "ak": "nhyehyɛe foforo"
+  }},
+  {"translation": {
+    "en": "reason",
+    "ak": "Nyinasoɔ/atirmpɔw"
+  }},
+  {"translation": {
+    "en": "receive",
+    "ak": "Ma won sa nka/gye"
+  }},
+  {"translation": {
+    "en": "recessive",
+    "ak": "Y’ahyɛneso"
+  }},
+  {"translation": {
+    "en": "recessive gene",
+    "ak": "Gene a ɔfoforɔ ahyɛso"
+  }},
+  {"translation": {
+    "en": "reclaiming",
+    "ak": "wɔresan agye"
+  }},
+  {"translation": {
+    "en": "recognize",
+    "ak": "Hyɛ ne nso"
+  }},
+  {"translation": {
+    "en": "record",
+    "ak": "Kye to hɔ/kyerɛw to hɔ"
+  }},
+  {"translation": {
+    "en": "rectification",
+    "ak": "nsiesiei"
+  }},
+  {"translation": {
+    "en": "rectum",
+    "ak": "Trumuu"
+  }},
+  {"translation": {
+    "en": "recycle",
+    "ak": "Fadi dwuma bio"
+  }},
+  {"translation": {
+    "en": "redox reaction",
+    "ak": "redɔks dwumadi"
+  }},
+  {"translation": {
+    "en": "reduce",
+    "ak": "Teso"
+  }},
+  {"translation": {
+    "en": "reducing agent",
+    "ak": "nkanyande a ɛma ɛso tew"
+  }},
+  {"translation": {
+    "en": "reducing flame",
+    "ak": "agya a ɛma ɛso tew"
+  }},
+  {"translation": {
+    "en": "reduction",
+    "ak": "famkɔ"
+  }},
+  {"translation": {
+    "en": "reduction potential",
+    "ak": "nteso tumi"
+  }},
+  {"translation": {
+    "en": "refer",
+    "ak": "Dane ma"
+  }},
+  {"translation": {
+    "en": "refining",
+    "ak": "nsɔnesoɔ"
+  }},
+  {"translation": {
+    "en": "reflect",
+    "ak": "Twa wo sɛso"
+  }},
+  {"translation": {
+    "en": "reflection",
+    "ak": "Sɛ ɛretwa ne sɛ so"
+  }},
+  {"translation": {
+    "en": "reflex",
+    "ak": "Ahokeka"
+  }},
+  {"translation": {
+    "en": "reflux",
+    "ak": "nipaduam nsu a ɛsan"
+  }},
+  {"translation": {
+    "en": "refract",
+    "ak": "Etwa nsɛso a akyea"
+  }},
+  {"translation": {
+    "en": "refraction",
+    "ak": "Sɛ ɛretwa nsɛso a akyea"
+  }},
+  {"translation": {
+    "en": "refrigerant",
+    "ak": "nea ɛma ade yɛ nwini"
+  }},
+  {"translation": {
+    "en": "regeneration",
+    "ak": "ade sanyɛ"
+  }},
+  {"translation": {
+    "en": "regulation",
+    "ak": "Hyɛ ho mmara"
+  }},
+  {"translation": {
+    "en": "reinforcing agent",
+    "ak": "nkanyande a ɛhyɛ den"
+  }},
+  {"translation": {
+    "en": "relationship",
+    "ak": "Twaka"
+  }},
+  {"translation": {
+    "en": "relationships in organisms",
+    "ak": "Twaka a ɛda abɔdeɛ a ɛte ase ahodoɔ mu"
+  }},
+  {"translation": {
+    "en": "relative humidity",
+    "ak": "Twaka a edada abɔdeɛ mu"
+  }},
+  {"translation": {
+    "en": "release",
+    "ak": "Gyae mu"
+  }},
+  {"translation": {
+    "en": "relevant",
+    "ak": "Mfasoɔ wɔ so"
+  }},
+  {"translation": {
+    "en": "remain the same",
+    "ak": "Aka hɔ saa"
+  }},
+  {"translation": {
+    "en": "remains",
+    "ak": "Nkaseɛ (nea aka)"
+  }},
+  {"translation": {
+    "en": "renewable",
+    "ak": "Adeɛ a yɛtumi nsesamu bio"
+  }},
+  {"translation": {
+    "en": "renewable energy resource",
+    "ak": "Ahoɔden a efri deɛ a yɛtumi nsesamu bio"
+  }},
+  {"translation": {
+    "en": "renewable resource",
+    "ak": "Nnepa a efri deɛ a yɛtumi nsesamu bio"
+  }},
+  {"translation": {
+    "en": "repair",
+    "ak": "Siesie"
+  }},
+  {"translation": {
+    "en": "repellent",
+    "ak": "aduru a ɛpam"
+  }},
+  {"translation": {
+    "en": "replacement",
+    "ak": "nsiananmu"
+  }},
+  {"translation": {
+    "en": "replication",
+    "ak": "nsɛsoyɛ"
+  }},
+  {"translation": {
+    "en": "represent",
+    "ak": "Si ananmu"
+  }},
+  {"translation": {
+    "en": "reproduce",
+    "ak": "Wo"
+  }},
+  {"translation": {
+    "en": "reproduction",
+    "ak": "Ɛfa awoɔ ho"
+  }},
+  {"translation": {
+    "en": "reproductive",
+    "ak": "Etumi wo ne sɛso"
+  }},
+  {"translation": {
+    "en": "reptile",
+    "ak": "Mmoa kuo bi te sɛ awɔwɔ n’asefoɔ (mmoa a wɔwea)"
+  }},
+  {"translation": {
+    "en": "required",
+    "ak": "Ɛyɛ nhyɛ (ahwehwɛde/ahiade)"
+  }},
+  {"translation": {
+    "en": "resist",
+    "ak": "Si kwan (ko tia)"
+  }},
+  {"translation": {
+    "en": "resistant to",
+    "ak": "Adeɛ ntumi no"
+  }},
+  {"translation": {
+    "en": "resource",
+    "ak": "Nnepa"
+  }},
+  {"translation": {
+    "en": "respiration",
+    "ak": "Ahomee"
+  }},
+  {"translation": {
+    "en": "respiratory system",
+    "ak": "Ahomee ho nhyehyɛeɛ"
+  }},
+  {"translation": {
+    "en": "respond",
+    "ak": "Ma muaeɛ/yi ano"
+  }},
+  {"translation": {
+    "en": "response",
+    "ak": "Muaeɛ/ano yi"
+  }},
+  {"translation": {
+    "en": "responsible",
+    "ak": "Deɛ ntia/asɛde"
+  }},
+  {"translation": {
+    "en": "restore",
+    "ak": "Hyɛ anan mu"
+  }},
+  {"translation": {
+    "en": "result",
+    "ak": "Deɛ ɛkɔ wie/nea efi mu ba"
+  }},
+  {"translation": {
+    "en": "reuse",
+    "ak": "San fa di dwuma"
+  }},
+  {"translation": {
+    "en": "reverse",
+    "ak": "Akyirikɔ"
+  }},
+  {"translation": {
+    "en": "reversible reaction",
+    "ak": "dwumadi a etumi san akyi"
+  }},
+  {"translation": {
+    "en": "revolution",
+    "ak": "Deɛ etwa fa ho"
+  }},
+  {"translation": {
+    "en": "revolve",
+    "ak": "Etwa fa ho"
+  }},
+  {"translation": {
+    "en": "rhenium",
+    "ak": "riniɔm"
+  }},
+  {"translation": {
+    "en": "rhodium",
+    "ak": "rodiɔm"
+  }},
+  {"translation": {
+    "en": "ribonucleic acid (RNA)",
+    "ak": "ribonɔklek asede (RNA)"
+  }},
+  {"translation": {
+    "en": "ring",
+    "ak": "kɔntɔnkrɔn/kaawa"
+  }},
+  {"translation": {
+    "en": "ring stand",
+    "ak": "kɔntɔnkrɔn agyinae"
+  }},
+  {"translation": {
+    "en": "ring structure",
+    "ak": "kɔntɔnkrɔn yɛbea"
+  }},
+  {"translation": {
+    "en": "rock",
+    "ak": "Botan"
+  }},
+  {"translation": {
+    "en": "rock cycle",
+    "ak": "Botan bra ntwaho"
+  }},
+  {"translation": {
+    "en": "rod",
+    "ak": "poma"
+  }},
+  {"translation": {
+    "en": "role",
+    "ak": "Dwumadie"
+  }},
+  {"translation": {
+    "en": "root",
+    "ak": "Nhini"
+  }},
+  {"translation": {
+    "en": "rotate",
+    "ak": "Etwa ne ho"
+  }},
+  {"translation": {
+    "en": "rotation",
+    "ak": "Ntwaho"
+  }},
+  {"translation": {
+    "en": "rubber",
+    "ak": "rɔba"
+  }},
+  {"translation": {
+    "en": "rubidium",
+    "ak": "rubidiɔm"
+  }},
+  {"translation": {
+    "en": "ruby",
+    "ak": "kɔkɔɔ paa ara"
+  }},
+  {"translation": {
+    "en": "runoff",
+    "ak": "Nsusuan"
+  }},
+  {"translation": {
+    "en": "rust",
+    "ak": "Wenaakyene/nkanare"
+  }},
+  {"translation": {
+    "en": "rust",
+    "ak": "nkannare"
+  }},
+  {"translation": {
+    "en": "ruthenium",
+    "ak": "rutiniɔm"
+  }},
+  {"translation": {
+    "en": "saccharose",
+    "ak": "afifide mu sikyere"
+  }},
+  {"translation": {
+    "en": "saliva",
+    "ak": "Ntɛsuo"
+  }},
+  {"translation": {
+    "en": "salivate",
+    "ak": "Wore twa ntɛsuo/ano nsu a wɔyɛ"
+  }},
+  {"translation": {
+    "en": "salt",
+    "ak": "nkyene"
+  }},
+  {"translation": {
+    "en": "salt bridge",
+    "ak": "nkyene brigye"
+  }},
+  {"translation": {
+    "en": "salt soda",
+    "ak": "nkyene soda"
+  }},
+  {"translation": {
+    "en": "samarium",
+    "ak": "samariɔm"
+  }},
+  {"translation": {
+    "en": "samples",
+    "ak": "Mfatoho (nhwɛsode ahorow)"
+  }},
+  {"translation": {
+    "en": "saponification",
+    "ak": "ɛsta a wɔde alkalai ka no hye"
+  }},
+  {"translation": {
+    "en": "sapphire",
+    "ak": "hoabo"
+  }},
+  {"translation": {
+    "en": "saturated compound",
+    "ak": "adewa nkabom a emu ahyɛ ma"
+  }},
+  {"translation": {
+    "en": "saturated solution",
+    "ak": "nsu a emu ade dɔɔso"
+  }},
+  {"translation": {
+    "en": "scale",
+    "ak": "Nsɛneɛ (nsɛnia)"
+  }},
+  {"translation": {
+    "en": "scale",
+    "ak": "susudua"
+  }},
+  {"translation": {
+    "en": "scandium",
+    "ak": "skandiɔm"
+  }},
+  {"translation": {
+    "en": "scarce",
+    "ak": "Ɛho yɛden (ɛho yɛ na)"
+  }},
+  {"translation": {
+    "en": "scavenger",
+    "ak": "nea eyiyi efi"
+  }},
+  {"translation": {
+    "en": "science",
+    "ak": "Abɔdeɛ mu nyansapɛ (Abɔde mu nyansahu)"
+  }},
+  {"translation": {
+    "en": "scientific (use appropriate scientific tools)",
+    "ak": "Ɛfa abɔdeɛ mu nyansapɛ ho (fa abɔdeɛ mu nyansapɛ ho\nanwenade ɛfata di dwuma)"
+  }},
+  {"translation": {
+    "en": "scientific data",
+    "ak": "abɔde mu nhomasua ho amaneɛbɔ"
+  }},
+  {"translation": {
+    "en": "scientific inquiry",
+    "ak": "Mfeefeemu wɔ Abɔdeɛ mu nyansapɛ mu"
+  }},
+  {"translation": {
+    "en": "scientific investigation",
+    "ak": "Nhwehwɛmu wɔ abɔdeɛ mu nyansapɛ mu"
+  }},
+  {"translation": {
+    "en": "scientific law",
+    "ak": "Mmara a ɛwɔ abɔdeɛ mu nyansapɛ mu"
+  }},
+  {"translation": {
+    "en": "scientific method",
+    "ak": "kwan a wɔde yɛ nhwehwɛmu fa abɔde ho"
+  }},
+  {"translation": {
+    "en": "scientific name",
+    "ak": "Edin wɔ abɔdeɛ mu nyansapɛ mu"
+  }},
+  {"translation": {
+    "en": "scientific name",
+    "ak": "abɔde mu nhomasua din"
+  }},
+  {"translation": {
+    "en": "scientific notation",
+    "ak": "agyiraehyɛde a nyansapɛfo agye atom"
+  }},
+  {"translation": {
+    "en": "scientific thinking",
+    "ak": "Adwendwene wɔ abɔdeɛ mu nyansapɛ ho"
+  }},
+  {"translation": {
+    "en": "scissors",
+    "ak": "apaso"
+  }},
+  {"translation": {
+    "en": "scrape",
+    "ak": "Wrɛwrɛ"
+  }},
+  {"translation": {
+    "en": "screw",
+    "ak": "Skruu"
+  }},
+  {"translation": {
+    "en": "sea floor spreading",
+    "ak": "Bepɔ a epue ɛpo ase"
+  }},
+  {"translation": {
+    "en": "sea level",
+    "ak": "Ɛpo gyinabre"
+  }},
+  {"translation": {
+    "en": "sealant",
+    "ak": "nea wɔde sɔ tokuru ano"
+  }},
+  {"translation": {
+    "en": "season",
+    "ak": "Mmerɛ"
+  }},
+  {"translation": {
+    "en": "secondary",
+    "ak": "Akyiriadeɛ/ntoaso"
+  }},
+  {"translation": {
+    "en": "secondary alcohol",
+    "ak": "nsa a wɔamfra mu"
+  }},
+  {"translation": {
+    "en": "sediment",
+    "ak": "Adeɛ ada aseɛ"
+  }},
+  {"translation": {
+    "en": "sedimentary rock",
+    "ak": "Nneɛma a adeda aseɛ na ayɛden adane botan (dɔte a adan\nɔbo)"
+  }},
+  {"translation": {
+    "en": "sedimentary rock",
+    "ak": "sɛdimɛntri botan"
+  }},
+  {"translation": {
+    "en": "sedimentation",
+    "ak": "Sɛ nneɛma deda aseɛ (Sɛnea dɔte dan abo)"
+  }},
+  {"translation": {
+    "en": "sedimentation",
+    "ak": "nsu mu adehyehyɛ"
+  }},
+  {"translation": {
+    "en": "sedimentation potential",
+    "ak": "adehyehyɛ tumi"
+  }},
+  {"translation": {
+    "en": "seed",
+    "ak": "Aduaba"
+  }},
+  {"translation": {
+    "en": "seed crystal",
+    "ak": "aba a ɛda ahwehwɛbo su adi"
+  }},
+  {"translation": {
+    "en": "seedling",
+    "ak": "Dua a afefɛ"
+  }},
+  {"translation": {
+    "en": "seep",
+    "ak": "Enwunu"
+  }},
+  {"translation": {
+    "en": "select",
+    "ak": "Yiyi/paw"
+  }},
+  {"translation": {
+    "en": "selective breeding",
+    "ak": "Awoɔ a ye yiyi mu"
+  }},
+  {"translation": {
+    "en": "selenium",
+    "ak": "sɛliniɔm"
+  }},
+  {"translation": {
+    "en": "semi microanalysis",
+    "ak": "ade nketewa nhwehwɛmu fa"
+  }},
+  {"translation": {
+    "en": "semiconductor",
+    "ak": "ade a anyinam tumi fa mu kakra"
+  }},
+  {"translation": {
+    "en": "semipermeable",
+    "ak": "ade tumi fa mu kakra"
+  }},
+  {"translation": {
+    "en": "semisynthetic",
+    "ak": "nea nnipa ayɛ"
+  }},
+  {"translation": {
+    "en": "sense",
+    "ak": "Atenka"
+  }},
+  {"translation": {
+    "en": "sense organ",
+    "ak": "Nipadua akwaa a enya atenka bi"
+  }},
+  {"translation": {
+    "en": "sequencing",
+    "ak": "Ɛrehyehyɛ"
+  }},
+  {"translation": {
+    "en": "sequestering agent",
+    "ak": "nkanyande a ɛkyekyɛ ade mu"
+  }},
+  {"translation": {
+    "en": "series",
+    "ak": "Ahorow"
+  }},
+  {"translation": {
+    "en": "series circuit",
+    "ak": "Nyinam fidie a edidiso"
+  }},
+  {"translation": {
+    "en": "serum",
+    "ak": "nipaduam nsu"
+  }},
+  {"translation": {
+    "en": "settle",
+    "ak": "Ada aseɛ"
+  }},
+  {"translation": {
+    "en": "sewage",
+    "ak": "Nsu fi"
+  }},
+  {"translation": {
+    "en": "sewage treatment",
+    "ak": "tiafi mu nneɛma yiyi"
+  }},
+  {"translation": {
+    "en": "sex cell",
+    "ak": "Sɛll a ɛfa nna nsɛm ho"
+  }},
+  {"translation": {
+    "en": "sex cells",
+    "ak": "Sɛll a ɛfa nna nsɛm ahodoɔ ho"
+  }},
+  {"translation": {
+    "en": "sexual",
+    "ak": "Ɛfa nna mu nsɛm"
+  }},
+  {"translation": {
+    "en": "shape",
+    "ak": "Abosuo"
+  }},
+  {"translation": {
+    "en": "shell",
+    "ak": "Konkura a edura aboa ho"
+  }},
+  {"translation": {
+    "en": "shell",
+    "ak": "aboa akyi"
+  }},
+  {"translation": {
+    "en": "shield volcano",
+    "ak": "Bepɔ mu nsugya"
+  }},
+  {"translation": {
+    "en": "shiver",
+    "ak": "Awosoɔ/ahopopo"
+  }},
+  {"translation": {
+    "en": "shy",
+    "ak": "Fɛreɛ"
+  }},
+  {"translation": {
+    "en": "significant",
+    "ak": "Ehia"
+  }},
+  {"translation": {
+    "en": "silica gel",
+    "ak": "silika nku"
+  }},
+  {"translation": {
+    "en": "silicate",
+    "ak": "silisid nkyene"
+  }},
+  {"translation": {
+    "en": "silicon",
+    "ak": "silikɔn"
+  }},
+  {"translation": {
+    "en": "silicon carbide",
+    "ak": "silikɔn kabaidi"
+  }},
+  {"translation": {
+    "en": "silicone",
+    "ak": "silicon"
+  }},
+  {"translation": {
+    "en": "silicone oil",
+    "ak": "silikon ngo"
+  }},
+  {"translation": {
+    "en": "silver",
+    "ak": "dwetɛ"
+  }},
+  {"translation": {
+    "en": "similarity",
+    "ak": "Edi nsɛ"
+  }},
+  {"translation": {
+    "en": "simple machine",
+    "ak": "Afidie a ɛnnyɛ nwonworan"
+  }},
+  {"translation": {
+    "en": "single replacement",
+    "ak": "biako nsiananmu"
+  }},
+  {"translation": {
+    "en": "sinter",
+    "ak": "nnade muhumuhu nkabom"
+  }},
+  {"translation": {
+    "en": "sintered crucible",
+    "ak": "nea ɛnan ntɛm nkabom"
+  }},
+  {"translation": {
+    "en": "siren",
+    "ak": "Alam"
+  }},
+  {"translation": {
+    "en": "situation",
+    "ak": "Tebea"
+  }},
+  {"translation": {
+    "en": "size",
+    "ak": "Adeɛ bi kɛseɛ"
+  }},
+  {"translation": {
+    "en": "skeletal muscle",
+    "ak": "Nnompe ho ntini"
+  }},
+  {"translation": {
+    "en": "skeletal system",
+    "ak": "Nnompe nhyehyɛeɛ"
+  }},
+  {"translation": {
+    "en": "slow oxidation",
+    "ak": "ɔksigyen a wɔde ka ho nkakrankakra"
+  }},
+  {"translation": {
+    "en": "sludge",
+    "ak": "nsu a emu api"
+  }},
+  {"translation": {
+    "en": "slurry",
+    "ak": "nsu afrade a nneɛma no ne nsu no mfra"
+  }},
+  {"translation": {
+    "en": "small intestine",
+    "ak": "Nson ketewa"
+  }},
+  {"translation": {
+    "en": "smelt",
+    "ak": "Nan"
+  }},
+  {"translation": {
+    "en": "smog",
+    "ak": "Nwusie"
+  }},
+  {"translation": {
+    "en": "smog",
+    "ak": "suwusiw ne wusiw nkabom"
+  }},
+  {"translation": {
+    "en": "smooth muscle",
+    "ak": "Ntini a ɛho tromtrom"
+  }},
+  {"translation": {
+    "en": "soda",
+    "ak": "soda"
+  }},
+  {"translation": {
+    "en": "soda ash",
+    "ak": "soda nkyene"
+  }},
+  {"translation": {
+    "en": "Sodium",
+    "ak": "sodiɔm"
+  }},
+  {"translation": {
+    "en": "sodium chloride",
+    "ak": "sodiɔm klɔraidi"
+  }},
+  {"translation": {
+    "en": "sodium hydroxide",
+    "ak": "sodiɔm hidroɔksaidi"
+  }},
+  {"translation": {
+    "en": "soil",
+    "ak": "Anwea/dɔte"
+  }},
+  {"translation": {
+    "en": "soil texture",
+    "ak": "Sɛdeɛ anwea/dɔte teɛ wɔ nsa ano"
+  }},
+  {"translation": {
+    "en": "Sol",
+    "ak": "Afrade nsu"
+  }},
+  {"translation": {
+    "en": "solar cell",
+    "ak": "Batre a ɛde owia na ɛkyagye"
+  }},
+  {"translation": {
+    "en": "solar eclipse",
+    "ak": "Nsroma kye awia"
+  }},
+  {"translation": {
+    "en": "solar energy",
+    "ak": "Tumi a efri owia mu"
+  }},
+  {"translation": {
+    "en": "solar system",
+    "ak": "Owia nhyehyɛdeɛ (okyin nsoroma)"
+  }},
+  {"translation": {
+    "en": "solid",
+    "ak": "Ɛyɛ den"
+  }},
+  {"translation": {
+    "en": "solid solution",
+    "ak": "adeboba a anan nsu mu"
+  }},
+  {"translation": {
+    "en": "solidification",
+    "ak": "Ɛreyɛ den"
+  }},
+  {"translation": {
+    "en": "Solidus",
+    "ak": "Pɛnpɛnso a ade yɛ den ahyɛnsode"
+  }},
+  {"translation": {
+    "en": "solubility",
+    "ak": "sɛnea ade tumi hono wɔ nsuo mu"
+  }},
+  {"translation": {
+    "en": "Solubility",
+    "ak": "Sɛnea ade tumi nan nsu mu"
+  }},
+  {"translation": {
+    "en": "solubility curve",
+    "ak": "sɛnea ade tumi nan nsu mu mfonin"
+  }},
+  {"translation": {
+    "en": "solubility product constant",
+    "ak": "sɛnea ade tumi nan nsu mu ahyɛnsode"
+  }},
+  {"translation": {
+    "en": "solubility product expression",
+    "ak": "sɛnea ade tumi nan nsu mu nkyerɛwee"
+  }},
+  {"translation": {
+    "en": "solute",
+    "ak": "nea ɛhono gu nsu mu"
+  }},
+  {"translation": {
+    "en": "solute",
+    "ak": "nea ɛnan nsu mu"
+  }},
+  {"translation": {
+    "en": "solution",
+    "ak": "Nsuo a adeɛ anane agu mu"
+  }},
+  {"translation": {
+    "en": "solution",
+    "ak": "nsu afrade"
+  }},
+  {"translation": {
+    "en": "solution equilibrium",
+    "ak": "nsu afrade pɛyɛ"
+  }},
+  {"translation": {
+    "en": "solvent",
+    "ak": "nsuo a ade anan agu mu (nsu a etumi nan de)"
+  }},
+  {"translation": {
+    "en": "solvent",
+    "ak": "nsu a ade nan wom"
+  }},
+  {"translation": {
+    "en": "sound",
+    "ak": "Ɛnee nyegyeɛ (nnyigyei)"
+  }},
+  {"translation": {
+    "en": "sound recorder",
+    "ak": "Afidie a ɛkye ɛnee gi hɔ (afiri a ɛkyere nnyigyei)"
+  }},
+  {"translation": {
+    "en": "sour",
+    "ak": "ɛkeka"
+  }},
+  {"translation": {
+    "en": "source",
+    "ak": "Ne farebae/fibea"
+  }},
+  {"translation": {
+    "en": "space",
+    "ak": "Ewiemu (ahummu)/ahun mu"
+  }},
+  {"translation": {
+    "en": "specialize",
+    "ak": "Kwadaremu (ho akokwaw mu)"
+  }},
+  {"translation": {
+    "en": "species",
+    "ak": "Abɔdeɛ a ɛte ase kuo ankasa"
+  }},
+  {"translation": {
+    "en": "specific",
+    "ak": "Pɔtee"
+  }},
+  {"translation": {
+    "en": "specific gravity",
+    "ak": "adetwe tumi pɔtee"
+  }},
+  {"translation": {
+    "en": "specific heat",
+    "ak": "ɔhyew pɔtee"
+  }},
+  {"translation": {
+    "en": "specimens",
+    "ak": "Mfatoho (nsusuwso)"
+  }},
+  {"translation": {
+    "en": "spectral lines",
+    "ak": "nkanea nhama"
+  }},
+  {"translation": {
+    "en": "spectrometer",
+    "ak": "kanea nhama afiri"
+  }},
+  {"translation": {
+    "en": "spectroscopy",
+    "ak": "nkanea ho nhwehwɛmu"
+  }},
+  {"translation": {
+    "en": "speed",
+    "ak": "Mmirika"
+  }},
+  {"translation": {
+    "en": "Sperm",
+    "ak": "Barima ho nsuo nkwammoa"
+  }},
+  {"translation": {
+    "en": "Spill",
+    "ak": "Pigu (puw gu)"
+  }},
+  {"translation": {
+    "en": "spinal cord",
+    "ak": "Akyi brɛmo"
+  }},
+  {"translation": {
+    "en": "Spiral",
+    "ak": "Adeɛ a etwa ne ho si fam"
+  }},
+  {"translation": {
+    "en": "Sponge",
+    "ak": "Sapɔ"
+  }},
+  {"translation": {
+    "en": "spontaneous chemical change",
+    "ak": "prɛko pɛ aduru mu nsakrae"
+  }},
+  {"translation": {
+    "en": "spontaneous ignition",
+    "ak": "prɛko pɛ gyasɔ"
+  }},
+  {"translation": {
+    "en": "Spore",
+    "ak": "Mfrofrowa"
+  }},
+  {"translation": {
+    "en": "Spring",
+    "ak": "Atwetan"
+  }},
+  {"translation": {
+    "en": "spring scale",
+    "ak": "atwetan nsɛneɛ"
+  }},
+  {"translation": {
+    "en": "Sprout",
+    "ak": "Afefɛ"
+  }},
+  {"translation": {
+    "en": "Squint",
+    "ak": "Nyinya w’anim"
+  }},
+  {"translation": {
+    "en": "stability",
+    "ak": "tumi a ade de gyina hɔ"
+  }},
+  {"translation": {
+    "en": "stability constant",
+    "ak": "tumi a ade de gyina hɔ a ɛnsesa"
+  }},
+  {"translation": {
+    "en": "stabilization",
+    "ak": "ade a wɔma egyina hɔ"
+  }},
+  {"translation": {
+    "en": "stabilizer",
+    "ak": "nea ɛmma ade nsakra"
+  }},
+  {"translation": {
+    "en": "Stable",
+    "ak": "Enhinhim"
+  }},
+  {"translation": {
+    "en": "stable compound",
+    "ak": "adewa nkabom a ɛnsakra"
+  }},
+  {"translation": {
+    "en": "Stages",
+    "ak": "Gyinabrɛ ahodoɔ"
+  }},
+  {"translation": {
+    "en": "stain",
+    "ak": "nkekae"
+  }},
+  {"translation": {
+    "en": "Stamen",
+    "ak": "Nhweren fa a ɛyɛ barima"
+  }},
+  {"translation": {
+    "en": "standard calomel electrode",
+    "ak": "anyinam hama titiriw"
+  }},
+  {"translation": {
+    "en": "standard condition",
+    "ak": "tebea a wɔhwehwɛ"
+  }},
+  {"translation": {
+    "en": "standard electrode potential",
+    "ak": "anyinam tumi a wɔhwehwɛ"
+  }},
+  {"translation": {
+    "en": "standard heat of formation",
+    "ak": "ɔhyew a ɛma yɛbea bi a wɔhwɛ kwan"
+  }},
+  {"translation": {
+    "en": "standard oxidation-reduction potential",
+    "ak": "ɔksigyenyi tumi a wɔhwɛ kwan"
+  }},
+  {"translation": {
+    "en": "standard pressure",
+    "ak": "mɛkuri tumi susude"
+  }},
+  {"translation": {
+    "en": "standard solution",
+    "ak": "nsu afrade a eye"
+  }},
+  {"translation": {
+    "en": "Star",
+    "ak": "Nsroma"
+  }},
+  {"translation": {
+    "en": "Starch",
+    "ak": "Stakye"
+  }},
+  {"translation": {
+    "en": "starch",
+    "ak": "staakye"
+  }},
+  {"translation": {
+    "en": "State",
+    "ak": "Tebea"
+  }},
+  {"translation": {
+    "en": "state",
+    "ak": "tebea"
+  }},
+  {"translation": {
+    "en": "static charge",
+    "ak": "Kyage a etim faako"
+  }},
+  {"translation": {
+    "en": "static electricity",
+    "ak": "Nyinam a etim faako"
+  }},
+  {"translation": {
+    "en": "steam distillation",
+    "ak": "suwusiw kurunyennyɛ"
+  }},
+  {"translation": {
+    "en": "stearic acid",
+    "ak": "sraade asede"
+  }},
+  {"translation": {
+    "en": "steel",
+    "ak": "dade hyɛnhyɛnn"
+  }},
+  {"translation": {
+    "en": "Stem",
+    "ak": "Dua mfinfnin"
+  }},
+  {"translation": {
+    "en": "stereochemistry",
+    "ak": "abɔde mu nnuru adesua afa ahorow"
+  }},
+  {"translation": {
+    "en": "stereoisomer",
+    "ak": "stɛrioisoma"
+  }},
+  {"translation": {
+    "en": "Stigma",
+    "ak": "Nhwiren fa baabi a ɛyɛ barima ano"
+  }},
+  {"translation": {
+    "en": "stimulus",
+    "ak": "Nkenyan hyɛ"
+  }},
+  {"translation": {
+    "en": "stoichiometry",
+    "ak": "nkabom afa dodow a edi dwuma susude"
+  }},
+  {"translation": {
+    "en": "stomach",
+    "ak": "Yafunu"
+  }},
+  {"translation": {
+    "en": "stopper",
+    "ak": "nea wɔde siw tokuru ano"
+  }},
+  {"translation": {
+    "en": "stopwatch",
+    "ak": "Afidie a yɛde hwɛ berɛ"
+  }},
+  {"translation": {
+    "en": "STP",
+    "ak": "STP"
+  }},
+  {"translation": {
+    "en": "straight-chain compound",
+    "ak": "adewa nkabom a n'akyerɛwde yɛ tee"
+  }},
+  {"translation": {
+    "en": "Strain",
+    "ak": "Ahokyerɛ"
+  }},
+  {"translation": {
+    "en": "Strategy",
+    "ak": "Ntotoeɛ"
+  }},
+  {"translation": {
+    "en": "Strato",
+    "ak": "Strato"
+  }},
+  {"translation": {
+    "en": "stratus cloud",
+    "ak": "Mununkum a ɛbɛn fam"
+  }},
+  {"translation": {
+    "en": "Streak",
+    "ak": "Nsensaneɛ a ɛkɔ tee"
+  }},
+  {"translation": {
+    "en": "strip",
+    "ak": "hama"
+  }},
+  {"translation": {
+    "en": "strong acid",
+    "ak": "asede a ano yɛ den"
+  }},
+  {"translation": {
+    "en": "strong base",
+    "ak": "besi a ano yɛ den"
+  }},
+  {"translation": {
+    "en": "strong electrolyte",
+    "ak": "nsu a anyinam tumi fa mu paa"
+  }},
+  {"translation": {
+    "en": "strontium",
+    "ak": "strontiɔm"
+  }},
+  {"translation": {
+    "en": "structural adaptation",
+    "ak": "Se wore atumi atena wo nhyehyɛdeɛ mu"
+  }},
+  {"translation": {
+    "en": "structural formula",
+    "ak": "yɛbea nkyerɛwee"
+  }},
+  {"translation": {
+    "en": "structure",
+    "ak": "Nhyehyɛdeɛ"
+  }},
+  {"translation": {
+    "en": "subatomic particle",
+    "ak": "adewa a ɛwɔ atɔm mu"
+  }},
+  {"translation": {
+    "en": "sublevel",
+    "ak": "pɛnpɛnso bi ase"
+  }},
+  {"translation": {
+    "en": "sublimate",
+    "ak": "dan mframa"
+  }},
+  {"translation": {
+    "en": "sublimation",
+    "ak": "Adeboɔ dane mframa"
+  }},
+  {"translation": {
+    "en": "sublimation",
+    "ak": "mframa dan"
+  }},
+  {"translation": {
+    "en": "sublime",
+    "ak": "dan suwusiw san yɛ nsu"
+  }},
+  {"translation": {
+    "en": "subliminal",
+    "ak": "nea ɛnna adi"
+  }},
+  {"translation": {
+    "en": "subscript",
+    "ak": "ase nkyerɛwde"
+  }},
+  {"translation": {
+    "en": "subshell",
+    "ak": "aboa ho ase"
+  }},
+  {"translation": {
+    "en": "Subsoil",
+    "ak": "Anwea a ɛwɔ asaase mu"
+  }},
+  {"translation": {
+    "en": "substance",
+    "ak": "Adeɛ"
+  }},
+  {"translation": {
+    "en": "substance",
+    "ak": "ade/aduru"
+  }},
+  {"translation": {
+    "en": "substituent",
+    "ak": "nea wɔde si ananmu"
+  }},
+  {"translation": {
+    "en": "substitution reaction",
+    "ak": "nea ɛba bere a wɔasi biribi ananmu"
+  }},
+  {"translation": {
+    "en": "substrate",
+    "ak": "nea mmoawa yɛ ho adwuma"
+  }},
+  {"translation": {
+    "en": "sucrose",
+    "ak": "afifide mu sikyere"
+  }},
+  {"translation": {
+    "en": "Sugar",
+    "ak": "Asikyire"
+  }},
+  {"translation": {
+    "en": "sulfur",
+    "ak": "sufre"
+  }},
+  {"translation": {
+    "en": "sulfuric acid",
+    "ak": "Sulfurik  asid"
+  }},
+  {"translation": {
+    "en": "sulfuric acid",
+    "ak": "sufre asede"
+  }},
+  {"translation": {
+    "en": "summarize",
+    "ak": "Bɔ ne tɔfa (bɔ no mua)"
+  }},
+  {"translation": {
+    "en": "Sun",
+    "ak": "Owia"
+  }},
+  {"translation": {
+    "en": "super cooled",
+    "ak": "nea ayɛ nwini paa"
+  }},
+  {"translation": {
+    "en": "super oxides",
+    "ak": "nea ɔksigyen wom"
+  }},
+  {"translation": {
+    "en": "supernova",
+    "ak": "Supanova (nsoroma a etu)"
+  }},
+  {"translation": {
+    "en": "supersaturated solution",
+    "ak": "nsu a emu ade dɔɔso paa"
+  }},
+  {"translation": {
+    "en": "supersaturating",
+    "ak": "nsu mu ade a wɔma ɛdɔɔso"
+  }},
+  {"translation": {
+    "en": "Support",
+    "ak": "Mmoa"
+  }},
+  {"translation": {
+    "en": "Surface",
+    "ak": "Anii"
+  }},
+  {"translation": {
+    "en": "surface",
+    "ak": "ani"
+  }},
+  {"translation": {
+    "en": "surface activity",
+    "ak": "dwumadi wɔ ani so"
+  }},
+  {"translation": {
+    "en": "surface area",
+    "ak": "anim kɛse"
+  }},
+  {"translation": {
+    "en": "surface chemistry",
+    "ak": "abɔde yɛbea ho nhomasua a ɛyɛ ani so de"
+  }},
+  {"translation": {
+    "en": "surface orientation",
+    "ak": "ani so yɛbea"
+  }},
+  {"translation": {
+    "en": "surface reaction",
+    "ak": "nea ɛba ani so"
+  }},
+  {"translation": {
+    "en": "surface tension",
+    "ak": "nsu ani tumi"
+  }},
+  {"translation": {
+    "en": "surface-active agent",
+    "ak": "anim dwumadi nkanyande"
+  }},
+  {"translation": {
+    "en": "Survey",
+    "ak": "Mfeefeemu"
+  }},
+  {"translation": {
+    "en": "Survival",
+    "ak": "Sɛ wore tena kwan mu"
+  }},
+  {"translation": {
+    "en": "survive, survival",
+    "ak": "tena kwa mu, wore tena nkwa mu"
+  }},
+  {"translation": {
+    "en": "suspension",
+    "ak": "nsu a emu ade ne no mfra"
+  }},
+  {"translation": {
+    "en": "Swamp",
+    "ak": "Afrɔ mu"
+  }},
+  {"translation": {
+    "en": "Sweat",
+    "ak": "Mfifire"
+  }},
+  {"translation": {
+    "en": "Switch",
+    "ak": "Sesa mu"
+  }},
+  {"translation": {
+    "en": "symbol",
+    "ak": "sɛnkyerɛnne"
+  }},
+  {"translation": {
+    "en": "synchrotron",
+    "ak": "sinkrotrɔn"
+  }},
+  {"translation": {
+    "en": "syndetic",
+    "ak": "kasasin a nkabomde wom"
+  }},
+  {"translation": {
+    "en": "synthesis",
+    "ak": "nkabom dwumadi"
+  }},
+  {"translation": {
+    "en": "synthesis gas",
+    "ak": "nkabom mframa"
+  }},
+  {"translation": {
+    "en": "synthetic resin",
+    "ak": "atare aduru a nnipa ayɛ"
+  }},
+  {"translation": {
+    "en": "System",
+    "ak": "Nhyehyɛeɛ"
+  }},
+  {"translation": {
+    "en": "Table",
+    "ak": "Ɛpono"
+  }},
+  {"translation": {
+    "en": "table salt",
+    "ak": "Ɛnkyene a yɛdi"
+  }},
+  {"translation": {
+    "en": "Tadpole",
+    "ak": "Konkontibaa"
+  }},
+  {"translation": {
+    "en": "tantalum",
+    "ak": "tantalɔm"
+  }},
+  {"translation": {
+    "en": "tape measure",
+    "ak": "Ahoma a yɛde susu adeɛ"
+  }},
+  {"translation": {
+    "en": "tar",
+    "ak": "amane"
+  }},
+  {"translation": {
+    "en": "tartaric acid",
+    "ak": "amane asede"
+  }},
+  {"translation": {
+    "en": "technetium",
+    "ak": "tɛknitiɔm"
+  }},
+  {"translation": {
+    "en": "technology",
+    "ak": "Abɛɛfo mfidie"
+  }},
+  {"translation": {
+    "en": "technology",
+    "ak": "abɛɛfo mfiridwuma"
+  }},
+  {"translation": {
+    "en": "telescope",
+    "ak": "Afidie a yɛde hwɛ adeɛ a ɛwɔ akyire yie"
+  }},
+  {"translation": {
+    "en": "tellurium",
+    "ak": "tɛluriɔm"
+  }},
+  {"translation": {
+    "en": "temperate",
+    "ak": "Bea awɔ wɔ hɔ"
+  }},
+  {"translation": {
+    "en": "temperature",
+    "ak": "Adeɛ hyeɛ anaa ne nwunu"
+  }},
+  {"translation": {
+    "en": "temperature",
+    "ak": "ɔhyew/onwini pɛnpɛnso"
+  }},
+  {"translation": {
+    "en": "temporary magnet",
+    "ak": "Stim a ennihɔ afebɔɔ"
+  }},
+  {"translation": {
+    "en": "terbium",
+    "ak": "tɛbiɔm"
+  }},
+  {"translation": {
+    "en": "terephthalic acid",
+    "ak": "tɛriftalik asede"
+  }},
+  {"translation": {
+    "en": "ternary",
+    "ak": "emu ade yɛ abiesa"
+  }},
+  {"translation": {
+    "en": "ternary acid",
+    "ak": "asede a emu ade yɛ abiesa"
+  }},
+  {"translation": {
+    "en": "terrestrial planets",
+    "ak": "Kyinsroma  a botan wɔ mu"
+  }},
+  {"translation": {
+    "en": "tertiary alcohol",
+    "ak": "nsa a wɔayi mu ade koraa"
+  }},
+  {"translation": {
+    "en": "terylene",
+    "ak": "tɛrilin"
+  }},
+  {"translation": {
+    "en": "test",
+    "ak": "Nsɔhwɛ"
+  }},
+  {"translation": {
+    "en": "test tube",
+    "ak": "nhwehwɛmu durubɛn"
+  }},
+  {"translation": {
+    "en": "test tube holder",
+    "ak": "nea wɔde sɔ nhwehwɛmu durubɛn mu"
+  }},
+  {"translation": {
+    "en": "test tube rack",
+    "ak": "nea wɔde nhwehwɛmu durubɛn si so"
+  }},
+  {"translation": {
+    "en": "tetra fluoride ethylene (ethylene tetrafluoride)",
+    "ak": "tɛtraflɔraidi ɛtilin (ɛtilin tɛtraflɔraidi)"
+  }},
+  {"translation": {
+    "en": "tetrachloride",
+    "ak": "tɛtraklɔraidi"
+  }},
+  {"translation": {
+    "en": "tetramer",
+    "ak": "afa anan"
+  }},
+  {"translation": {
+    "en": "thallium",
+    "ak": "taliɔm"
+  }},
+  {"translation": {
+    "en": "theoretical plate",
+    "ak": "tirimbɔ pon"
+  }},
+  {"translation": {
+    "en": "theory",
+    "ak": "Nimdeɛ mu botrimuka"
+  }},
+  {"translation": {
+    "en": "theory",
+    "ak": "nsusuwii"
+  }},
+  {"translation": {
+    "en": "thermal diffusion",
+    "ak": "ɔhyew adewura"
+  }},
+  {"translation": {
+    "en": "thermal energy",
+    "ak": "Tumi a efri ɔhyew mu"
+  }},
+  {"translation": {
+    "en": "thermal polymerization",
+    "ak": "ɔhyew pɔlimayɛ"
+  }},
+  {"translation": {
+    "en": "thermite",
+    "ak": "ɔhyew susude"
+  }},
+  {"translation": {
+    "en": "thermo balance",
+    "ak": "ɔhyew susufiri"
+  }},
+  {"translation": {
+    "en": "thermochemistry",
+    "ak": "abɔde yɛbea ho nhomasua fa ɔhyew ho"
+  }},
+  {"translation": {
+    "en": "thermocouple",
+    "ak": "tɛmokɔpel susufiri"
+  }},
+  {"translation": {
+    "en": "thermoform",
+    "ak": "ɔhyew ho yɛbea"
+  }},
+  {"translation": {
+    "en": "thermometer",
+    "ak": "Afidie a yɛde susu adehyeɛ"
+  }},
+  {"translation": {
+    "en": "thermonuclear device",
+    "ak": "ɔhyew nuklɛ afiri"
+  }},
+  {"translation": {
+    "en": "thermonuclear reaction",
+    "ak": "nea efi ɔhyew nuklɛ mu ba"
+  }},
+  {"translation": {
+    "en": "thermoplastic",
+    "ak": "nea ɛyɛ mmerɛw ɔhyew mu na ɛyɛ den bere a adwo"
+  }},
+  {"translation": {
+    "en": "thermosetting",
+    "ak": "nea ɛyɛ den bere a ɔhyew aka no asan adwo"
+  }},
+  {"translation": {
+    "en": "thiamine",
+    "ak": "tiamin aduannuru"
+  }},
+  {"translation": {
+    "en": "thiol",
+    "ak": "nea sufre wom"
+  }},
+  {"translation": {
+    "en": "thistle tube",
+    "ak": "durubɛn tiaa"
+  }},
+  {"translation": {
+    "en": "thorium",
+    "ak": "toriɔm"
+  }},
+  {"translation": {
+    "en": "thulium",
+    "ak": "tuliɔm"
+  }},
+  {"translation": {
+    "en": "thunderstorm",
+    "ak": "Apranaa dwidwam"
+  }},
+  {"translation": {
+    "en": "tide",
+    "ak": "Asrɔkye"
+  }},
+  {"translation": {
+    "en": "tilt",
+    "ak": "Akyea"
+  }},
+  {"translation": {
+    "en": "tilted",
+    "ak": "Ɛkyeaɛ"
+  }},
+  {"translation": {
+    "en": "time",
+    "ak": "Berɛ"
+  }},
+  {"translation": {
+    "en": "tin",
+    "ak": "tin"
+  }},
+  {"translation": {
+    "en": "tincture",
+    "ak": "nea ɛde kɔla ka nnade"
+  }},
+  {"translation": {
+    "en": "tissue",
+    "ak": "Abɔdeɛ mu adeɛ"
+  }},
+  {"translation": {
+    "en": "titanium",
+    "ak": "titaniɔm"
+  }},
+  {"translation": {
+    "en": "titrant",
+    "ak": "nhwehwɛmu nsu"
+  }},
+  {"translation": {
+    "en": "titration",
+    "ak": "afrade ho nsɔhwɛ"
+  }},
+  {"translation": {
+    "en": "toluene",
+    "ak": "toluin"
+  }},
+  {"translation": {
+    "en": "toner",
+    "ak": "aduru a ɛsesa mfonin"
+  }},
+  {"translation": {
+    "en": "tongs",
+    "ak": "nea wɔde sɔ ade mu"
+  }},
+  {"translation": {
+    "en": "tool",
+    "ak": "Anwenade"
+  }},
+  {"translation": {
+    "en": "topsoil",
+    "ak": "Anwia a ɛwɔ soro (dɔte a ɛwɔ asase ani)"
+  }},
+  {"translation": {
+    "en": "tornado",
+    "ak": "Ohum/ahum"
+  }},
+  {"translation": {
+    "en": "torr",
+    "ak": "tɔɔ susude"
+  }},
+  {"translation": {
+    "en": "trace element",
+    "ak": "nipaduam adewa a ɛho hia"
+  }},
+  {"translation": {
+    "en": "tracer",
+    "ak": "nea wɔde yɛ mfonin sɛso"
+  }},
+  {"translation": {
+    "en": "trachea",
+    "ak": "Tokro a mframa famu wɔ nipadua mu"
+  }},
+  {"translation": {
+    "en": "trade-offs",
+    "ak": "Wore  sɛe biribi de anya biribi foforɔ"
+  }},
+  {"translation": {
+    "en": "trait",
+    "ak": "Su"
+  }},
+  {"translation": {
+    "en": "transfer",
+    "ak": "Yi kɔ baabi foforɔ"
+  }},
+  {"translation": {
+    "en": "transfer pipette",
+    "ak": "nhwehwɛmu toa"
+  }},
+  {"translation": {
+    "en": "transference number",
+    "ak": "nɔma a wɔde dan kɔ foforo mu"
+  }},
+  {"translation": {
+    "en": "transform",
+    "ak": "Sesa kɔ tebea foforɔ mu"
+  }},
+  {"translation": {
+    "en": "transition element",
+    "ak": "adewa a emu ilɛktrɔn nnu nea wɔhwehwɛ"
+  }},
+  {"translation": {
+    "en": "transition series",
+    "ak": "adaneadan ahorow"
+  }},
+  {"translation": {
+    "en": "transmutation",
+    "ak": "nsakraeyɛ"
+  }},
+  {"translation": {
+    "en": "transport",
+    "ak": "Akɔneaba die"
+  }},
+  {"translation": {
+    "en": "transport system",
+    "ak": "Akɔneabadie nhyehyɛeɛ"
+  }},
+  {"translation": {
+    "en": "transuranic element",
+    "ak": "nea n'atɔm nɔma boro 92"
+  }},
+  {"translation": {
+    "en": "transverse",
+    "ak": "Transfɛs tumi a amunimuni (mmeamu/ntwamu)"
+  }},
+  {"translation": {
+    "en": "trench",
+    "ak": "Amena"
+  }},
+  {"translation": {
+    "en": "tri hydroxide alcohol",
+    "ak": "trihaidrɔksaidi nsa"
+  }},
+  {"translation": {
+    "en": "triad",
+    "ak": "mmɔho abiesa"
+  }},
+  {"translation": {
+    "en": "trial",
+    "ak": "Nsɔhwɛ"
+  }},
+  {"translation": {
+    "en": "trichloroethylene",
+    "ak": "trikloroɛtilin"
+  }},
+  {"translation": {
+    "en": "tricyclic",
+    "ak": "aduru a ɛbrɛ botowyɛ ase"
+  }},
+  {"translation": {
+    "en": "tri-ethanolamine",
+    "ak": "triɛtanolamin"
+  }},
+  {"translation": {
+    "en": "tri-ethyl-aluminum",
+    "ak": "triɛtilaluminiɔm"
+  }},
+  {"translation": {
+    "en": "triglyceride",
+    "ak": "trigliseraidi"
+  }},
+  {"translation": {
+    "en": "trioxide",
+    "ak": "nea n'atɔm yɛ abiesa"
+  }},
+  {"translation": {
+    "en": "triple beam balance",
+    "ak": "ade mu duru susufiri a n'afa yɛ abiesa"
+  }},
+  {"translation": {
+    "en": "triple bond",
+    "ak": "nkabom mmɔho abiesa"
+  }},
+  {"translation": {
+    "en": "triple point",
+    "ak": "pɛnpɛnso ahorow abiesa"
+  }},
+  {"translation": {
+    "en": "tritium",
+    "ak": "tritiɔm"
+  }},
+  {"translation": {
+    "en": "tropical",
+    "ak": "Beaɛ a awɔ nni so (beae a ɔhyew wɔ)"
+  }},
+  {"translation": {
+    "en": "troposphere",
+    "ak": "Ewiem nnidisoɔ a etwa toɔ"
+  }},
+  {"translation": {
+    "en": "trough",
+    "ak": "Adididaka"
+  }},
+  {"translation": {
+    "en": "true solution",
+    "ak": "afrade nsu pa"
+  }},
+  {"translation": {
+    "en": "tubing",
+    "ak": "durubɛn mu fa"
+  }},
+  {"translation": {
+    "en": "tumor",
+    "ak": "Dwoa a ɛhyɛ nnipa mu"
+  }},
+  {"translation": {
+    "en": "tungsten",
+    "ak": "dade a wɔde yɛ anyinam dwumadi"
+  }},
+  {"translation": {
+    "en": "tungsten carbide",
+    "ak": "tunstin kabaidi"
+  }},
+  {"translation": {
+    "en": "turbine",
+    "ak": "Drobɛn kɛseɛ"
+  }},
+  {"translation": {
+    "en": "two-hole stopper",
+    "ak": "nea wɔde siw tokuru abien ano"
+  }},
+  {"translation": {
+    "en": "type",
+    "ak": "Asɔɔto (ahorow yɛ)"
+  }},
+  {"translation": {
+    "en": "ultimate analysis",
+    "ak": "nhwehwɛmu a etwa to koraa"
+  }},
+  {"translation": {
+    "en": "ultraviolet radiation",
+    "ak": "ɔltravaolɛt radiehyen"
+  }},
+  {"translation": {
+    "en": "unbalanced forces",
+    "ak": "Ahoɔden a ɛnnyɛ pɛ"
+  }},
+  {"translation": {
+    "en": "uncertainty principle",
+    "ak": "nea ensi pi ho mmara"
+  }},
+  {"translation": {
+    "en": "undergo metamorphosis",
+    "ak": "Ɛfa nsesaeɛ mu"
+  }},
+  {"translation": {
+    "en": "unequal",
+    "ak": "Ɛnnyɛ pɛ"
+  }},
+  {"translation": {
+    "en": "unicellular",
+    "ak": "Abɔdeɛ a ne sɛll yɛ baako pɛ"
+  }},
+  {"translation": {
+    "en": "uniform dispersion",
+    "ak": "ntogu wɔ pɛyɛ kwan so"
+  }},
+  {"translation": {
+    "en": "unifying themes",
+    "ak": "Adwenpɔ a edi nhyia"
+  }},
+  {"translation": {
+    "en": "unique",
+    "ak": "Ɛda nso"
+  }},
+  {"translation": {
+    "en": "unit",
+    "ak": "susude"
+  }},
+  {"translation": {
+    "en": "universe",
+    "ak": "Ewiase (amansan)"
+  }},
+  {"translation": {
+    "en": "unsaturated component",
+    "ak": "emu ade a ɛnɔɔso"
+  }},
+  {"translation": {
+    "en": "unstable",
+    "ak": "Ennyina yie"
+  }},
+  {"translation": {
+    "en": "vacancy",
+    "ak": "kwan a ɛda hɔ"
+  }},
+  {"translation": {
+    "en": "vacuole",
+    "ak": "Ahaban mu akwaa bi"
+  }},
+  {"translation": {
+    "en": "vacuum condensing point",
+    "ak": "nsudan ade mu pɛnpɛnso"
+  }},
+  {"translation": {
+    "en": "vacuum crystallization",
+    "ak": "aboabo dan wɔ ade mu"
+  }},
+  {"translation": {
+    "en": "vacuum crystallizer",
+    "ak": "nea ɛdan ade aboabo wɔ ade mu"
+  }},
+  {"translation": {
+    "en": "vacuum distillation",
+    "ak": "nsu kurunyennyɛ wɔ ade mu"
+  }},
+  {"translation": {
+    "en": "valence",
+    "ak": "valɛnsi"
+  }},
+  {"translation": {
+    "en": "valence electrons",
+    "ak": "valɛnsi ilɛktrɔn"
+  }},
+  {"translation": {
+    "en": "valley",
+    "ak": "Amena a ɛhyɛ bepɔ mu (bon)"
+  }},
+  {"translation": {
+    "en": "Van der Waals force",
+    "ak": "Van der Waals tumi"
+  }},
+  {"translation": {
+    "en": "Van’t Hoff equation",
+    "ak": "Van’t Hoff pɛyɛ asɛm"
+  }},
+  {"translation": {
+    "en": "Van’t Hoff isochore",
+    "ak": "Van’t Hoff kɛseyɛ"
+  }},
+  {"translation": {
+    "en": "Van’t Hoff isotherm",
+    "ak": "Van’t Hoff hama"
+  }},
+  {"translation": {
+    "en": "vanadium",
+    "ak": "vanadiɔm"
+  }},
+  {"translation": {
+    "en": "vapor",
+    "ak": "Ntutuo"
+  }},
+  {"translation": {
+    "en": "vapor",
+    "ak": "suwusiw"
+  }},
+  {"translation": {
+    "en": "vapor pressure",
+    "ak": "suwusiw tumi"
+  }},
+  {"translation": {
+    "en": "vapor pressure depression",
+    "ak": "suwusiw tumi ade mu"
+  }},
+  {"translation": {
+    "en": "variable",
+    "ak": "Nea etumi sesa"
+  }},
+  {"translation": {
+    "en": "variation",
+    "ak": "Emu nsesa"
+  }},
+  {"translation": {
+    "en": "variety",
+    "ak": "Ahodoɔ"
+  }},
+  {"translation": {
+    "en": "vascular system",
+    "ak": "Ntinintini nhyehyɛeɛ"
+  }},
+  {"translation": {
+    "en": "vascular tissue",
+    "ak": "Ntinintini a ɛwɔ abɔdeɛ mu"
+  }},
+  {"translation": {
+    "en": "vegetable",
+    "ak": "Atosodeɛ"
+  }},
+  {"translation": {
+    "en": "vehicle",
+    "ak": "Kaa"
+  }},
+  {"translation": {
+    "en": "vehicle",
+    "ak": "hyɛn"
+  }},
+  {"translation": {
+    "en": "vein",
+    "ak": "Ntini a ɛde mogya kɔ akoma mu"
+  }},
+  {"translation": {
+    "en": "velocity",
+    "ak": "Mmirika"
+  }},
+  {"translation": {
+    "en": "velocity",
+    "ak": "mmirika"
+  }},
+  {"translation": {
+    "en": "velocity of light",
+    "ak": "kanea mmirika"
+  }},
+  {"translation": {
+    "en": "vertebrate",
+    "ak": "Ɛwɔ akyi dompe"
+  }},
+  {"translation": {
+    "en": "vibrate",
+    "ak": "ɛwosow"
+  }},
+  {"translation": {
+    "en": "vicinal",
+    "ak": "fa mpɔtam bi ho"
+  }},
+  {"translation": {
+    "en": "vinegar",
+    "ak": "viniga"
+  }},
+  {"translation": {
+    "en": "vinyl",
+    "ak": "vinil"
+  }},
+  {"translation": {
+    "en": "vinyl chloride",
+    "ak": "vinil klɔraidi"
+  }},
+  {"translation": {
+    "en": "virus",
+    "ak": "Mmoawa ɛde yareɛ ba"
+  }},
+  {"translation": {
+    "en": "viscosity",
+    "ak": "pɛnpɛnso a emu api"
+  }},
+  {"translation": {
+    "en": "viscous liquid",
+    "ak": "nsu a emu api"
+  }},
+  {"translation": {
+    "en": "visible",
+    "ak": "Ani tumi hunu"
+  }},
+  {"translation": {
+    "en": "visible light",
+    "ak": "Kanea a ani tumi hunu"
+  }},
+  {"translation": {
+    "en": "vitamin",
+    "ak": "Nuane nnuro"
+  }},
+  {"translation": {
+    "en": "vitreous",
+    "ak": "ani mu nsu"
+  }},
+  {"translation": {
+    "en": "volatile",
+    "ak": "tumi sesasesa"
+  }},
+  {"translation": {
+    "en": "volatility",
+    "ak": "sɛnea ade tumi sesa"
+  }},
+  {"translation": {
+    "en": "volatilize",
+    "ak": "ma ade ntumi nsesa"
+  }},
+  {"translation": {
+    "en": "volcanic activity",
+    "ak": "Egya a efri bepɔ mu dwumadie"
+  }},
+  {"translation": {
+    "en": "volcano",
+    "ak": "Egya a efri bepɔ mu (bepɔ a apae)"
+  }},
+  {"translation": {
+    "en": "volt",
+    "ak": "anyinam mmirika tumi"
+  }},
+  {"translation": {
+    "en": "voltaic cell",
+    "ak": "batere a wontumi nsi n'ahoɔden ananmu"
+  }},
+  {"translation": {
+    "en": "voltmeter",
+    "ak": "Afidie a esusu nyinam ahoɔden mu tumi"
+  }},
+  {"translation": {
+    "en": "volume",
+    "ak": "Emu kɛseɛ"
+  }},
+  {"translation": {
+    "en": "volume",
+    "ak": "kɛseyɛ"
+  }},
+  {"translation": {
+    "en": "volume bottle",
+    "ak": "kɛseyɛ toa"
+  }},
+  {"translation": {
+    "en": "volumetric analysis",
+    "ak": "kɛseyɛ mu nhwehwɛmu"
+  }},
+  {"translation": {
+    "en": "volumetric flask",
+    "ak": "kɛseyɛ toa"
+  }},
+  {"translation": {
+    "en": "volumetric pipette",
+    "ak": "nhwehwɛmu toa"
+  }},
+  {"translation": {
+    "en": "vulcanization",
+    "ak": "sufre a wɔde ka rɔba"
+  }},
+  {"translation": {
+    "en": "warm",
+    "ak": "Dedɛɛdedɛɛ (boturobodwo)"
+  }},
+  {"translation": {
+    "en": "water",
+    "ak": "Nsuo"
+  }},
+  {"translation": {
+    "en": "water",
+    "ak": "nsu"
+  }},
+  {"translation": {
+    "en": "water cycle",
+    "ak": "Nsuo ntwaho (nsu kyinhyiadi)"
+  }},
+  {"translation": {
+    "en": "water gas",
+    "ak": "nsu mframa"
+  }},
+  {"translation": {
+    "en": "water glass",
+    "ak": "nsu abobɔde kuruwa"
+  }},
+  {"translation": {
+    "en": "water of crystallization",
+    "ak": "nsu a ɛma ade dan aboabo"
+  }},
+  {"translation": {
+    "en": "water pollution",
+    "ak": "nsu mu afiyɛ"
+  }},
+  {"translation": {
+    "en": "water softening",
+    "ak": "nsu a wɔma ne den brɛ ase"
+  }},
+  {"translation": {
+    "en": "water vapor",
+    "ak": "Ntutuo"
+  }},
+  {"translation": {
+    "en": "water vapor",
+    "ak": "suwusiw"
+  }},
+  {"translation": {
+    "en": "wave",
+    "ak": "anyinam"
+  }},
+  {"translation": {
+    "en": "wave length",
+    "ak": "anyinam mu tenten"
+  }},
+  {"translation": {
+    "en": "wave velocity",
+    "ak": "anyinam mmirika"
+  }},
+  {"translation": {
+    "en": "wavelength",
+    "ak": "Mframa teneten"
+  }},
+  {"translation": {
+    "en": "waxes",
+    "ak": "waks"
+  }},
+  {"translation": {
+    "en": "weak acid",
+    "ak": "asede a ano den wɔ fam"
+  }},
+  {"translation": {
+    "en": "weak base",
+    "ak": "besi a ano den wɔ fam"
+  }},
+  {"translation": {
+    "en": "weak electrolyte",
+    "ak": "nsu a anyinam ntumi mfa mu papa"
+  }},
+  {"translation": {
+    "en": "weather",
+    "ak": "Ewiem nhyehyɛeɛ"
+  }},
+  {"translation": {
+    "en": "weathering",
+    "ak": "Aboɔ mu nwenweɛ"
+  }},
+  {"translation": {
+    "en": "wedge",
+    "ak": "Adeɛ a wɔde fa nneɛma mmienu ntɛm"
+  }},
+  {"translation": {
+    "en": "weighing bottle",
+    "ak": "nkaritoa"
+  }},
+  {"translation": {
+    "en": "weight",
+    "ak": "Emu duro"
+  }},
+  {"translation": {
+    "en": "weight",
+    "ak": "ade mu duru"
+  }},
+  {"translation": {
+    "en": "wheel and axle",
+    "ak": "ntwaho ne ahoma afidie"
+  }},
+  {"translation": {
+    "en": "white blood cell",
+    "ak": "Mogya mu adeɛ a ɛko tia nyarewa"
+  }},
+  {"translation": {
+    "en": "wind",
+    "ak": "Mframa/ahum"
+  }},
+  {"translation": {
+    "en": "wind vane",
+    "ak": "Afidie a ɛkyerɛ baabi mframa ani hwɛ"
+  }},
+  {"translation": {
+    "en": "wire gauze",
+    "ak": "dadehama anwene"
+  }},
+  {"translation": {
+    "en": "wise",
+    "ak": "Nyansa"
+  }},
+  {"translation": {
+    "en": "wood alcohol",
+    "ak": "dua mu nsa"
+  }},
+  {"translation": {
+    "en": "work",
+    "ak": "Adwuma"
+  }},
+  {"translation": {
+    "en": "wrinkle",
+    "ak": "Aakntwam"
+  }},
+  {"translation": {
+    "en": "xenon",
+    "ak": "sɛnɔn mframa"
+  }},
+  {"translation": {
+    "en": "X-rays",
+    "ak": "Nhwɛmu"
+  }},
+  {"translation": {
+    "en": "xylene",
+    "ak": "sailin"
+  }},
+  {"translation": {
+    "en": "yeast",
+    "ak": "mmɔkaw"
+  }},
+  {"translation": {
+    "en": "ytterbium",
+    "ak": "itɛbiɔm"
+  }},
+  {"translation": {
+    "en": "yttrium",
+    "ak": "itriɔm"
+  }},
+  {"translation": {
+    "en": "zeolite",
+    "ak": "siolaiti"
+  }},
+  {"translation": {
+    "en": "zero group",
+    "ak": "hwee kuw"
+  }},
+  {"translation": {
+    "en": "zinc",
+    "ak": "sinki"
+  }},
+  {"translation": {
+    "en": "zirconium",
+    "ak": "sɛkoniɔm"
+  }},
+  {"translation": {
+    "en": "zone",
+    "ak": "Bea"
+  }},
+  {"translation": {
+    "en": "zone refining",
+    "ak": "beae foforoyɛ"
+  }},
+  {"translation": {
+    "en": "zygote",
+    "ak": "Kosua a ahane"
+  }}
+]

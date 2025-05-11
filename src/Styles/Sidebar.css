@@ -1,0 +1,374 @@
+/* Root variables and base styles are assumed to be imported from Dashboard.css */
+/* Core colors and variables */
+:root {
+    --primary: #4f46e5;
+    /* Indigo-600 */
+    --primary-dark: #4338ca;
+    /* Indigo-700 */
+    --primary-light: #c7d2fe;
+    /* Indigo-200 */
+    --primary-bg: #eef2ff;
+    /* Indigo-50 */
+    --primary-vibrant: #6366f1;
+    /* Indigo-500 - more vibrant */
+    --secondary: #10b981;
+    /* Emerald-500 */
+    --secondary-dark: #059669;
+    /* Emerald-600 */
+    --secondary-light: #a7f3d0;
+    /* Emerald-200 */
+    --text-dark: #1f2937;
+    /* Gray-800 */
+    --text-medium: #4b5563;
+    /* Gray-600 */
+    --text-light: #9ca3af;
+    /* Gray-400 */
+    --border-light: #e5e7eb;
+    /* Gray-200 */
+    --bg-white: #ffffff;
+    --bg-light: #f9fafb;
+    /* Gray-50 */
+    --danger: #ef4444;
+    /* Red-500 */
+    --danger-dark: #dc2626;
+    /* Red-600 */
+    --warning: #f59e0b;
+    /* Amber-500 */
+
+    /* Improved shadow variables with better depth perception */
+    --shadow-soft: 0 4px 6px -1px rgba(0, 0, 0, 0.08), 0 2px 4px -1px rgba(0, 0, 0, 0.04);
+    --shadow-medium: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    --shadow-large: 0 20px 25px -5px rgba(0, 0, 0, 0.12), 0 10px 10px -5px rgba(0, 0, 0, 0.06);
+    --shadow-inner: inset 0 2px 4px 0 rgba(0, 0, 0, 0.06);
+
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-bounce: all 0.4s cubic-bezier(0.68, -0.6, 0.32, 1.6);
+
+    /* Vibrant accent colors */
+    --accent-purple: #8b5cf6;
+    --accent-pink: #ec4899;
+    --accent-teal: #14b8a6;
+    --accent-orange: #f97316;
+    --accent-yellow: #fbbf24;
+
+    /* New glass morphism variables */
+    --glass-bg: rgba(255, 255, 255, 0.15);
+    --glass-border: rgba(255, 255, 255, 0.2);
+    --glass-blur: 10px;
+}
+
+/* Enhanced Sidebar with Modern Glass Morphism Theme - WIDER VERSION WITHOUT TOP COLOR BAR */
+.sidebar {
+    background: var(--primary-dark);
+    color: white;
+    box-shadow: var(--shadow-large);
+    border-radius: 1rem;
+    margin-right: 1.5rem;
+    position: sticky;
+    top: 1.5rem;
+    height: calc(100vh - 3rem);
+    transition: var(--transition-smooth);
+    overflow: hidden;
+    padding: 1.75rem 1.5rem;
+    /* Width increased */
+    width: 280px;
+    /* Increased from default */
+    min-width: 280px;
+    /* Added to ensure consistent width */
+    /* Enhanced gradient background with better color distribution */
+    background: linear-gradient(135deg, #3730a3 0%, #4f46e5 50%, #6366f1 100%);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    z-index: 10;
+    backdrop-filter: blur(var(--glass-blur));
+    -webkit-backdrop-filter: blur(var(--glass-blur));
+}
+
+/* Removed the :before pseudo-element with the colorful top border */
+
+/* New subtle pattern overlay for texture */
+.sidebar:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    pointer-events: none;
+    opacity: 0.4;
+    z-index: -1;
+}
+
+.sidebar-header {
+    margin-bottom: 2rem;
+    position: relative;
+    padding-bottom: 1.25rem;
+    color: white;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.sidebar-header:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 80px;
+    height: 3px;
+    background: linear-gradient(to right, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
+    border-radius: 3px;
+    box-shadow: 0 2px 10px rgba(255, 255, 255, 0.4);
+}
+
+/* Enhanced sidebar item styling */
+.sidebar-item {
+    padding: 0.85rem 1.2rem;
+    border-radius: 0.75rem;
+    margin: 0.8rem 0;
+    cursor: pointer;
+    transition: var(--transition-bounce);
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    color: rgba(255, 255, 255, 0.85);
+    position: relative;
+    overflow: hidden;
+    font-weight: 500;
+    letter-spacing: 0.3px;
+}
+
+.sidebar-item:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.12);
+    transition: var(--transition-smooth);
+    z-index: -1;
+    border-radius: 0.75rem;
+}
+
+.sidebar-item:hover {
+    transform: translateX(5px) scale(1.02);
+    color: white;
+}
+
+.sidebar-item:hover:after {
+    width: 100%;
+}
+
+.sidebar-item.active {
+    background-color: var(--glass-bg);
+    color: white;
+    font-weight: 600;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    border-left: 3px solid white;
+    transform: translateX(3px);
+}
+
+/* Improved custom sidebar item with modern effects */
+.sidebar-item-custom {
+    padding: 0.85rem 1.2rem;
+    border-radius: 0.75rem;
+    margin: 1rem 0;
+    cursor: pointer;
+    transition: var(--transition-bounce);
+    display: flex;
+    align-items: center;
+    gap: 0.85rem;
+    color: rgba(255, 255, 255, 0.85);
+    position: relative;
+    overflow: hidden;
+    backdrop-filter: blur(5px);
+    background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
+    width: 100%;
+    /* Ensure items take full width of wider sidebar */
+}
+
+.sidebar-item-custom:before {
+    content: '';
+    position: absolute;
+    left: -10px;
+    top: 0;
+    height: 100%;
+    width: 5px;
+    background: transparent;
+    border-radius: 0 3px 3px 0;
+    transition: var(--transition-smooth);
+}
+
+.sidebar-item-custom.active {
+    background-color: rgba(255, 255, 255, 0.25);
+    color: white;
+    font-weight: 600;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    transform: translateX(3px) scale(1.03);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.sidebar-item-custom.active:before {
+    left: 0;
+    background: linear-gradient(to bottom, var(--accent-yellow), var(--accent-orange));
+    box-shadow: 0 0 15px rgba(249, 115, 22, 0.6);
+}
+
+.sidebar-item-custom:hover {
+    transform: translateX(5px) scale(1.03);
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.12);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* Enhanced icon effects */
+.sidebar-item-custom svg {
+    transition: all 0.4s ease;
+    opacity: 0.9;
+}
+
+.sidebar-item-custom:hover svg {
+    filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.8));
+    transform: scale(1.15) rotate(5deg);
+    opacity: 1;
+}
+
+.sidebar-item-custom.active svg {
+    filter: drop-shadow(0 0 4px rgba(255, 255, 255, 0.7));
+    transform: scale(1.1);
+}
+
+/* New badge styling for notifications or status */
+.sidebar-item-badge {
+    background: var(--accent-pink);
+    color: white;
+    border-radius: 9999px;
+    padding: 0.15rem 0.5rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin-left: auto;
+    box-shadow: 0 0 10px rgba(236, 72, 153, 0.4);
+}
+
+/* Sidebar footer for additional content */
+.sidebar-footer {
+    margin-top: auto;
+    padding-top: 1.5rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    font-size: 0.875rem;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+/* Responsive adjustments with smooth mobile transitions */
+@media (max-width: 768px) {
+    .sidebar {
+        position: fixed;
+        left: 0;
+        top: 0;
+        height: 100vh;
+        width: 85%;
+        max-width: 320px;
+        /* Increased from 300px */
+        z-index: 999;
+        margin-right: 0;
+        transform: translateX(-100%);
+        border-radius: 0 1rem 1rem 0;
+        transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    }
+
+    .sidebar.active {
+        transform: translateX(0);
+        box-shadow: 10px 0 30px rgba(0, 0, 0, 0.2);
+    }
+
+    /* Mobile sidebar toggle button */
+    .sidebar-toggle {
+        position: fixed;
+        bottom: 1.5rem;
+        right: 1.5rem;
+        width: 3.5rem;
+        height: 3.5rem;
+        border-radius: 50%;
+        background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary-vibrant) 100%);
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: var(--shadow-large);
+        z-index: 1000;
+        cursor: pointer;
+        transition: var(--transition-smooth);
+        border: none;
+    }
+
+    .sidebar-toggle:active {
+        transform: scale(0.95);
+    }
+
+    /* Overlay for mobile when sidebar is active */
+    .sidebar-overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.5);
+        backdrop-filter: blur(3px);
+        z-index: 998;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.3s ease;
+    }
+
+    .sidebar-overlay.active {
+        opacity: 1;
+        pointer-events: auto;
+    }
+}
+
+/* Dark mode adjustments */
+@media (prefers-color-scheme: dark) {
+    .sidebar {
+        background: linear-gradient(135deg, #2d2b8f 0%, #4338ca 50%, #5b53ef 100%);
+        border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .sidebar-item-custom {
+        background: rgba(255, 255, 255, 0.1);
+    }
+
+    .sidebar-overlay {
+        background: rgba(0, 0, 0, 0.7);
+    }
+}
+/* Add this to your Sidebar.css file */
+.sidebar-container {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.content-area {
+    flex: 1;
+    overflow-y: auto;
+    padding: 1.5rem;
+    background-color: var(--bg-light);
+}
+
+/* Fix the sidebar height and position */
+.sidebar {
+    height: 100vh;
+    margin-right: 0;
+    position: relative;
+    top: 0;
+    border-radius: 0;
+}

@@ -1,0 +1,418 @@
+/* Authentication styles (for ../../Styles/Authentication.css) */
+
+/* Container for authentication pages */
+.auth-container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 1rem;
+    background: linear-gradient(135deg, #f0f5ff 0%, #e6effe 100%);
+}
+
+/* Common styles for both login and signup */
+.login-card,
+.signup-card {
+    width: 100%;
+    max-width: 32rem;
+    background: white;
+    border-radius: 1rem;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    padding: 2.5rem;
+    transition: all 0.3s ease;
+    border: 1px solid rgba(226, 232, 240, 0.8);
+    position: relative;
+    overflow: hidden;
+}
+
+.login-card:before,
+.signup-card:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: linear-gradient(90deg, #6366f1 0%, #8b5cf6 100%);
+}
+
+.login-header,
+.signup-header {
+    text-align: center;
+    margin-bottom: 2.5rem;
+    position: relative;
+}
+
+.login-header h2,
+.signup-header h2 {
+    color: #4338ca;
+    font-size: 1.875rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+.login-header:after,
+.signup-header:after {
+    content: '';
+    position: absolute;
+    bottom: -12px;
+    left: 50%;
+    width: 60px;
+    height: 3px;
+    background: #a5b4fc;
+    transform: translateX(-50%);
+    border-radius: 3px;
+}
+
+/* Form group with proper spacing */
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+/* Label styling with proper spacing */
+label {
+    display: block;
+    font-weight: 500;
+    color: #4b5563;
+    margin-bottom: 0.75rem;
+}
+
+/* Form fields */
+input,
+select {
+    width: 100%;
+    padding: 0.875rem 1rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 0.5rem;
+    transition: all 0.3s ease;
+    font-size: 1rem;
+    background-color: #fff;
+    margin-bottom: 0.25rem;
+}
+
+input:focus,
+select:focus {
+    outline: none;
+    border-color: #6366f1;
+    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.15);
+}
+
+input:hover,
+select:hover {
+    border-color: #cbd5e1;
+}
+
+/* Checkbox style overrides */
+input[type="checkbox"] {
+    width: auto;
+    margin-right: 0.5rem;
+    cursor: pointer;
+}
+
+.checkbox-label {
+    display: inline-block;
+    margin-bottom: 0;
+    cursor: pointer;
+}
+
+/* Form options row (remember me + forgot password) */
+.form-options {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    margin-top: -0.5rem;
+}
+
+.remember-me {
+    display: flex;
+    align-items: center;
+}
+
+/* Error styling for inputs */
+input.error,
+select.error {
+    border-color: #ef4444;
+    background-color: #fef2f2;
+}
+
+input.error:focus,
+select.error:focus {
+    box-shadow: 0 0 0 3px rgba(239, 68, 68, 0.15);
+}
+
+/* Field error messages */
+.field-error {
+    color: #ef4444;
+    font-size: 0.875rem;
+    margin-top: 0.25rem;
+    margin-bottom: 0.75rem;
+    animation: fadeIn 0.3s ease-in-out;
+}
+
+/* "Forgot password" styling */
+.forgot-password {
+    display: block;
+    text-align: right;
+    font-size: 0.875rem;
+    color: #6366f1;
+    text-decoration: none;
+}
+
+.forgot-password:hover {
+    text-decoration: underline;
+}
+
+/* Enhanced button with animation */
+.form-btn {
+    width: 100%;
+    padding: 0.9375rem 1.5rem;
+    background: linear-gradient(90deg, #6366f1 0%, #8b5cf6 100%);
+    color: white;
+    border-radius: 0.5rem;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    border: none;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 4px 14px rgba(99, 102, 241, 0.4);
+    font-size: 1.0625rem;
+    margin-top: 1rem;
+}
+
+.form-btn:hover:not(:disabled) {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(99, 102, 241, 0.5);
+}
+
+.form-btn:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    transition: all 0.5s ease;
+}
+
+.form-btn:hover:before {
+    width: 300%;
+    height: 300%;
+}
+
+.form-btn:disabled {
+    background: #a5b4fc;
+    cursor: not-allowed;
+}
+
+/* Error message styling */
+.error-message {
+    background-color: #fef2f2;
+    border-left: 4px solid #ef4444;
+    color: #b91c1c;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin-bottom: 1.5rem;
+    animation: shake 0.5s ease-in-out;
+}
+
+/* Switch to signup/login area styling */
+.switch-form-container {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #e5e7eb;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.switch-form-container p {
+    color: #4b5563;
+    margin: 0;
+}
+
+.switch-form-btn {
+    color: #6366f1;
+    font-weight: 500;
+    border: 1px solid #6366f1;
+    background: transparent;
+    padding: 0.5rem 1rem;
+    border-radius: 0.375rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.switch-form-btn:hover {
+    background-color: rgba(99, 102, 241, 0.1);
+    text-decoration: underline;
+}
+
+@keyframes shake {
+
+    0%,
+    100% {
+        transform: translateX(0);
+    }
+
+    20%,
+    60% {
+        transform: translateX(-5px);
+    }
+
+    40%,
+    80% {
+        transform: translateX(5px);
+    }
+}
+
+/* Responsive styling */
+@media (max-width: 640px) {
+
+    .login-card,
+    .signup-card {
+        padding: 1.5rem;
+        border-radius: 0.75rem;
+        max-width: 90%;
+    }
+
+    .form-options {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.75rem;
+    }
+
+    .forgot-password {
+        text-align: left;
+    }
+}
+
+/* Animation for page transitions */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.login-card,
+.signup-card {
+    animation: fadeIn 0.4s ease-out;
+}
+
+/* Form layout with proper horizontal alignment for side-by-side elements */
+.form-row {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.form-col {
+    flex: 1;
+}
+
+/* Better responsive behavior for form rows */
+@media (max-width: 480px) {
+    .form-row {
+        flex-direction: column;
+        gap: 0;
+    }
+}
+
+/* Focus outline and accessibility styles */
+button:focus,
+a:focus,
+input:focus,
+select:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.3);
+}
+
+/* Improved placeholder text */
+::placeholder {
+    color: #94a3b8;
+    opacity: 1;
+}
+
+.social-btn {
+    width: 100%;
+    padding: 12px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.google-btn {
+    background-color:#6366f1;
+    color: white;
+    border: 1px solid #ddd;
+}
+
+.google-btn:hover {
+    background-color: #4338ca;
+}
+
+.phone-btn {
+    background-color: #6366f1;
+    color: white;
+    border: none;
+}
+
+.phone-btn:hover {
+    background-color: #3367D6;
+}
+
+.divider {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.divider span {
+    padding: 0 10px;
+    color: #777;
+    background-color: white;
+}
+
+.divider::before,
+.divider::after {
+    content: "";
+    flex: 1;
+    border-bottom: 1px solid #ddd;
+}
+
+.link-btn {
+    background: none;
+    border: none;
+    color: #4a6cf7;
+    text-decoration: underline;
+    cursor: pointer;
+    padding: 0;
+    font-size: 14px;
+}
+
+.forgot-password {
+    text-align: right;
+    margin-bottom: 15px;
+}
+
+.recaptcha-container {
+    margin: 15px 0;
+    display: flex;
+    justify-content: center;
+}
