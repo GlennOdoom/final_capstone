@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useAuth } from "../../Contexts/AuthenticationContext";
 import { useNavigate, useParams } from "react-router-dom";
-import Swal from "sweetalert2"; // Import SweetAlert2
+import Swal from "sweetalert2";
 import {
   getAllForumPosts,
   getCourseForumPosts,
@@ -56,9 +56,8 @@ const ForumPage: React.FC = () => {
   const [canReply, setCanReply] = useState(false);
   const [userRole, setUserRole] = useState<string | null>(null);
   const [postSubmitting, setPostSubmitting] = useState(false);
-  const [userCheckPending, setUserCheckPending] = useState(true); // Add state to track user check
+  const [userCheckPending, setUserCheckPending] = useState(true);
 
-  // Track expanded posts and their replies
   const [expandedPosts, setExpandedPosts] = useState<Record<string, boolean>>(
     {}
   );
@@ -89,8 +88,6 @@ const ForumPage: React.FC = () => {
           const hasReplyPermission = await canUserReply(currentUser.uid);
           console.log("Permission check result:", hasReplyPermission);
           setCanReply(hasReplyPermission);
-
-          // Store user role for contextual messages
           setUserRole(currentUser.role || null);
         } else {
           console.log("No current user, setting canReply to false");
@@ -99,7 +96,6 @@ const ForumPage: React.FC = () => {
         }
       } catch (error) {
         console.error("Error checking user permissions:", error);
-        // For development: enable reply functionality even if permission check fails
         if (process.env.NODE_ENV === "development") {
           console.warn(
             "DEV MODE: Enabling reply functionality despite permission check error"
@@ -125,13 +121,10 @@ const ForumPage: React.FC = () => {
       let fetchedPosts: ForumPost[] = [];
 
       if (courseId) {
-        // Course-specific posts
         fetchedPosts = await getCourseForumPosts(courseId);
       } else if (lessonId) {
-        // Lesson-specific posts
         fetchedPosts = await getLessonForumPosts(lessonId);
       } else {
-        // Apply filters for general forum browsing
         switch (currentFilter) {
           case ForumFilterType.MY_COURSES:
             if (
@@ -144,15 +137,12 @@ const ForumPage: React.FC = () => {
               );
             }
             break;
-
           case ForumFilterType.MY_POSTS:
             fetchedPosts = await getUserPosts(currentUser.uid);
             break;
-
           case ForumFilterType.MOST_ACTIVE:
             fetchedPosts = await getMostActiveDiscussions(10);
             break;
-
           case ForumFilterType.ALL:
           default:
             fetchedPosts = await getAllForumPosts();
@@ -161,8 +151,6 @@ const ForumPage: React.FC = () => {
       }
 
       setPosts(fetchedPosts);
-
-      // Reset expanded states when posts change
       setExpandedPosts({});
       setPostReplies({});
       setReplyContents({});
@@ -178,19 +166,13 @@ const ForumPage: React.FC = () => {
     const postId = post.id!;
     const isCurrentlyExpanded = expandedPosts[postId] || false;
 
-    // Toggle expansion state
-    setExpandedPosts((prev) => ({
-      ...prev,
-      [postId]: !isCurrentlyExpanded,
-    }));
+    setExpandedPosts((prev) => ({ ...prev, [postId]: !isCurrentlyExpanded }));
 
     if (!isCurrentlyExpanded) {
-      // Check permissions before expanding if the user is a student
       if (currentUser && userRole === "student" && !canReply) {
         showPermissionAlert();
       }
 
-      // If we're expanding and don't have replies yet, fetch them
       if (!postReplies[postId] || postReplies[postId].length === 0) {
         await fetchRepliesForPost(post);
       }
@@ -209,17 +191,10 @@ const ForumPage: React.FC = () => {
       const replies = await getPostReplies(postId);
       console.log(`Received ${replies.length} replies for post ${postId}`);
 
-      setPostReplies((prev) => ({
-        ...prev,
-        [postId]: replies,
-      }));
+      setPostReplies((prev) => ({ ...prev, [postId]: replies }));
 
-      // Initialize reply content for this post if not already done
       if (!replyContents[postId]) {
-        setReplyContents((prev) => ({
-          ...prev,
-          [postId]: "",
-        }));
+        setReplyContents((prev) => ({ ...prev, [postId]: "" }));
       }
     } catch (error) {
       console.error(`Error fetching replies for post ${postId}:`, error);
@@ -228,7 +203,6 @@ const ForumPage: React.FC = () => {
     }
   };
 
-  // Show SweetAlert for permission issues
   const showPermissionAlert = () => {
     Swal.fire({
       title: "Students Cannot Reply",
@@ -236,16 +210,11 @@ const ForumPage: React.FC = () => {
       icon: "info",
       confirmButtonText: "I Understand",
       confirmButtonColor: "#3085d6",
-      showClass: {
-        popup: "animate__animated animate__fadeInDown",
-      },
-      hideClass: {
-        popup: "animate__animated animate__fadeOutUp",
-      },
+      showClass: { popup: "animate__animated animate__fadeInDown" },
+      hideClass: { popup: "animate__animated animate__fadeOutUp" },
     });
   };
 
-  // Function to handle attempt to reply when not permitted
   const handleReplyAttempt = (e: React.MouseEvent) => {
     e.preventDefault();
     showPermissionAlert();
@@ -270,7 +239,6 @@ const ForumPage: React.FC = () => {
         authorName: currentUser.name || "Anonymous",
       };
 
-      // Add courseId and lessonId only if they exist
       if (courseId) {
         Object.assign(postData, { courseId });
       }
@@ -280,24 +248,19 @@ const ForumPage: React.FC = () => {
 
       const newPost = await createForumPost(postData);
 
-      // Reset form
       setNewPostTitle("");
       setNewPostContent("");
       setShowNewPostForm(false);
 
-      // Add new post to list with proper timestamp handling
       setPosts((prevPosts) => {
-        // Create a copy with a proper timestamp for immediate display
         const postWithTimestamp = {
           ...(newPost as ForumPost),
-          // If serverTimestamp hasn't resolved yet, use current date
           createdAt: newPost.createdAt || new Date(),
           updatedAt: newPost.updatedAt || new Date(),
         };
         return [postWithTimestamp, ...prevPosts];
       });
 
-      // Show success message
       Swal.fire({
         title: "Posted!",
         text: "Your discussion has been posted successfully.",
@@ -306,7 +269,6 @@ const ForumPage: React.FC = () => {
         showConfirmButton: false,
       });
 
-      // Optionally refresh posts to get the server-generated timestamp
       fetchPosts();
     } catch (error) {
       console.error("Error creating post:", error);
@@ -327,7 +289,6 @@ const ForumPage: React.FC = () => {
     if (!currentUser || !replyContents[postId]) return;
     if (replySubmitting[postId]) return;
 
-    // Double check permissions before submitting
     if (!canReply) {
       showPermissionAlert();
       return;
@@ -345,19 +306,13 @@ const ForumPage: React.FC = () => {
 
       const newReply = await createPostReply(replyData);
 
-      // Reset form
-      setReplyContents((prev) => ({
-        ...prev,
-        [postId]: "",
-      }));
+      setReplyContents((prev) => ({ ...prev, [postId]: "" }));
 
-      // Update replies list for this post
       setPostReplies((prev) => ({
         ...prev,
         [postId]: [...(prev[postId] || []), newReply as PostReply],
       }));
 
-      // Update post's reply count in the list
       setPosts((prevPosts) =>
         prevPosts.map((post) =>
           post.id === postId
@@ -366,7 +321,6 @@ const ForumPage: React.FC = () => {
         )
       );
 
-      // Show discreet success message
       Swal.fire({
         position: "bottom-end",
         icon: "success",
@@ -413,27 +367,20 @@ const ForumPage: React.FC = () => {
     return "Just now";
   };
 
-  // Handle filter change
   const handleFilterChange = (filter: ForumFilterType) => {
     setCurrentFilter(filter);
   };
 
-  // Update reply content for a specific post
   const handleReplyContentChange = (postId: string, content: string) => {
-    setReplyContents((prev) => ({
-      ...prev,
-      [postId]: content,
-    }));
+    setReplyContents((prev) => ({ ...prev, [postId]: content }));
   };
 
-  // Get page title based on context
   const getPageTitle = () => {
     if (courseId) return "Course Discussion Forum";
     if (lessonId) return "Lesson Discussion Forum";
     return "Learning Community Forum";
   };
 
-  // Check if we should show the new post button
   const shouldShowNewPostButton = () => {
     return currentUser && !userCheckPending;
   };
@@ -442,8 +389,6 @@ const ForumPage: React.FC = () => {
     <div className="forum-container">
       <div className="forum-header">
         <h1>{getPageTitle()}</h1>
-
-        {/* Show refresh button */}
         <button
           className="refresh-button"
           onClick={() => fetchPosts()}
@@ -454,7 +399,6 @@ const ForumPage: React.FC = () => {
         </button>
       </div>
 
-      {/* Filter options */}
       {!courseId && !lessonId && (
         <div className="forum-filters">
           <h3>
@@ -495,7 +439,6 @@ const ForumPage: React.FC = () => {
         </div>
       )}
 
-      {/* New Post Button */}
       {shouldShowNewPostButton() && (
         <div className="new-post-container">
           <button
@@ -507,7 +450,6 @@ const ForumPage: React.FC = () => {
         </div>
       )}
 
-      {/* Student permission notice */}
       {currentUser && userRole === "student" && !canReply && (
         <div className="permission-notice">
           <AlertTriangle size={16} />
@@ -518,7 +460,6 @@ const ForumPage: React.FC = () => {
         </div>
       )}
 
-      {/* New Post Form */}
       {showNewPostForm && (
         <div className="new-post-form-container">
           <form onSubmit={handleSubmitPost} className="new-post-form">
@@ -560,7 +501,6 @@ const ForumPage: React.FC = () => {
         </div>
       )}
 
-      {/* Login prompt if not authenticated */}
       {!currentUser && (
         <div className="login-prompt">
           <p>
@@ -570,7 +510,6 @@ const ForumPage: React.FC = () => {
         </div>
       )}
 
-      {/* Error message */}
       {fetchError && (
         <div className="error-message">
           <p>{fetchError}</p>
@@ -578,21 +517,18 @@ const ForumPage: React.FC = () => {
         </div>
       )}
 
-      {/* Loading indicator */}
       {loading && (
         <div className="loading-indicator">
           <p>Loading discussions...</p>
         </div>
       )}
 
-      {/* No posts message */}
       {!loading && posts.length === 0 && (
         <div className="no-posts-message">
           <p>No discussions found. Be the first to start a conversation!</p>
         </div>
       )}
 
-      {/* Posts List */}
       <div className="posts-list">
         {posts.map((post) => (
           <div key={post.id} className="post-item">
@@ -633,15 +569,12 @@ const ForumPage: React.FC = () => {
               </button>
             </div>
 
-            {/* Replies Section */}
             {expandedPosts[post.id!] && (
               <div className="post-replies-section">
-                {/* Loading replies indicator */}
                 {loadingReplies[post.id!] && (
                   <div className="loading-replies">Loading replies...</div>
                 )}
 
-                {/* Replies list */}
                 <div className="replies-list">
                   {postReplies[post.id!]?.length > 0
                     ? postReplies[post.id!].map((reply) => (
@@ -669,7 +602,6 @@ const ForumPage: React.FC = () => {
                       )}
                 </div>
 
-                {/* Reply form - ONLY show for those with permission */}
                 {canReply && !userCheckPending ? (
                   <form
                     className="reply-form"

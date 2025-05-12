@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import Swal from "sweetalert2";
 import { useAuth } from "../../Contexts/AuthenticationContext";
 import {
   getCourseLessons,
@@ -292,7 +293,12 @@ const LessonManagement: React.FC<LessonManagementProps> = ({
     e.preventDefault();
 
     if (!currentUser) {
-      alert("You must be logged in to manage lessons");
+      Swal.fire({
+        icon: "warning",
+        title: "Authentication Required",
+        text: "You must be logged in to manage lessons",
+        confirmButtonColor: "#3085d6",
+      });
       return;
     }
 
@@ -304,17 +310,32 @@ const LessonManagement: React.FC<LessonManagementProps> = ({
           const quiz = contentItem.quiz || createDefaultQuiz();
 
           if (!quiz.question.trim()) {
-            alert("Quiz questions cannot be empty");
+            Swal.fire({
+              icon: "warning",
+              title: "Validation Error",
+              text: "Quiz questions cannot be empty",
+              confirmButtonColor: "#3085d6",
+            });
             return;
           }
 
           if (!quiz.options.every((option) => option.trim())) {
-            alert("Quiz options cannot be empty");
+            Swal.fire({
+              icon: "warning",
+              title: "Validation Error",
+              text: "Quiz options cannot be empty",
+              confirmButtonColor: "#3085d6",
+            });
             return;
           }
 
           if (!quiz.correctAnswer) {
-            alert("Each quiz must have a correct answer selected");
+            Swal.fire({
+              icon: "warning",
+              title: "Validation Error",
+              text: "Each quiz must have a correct answer selected",
+              confirmButtonColor: "#3085d6",
+            });
             return;
           }
         }
@@ -341,7 +362,12 @@ const LessonManagement: React.FC<LessonManagementProps> = ({
           durationMinutes: formData.durationMinutes,
           videoUrl: formData.videoUrl,
         });
-        alert("Lesson updated successfully!");
+        Swal.fire({
+          icon: "success",
+          title: "Success",
+          text: "Lesson updated successfully!",
+          confirmButtonColor: "#3085d6",
+        });
       } else {
         // Create new lesson using service function
         await createLesson({
@@ -354,34 +380,60 @@ const LessonManagement: React.FC<LessonManagementProps> = ({
           videoUrl: formData.videoUrl,
           completedBy: [],
         });
-        alert("Lesson created successfully!");
+        Swal.fire({
+          icon: "success",
+          title: "Success",
+          text: "Lesson created successfully!",
+          confirmButtonColor: "#3085d6",
+        });
       }
 
       setIsFormOpen(false);
       fetchLessons(); // Refresh the list
     } catch (error) {
       console.error("Error saving lesson:", error);
-      alert("Failed to save lesson. Please try again.");
+      Swal.fire({
+        icon: "error",
+        title: "Error",
+        text: "Failed to save lesson. Please try again.",
+        confirmButtonColor: "#3085d6",
+      });
     }
   };
 
   const handleDeleteLesson = async (lessonId: string) => {
-    if (
-      !window.confirm(
-        "Are you sure you want to delete this lesson? This action cannot be undone."
-      )
-    ) {
+    const result = await Swal.fire({
+      icon: "warning",
+      title: "Are you sure?",
+      text: "Are you sure you want to delete this lesson? This action cannot be undone.",
+      showCancelButton: true,
+      confirmButtonColor: "#d33",
+      cancelButtonColor: "#3085d6",
+      confirmButtonText: "Yes, delete it!",
+    });
+
+    if (!result.isConfirmed) {
       return;
     }
 
     try {
       // Use service function to delete the lesson
       await deleteLesson(lessonId);
-      alert("Lesson has been deleted");
+      Swal.fire({
+        icon: "success",
+        title: "Deleted!",
+        text: "Lesson has been deleted",
+        confirmButtonColor: "#3085d6",
+      });
       fetchLessons(); // Refresh the list
     } catch (error) {
       console.error("Error deleting lesson:", error);
-      alert("Failed to delete lesson. Please try again.");
+      Swal.fire({
+        icon: "error",
+        title: "Error",
+        text: "Failed to delete lesson. Please try again.",
+        confirmButtonColor: "#3085d6",
+      });
     }
   };
 
@@ -484,9 +536,12 @@ const LessonManagement: React.FC<LessonManagementProps> = ({
                   className="w-full h-96 rounded"
                   onError={(e) => {
                     console.error("Video failed to load:", e);
-                    alert(
-                      "Video could not be loaded. Please check the URL and try again."
-                    );
+                    Swal.fire({
+                      icon: "error",
+                      title: "Video Error",
+                      text: "Video could not be loaded. Please check the URL and try again.",
+                      confirmButtonColor: "#3085d6",
+                    });
                   }}
                 >
                   Your browser does not support the video tag.
