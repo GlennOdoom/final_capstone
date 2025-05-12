@@ -1,20 +1,25 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 const TranslatorComponent = () => {
   const [showIframe, setShowIframe] = useState(true);
-  const gradioUrl = "https://0122b6751a5286e563.gradio.live/";
+  const gradioUrl = "https://62c98ef7e956609c14.gradio.live";
 
   const toggleInterface = () => {
     setShowIframe(!showIframe);
   };
 
-  return (
-    <div className="w-full p-4 border rounded-lg shadow-md bg-white">
-      <h2 className="text-2xl font-bold mb-4 text-center">
-        English to Twi Translator
-      </h2>
+  useEffect(() => {
+    document.body.style.overflow = showIframe ? "hidden" : "auto";
+    return () => {
+      document.body.style.overflow = "auto";
+    };
+  }, [showIframe]);
 
-      <div className="mb-4 text-right">
+  return (
+    <div className="fixed inset-0 z-0">
+      {/* Top Bar */}
+      <div className="absolute top-0 left-0 right-0 z-10 bg-white p-4 shadow-md flex justify-between items-center">
+        <h2 className="text-xl font-bold">English to Twi Translator</h2>
         <button
           onClick={toggleInterface}
           className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
@@ -23,22 +28,14 @@ const TranslatorComponent = () => {
         </button>
       </div>
 
+      {/* Fullscreen Iframe */}
       {showIframe && (
-        <div className="mb-4">
-          <iframe
-            src={gradioUrl}
-            className="w-full h-[90vh] border rounded-md"
-            title="English to Twi Translator"
-          ></iframe>
-          <div className="p-2 bg-gray-50 text-sm text-gray-600 text-center">
-            This is the direct interface to the Gradio translation application.
-          </div>
-        </div>
+        <iframe
+          src={gradioUrl}
+          className="absolute top-16 left-0 w-full h-[calc(100vh-4rem)] border-none"
+          title="English to Twi Translator"
+        ></iframe>
       )}
-
-      <div className="mt-6 text-xs text-gray-500 text-center">
-        Translation service powered by Hugging Face Gradio API.
-      </div>
     </div>
   );
 };
