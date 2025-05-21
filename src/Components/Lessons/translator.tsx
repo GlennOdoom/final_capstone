@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 
 const TranslatorComponent = () => {
   const [showIframe, setShowIframe] = useState(true);
-  const gradioUrl = "https://780dcb8ddf3fc2e2be.gradio.live";
+  const gradioUrl = "https://fcdaf54fc86ac0df70.gradio.live/";
 
   const toggleInterface = () => {
     setShowIframe(!showIframe);
